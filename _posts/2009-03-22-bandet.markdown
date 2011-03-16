@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 345
+layout: post
+title: Bandet
+excerpt: "Expressen hade en d\xC3\xA5lig kr\xC3\xB6nika idag av en k\xC3\xA4nd f\xC3\xB6rfattare som handlade om ett band som enligt artikelf\xC3\xB6rfattaren drabbades h\xC3\xA5rt av fildelning och ville ha IPRED-lagen. Jag ska h\xC3\xA5lla mig fr\xC3\xA5n att kommentera l\xC3\xB6sningsf\xC3\xB6rslagen eller klagos\xC3\xA5ngen \xC3\xB6ver tillst\xC3\xA5ndet hos skivbutiker och musikbevakning i traditionell media. Ej heller att IPRED-lagen skulle l\xC3\xB6sa allt detta. D\xC3\xA4remot kunde jag inte h\xC3\xA5lla mig fr\xC3\xA5n att rita upp situationen p\xC3\xA5 min whiteboard och kommentera den."
+date: 2009-03-22 18:14:10 +01:00
+wordpress_url: http://www.blay.se/?p=345
+---
+Expressen hade en dålig krönika idag av en känd författare som handlade om ett band som enligt artikelförfattaren drabbades hårt av fildelning och ville ha IPRED-lagen.
+<ul>
+	<li>Situationen är säkert bekant för många musiker idag:</li>
+	<li>Band säljer skivor till få, men fildelar till många.</li>
+	<li>Klagar också på att pressen skriver för lite om deras musik.</li>
+</ul>
+Jag ska hålla mig från att kommentera lösningsförslagen eller klagosången över tillståndet hos skivbutiker och musikbevakning i traditionell media. Ej heller att IPRED-lagen skulle lösa allt detta. Däremot kunde jag inte hålla mig från att rita upp situationen på min whiteboard och kommentera den.
+
+<img class="alignleft size-full wp-image-346" title="whiteband" src="http://www.blay.se/wp-content/uploads/2009/03/whiteband.jpg" alt="whiteband" width="483" height="445" />Här ser vi tydligt vad som sker:
+<ul>
+	<li>Ett fyrkantigt band säljer ett fåtal skivor till den lilla gruppen till vänster.</li>
+	<li>En stor grupp människor laddar ner utan att köpa skivan.</li>
+	<li>Pyramidmedia skriver inte om bandet.</li>
+</ul>
+Sett så här ter sig bandets strategi - att straffa ut den stora gruppen och hoppas på att de ska bli så skraja att de köper bandets skiva - tämligen absurd. Vad bandet vet är att de har en grupp som är 300 gånger så stor som antalet skivförsäljningar och de vet att de i varje fall har något slags intresse för gruppen eftersom de har fildelat, men mer vet de inte. Bandet kommunicerar också enbart med dem via tidningar, där det inte skrivs något och tv, där de har uppträtt en gång. Utöver detta vet de inget som gruppen som är 300 gånger större än den skivköpande gruppen och som har visat intresse för bandet.
+
+Första steget blir då att ta reda på mer om den stora gruppen. <a href="http://opassande.se/index.php/2009/03/22/star-skogen-ivagen-for-alla-trad/">Direktkommunikation</a> är inga problem med dagens kommunikationsteknologi. Låt oss ta en hypotetisk situation där bandet faktiskt skulle kunna kommunicera med hela gruppen. Vad skulle de säga?
+
+Min gissning är följande:
+<ul>
+	<li>Röd grupp:
+Laddade ner, lyssnade, gillade inte, slängde filerna eller spelar dem aldrig. Den här gruppen har bandet inte mycket nytta av, så är det, man kan inte tilltala alla. IPRED skulle aldrig göra skivköpare av dessa heller, för kom ihåg att bandet inte fick så mycket utrymme i (varken digitala eller analoga) medier vilket gör det mindre troligt att de skulle chansat på att köpa en skiva (istället satsa på något de visste att de skulle bli nöjda med).</li>
+	<li>Grön grupp:
+Mja-gruppen. Tyckte bandet var ok, lyssnar ibland, kanske bara på någon enstaka låt, men blev inga större fans. Har troligtvis massvis av band i mp3-arkivet som de lyssnar på ibland men inte ger en spänn till. De läggs istället på ett mindre antal artister som de känner starkt för och har en stark relation till. Dit går alla pengar, resten lyssnar de på, men slänger inga pengar till. Bandet har trots allt nytta av mja-gruppen eftersom de inte innebär någon kostnad, men ändå potentiellt kan sprida musiken till andra. Arrangörer vet också att de kanske kan locka den här gruppen till festivaler och spelningar om de bokar bandet. Producenterna bakom O.C. funderar att ha med den där låten i ett avsnitt av nästa säsong. Kanske laddar mja-gruppen även ner nästa skiva och gillar den ännu mer. IPRED kommer inte göra den här gruppen till skivköpare heller.</li>
+	<li>Blå grupp:
+Så har vi då Ja-gruppen. De laddade ner och tycker nu mycket om. Ändå köpte alla av dem inte skivan. De kanske inte gillar cd-skivor eller lägger hellre pengar på annat än digital information. Den här gruppen är det jätteviktigt att få bra kontakt med och etablera en relation till. Det är det största misstaget bandet gjort hittills när de bara kommunicerat via media och sett fildelning som en förlust. Vad vill de här människorna? Hur vill de fördjupa och bekräfta sin relation till bandet? Det är den här gruppen som går på spelningar, som lockas till festivaler av att bandet ska spela där och som <a href="http://techdirt.com/articles/20090201/1408273588.shtml">NIN säljer</a> limiterade boxar för 3000 spänn till. Det är här nya spännande relationer och gemenskaper kring musik kan uppstå. IPRED kanske skulle göra en del av den här gruppen till skivköpare, om de ens skulle hört talas om bandet utan fildelning. Men till vilket pris? De är ändå villiga att betala om de bara får rätt erbjudande trots att de har fildelat. Vissa skulle till och med kunna lägga mer än vad en skiva kostar och dessutom kan Ja-gruppen kan bara öka i antal av fildelning.</li>
+</ul>
+Så, bandet, vad ska ni med IPRED till egentligen?

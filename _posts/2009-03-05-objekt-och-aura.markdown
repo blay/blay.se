@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 261
+layout: post
+title: Objekt och aura
+excerpt: "Det h\xC3\xA4r inl\xC3\xA4gget tar upp f\xC3\xB6rra inl\xC3\xA4ggets funderingar kring objekt.\n\n\
+  Hur relaterar fr\xC3\xA5gan om post-digitala objekt till Benjamins ber\xC3\xB6mda ess\xC3\xA4 om auran? Relationen mellan avst\xC3\xA5nd och n\xC3\xA4rhet i relation till Benjamins aura diskuteras av Bruno Latour i boken \xE2\x80\x9DMapping Benjamin\xE2\x80\x9D."
+date: 2009-03-05 20:13:43 +01:00
+wordpress_url: http://www.blay.se/?p=261
+---
+Det här inlägget tar upp <a href="http://www.blay.se/2009/02/28/disney-nazism-och-beroring-i-salzburg/">förra inläggets</a> funderingar kring objekt.
+
+Hur relaterar frågan om post-digitala objekt till Benjamins <a href="http://www.google.se/search?q=konstverket+i+den+tekniska+reproduktionens+tids%C3%A5lder">berömda essä om auran</a>? Relationen mellan avstånd och närhet i relation till Benjamins aura diskuteras av Bruno Latour i boken ”<a href="http://www.google.se/search?q=Mapping+Benjamin">Mapping Benjamin</a>”. Är fascinationen för objekt ett uttryck för en fetisch som genom sin närhet skapar distans, som hos en religiös relik där objektet skapar en distans till den materiella gemenskapen genom att peka mot det heliga? Digital kommunikation har förstås förändrat våra närheter och distanser. Distansen som auran hos ett post-digitalt objekt skapar kan lika gärna vara en tunnel <em>till</em> gemenskapen som <em>ifrån</em> gemenskapen, vilket skulle vara funktionen hos traditionella heliga objekt. Auran skapar ett begär efter att beröra och materialisera objekt för beundran. Dagens post-digitala objekt kan ses som ett uttryck för ett begär att beröra och konkretisera, kanske därigenom stabilisera, materiella gemenskaper, inte en trancendent gemenskap genom heligheten.
+
+Latour menar att Benjamin gör två misstag i aura-texten:
+Auran ses som närvaro. Underförstått en närvaro som var närvarande i en tidigare tid. Istället är auran en effekt av reproduktionen. Originalets aura är bara möjlig när det också finns kopior.
+
+Teknologi är mekanisk reproduktion. Underförstått att det är först med den mekaniska reproduktionen som kultur och konst beblandas med teknik. I själva verket har teknik och konst alltid varit tätt sammanflätade.
+
+Teknologin har inte förstört den oskyldiga auran. Teknologi är och har alltid varit den aktiva producenten av konsten. Benjamin har missuppfattat både aura och teknk och alla som följer hans analyser på dessa premisser smittas av detta misstag. Först kom alltså reproduktionen, sedan idéen om verket. Detta förutsätter dock en begränsad, kontrollerad och icke-perfekt reproduktion. Om begreppet Verk är obegripligt vid 0 reproduktion är det också obegripligt vid oändlig reproduktion. Inte heller då är det meningsfullt att tala om kopior, bara om närvaro. Det är just på grund av den obegränsade spridningen och närvaron av det samma som vi ökar möjligheterna att skapa unika sammanhang och urval.

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 122
+layout: post
+title: Ting
+date: 2008-09-17 23:24:30 +02:00
+wordpress_url: http://www.blay.se/2008/09/17/ting/
+---
+<p>Ting<br />sammankomst<br />sak<br />sakfr&aring;ga<br />ting samlas kring en sakfr&aring;ga<br />ting samlas kring en sak<br />ett "matter of concern"<br /><a href="about:blank"></a></p>

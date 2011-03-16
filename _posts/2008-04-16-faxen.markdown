@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 85
+layout: post
+title: Faxen!
+date: 2008-04-16 15:26:34 +02:00
+wordpress_url: http://www.blay.se/?p=85
+---
+<a href="http://pirazine.blogspot.com/2005/06/faxet-frn-tpb-till-websheriff-till.html" target="_new"><img style="float:left;" src="http://farm4.static.flickr.com/3160/2416914167_f1c0bf65d3.jpg?v=0" alt="" width="300" /></a>
+
+Legendarisk faxmaskin @hemma
+<a></a>

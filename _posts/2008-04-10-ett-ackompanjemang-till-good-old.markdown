@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 41
+layout: post
+title: Ett ackompanjemang till Good Old
+excerpt: "Det h\xC3\xA4r inl\xC3\xA4gget l\xC3\xA5nar slides och id\xC3\xA9er fr\xC3\xA5n <a id=\"d4x3\" title=\"Bj\xC3\xB6rn Jeffereys f\xC3\xB6redrag fr\xC3\xA5n KTH medieteknik\" href=\"http://www.goodold.se/blog/trend/2008/04/09/slides-for-kth-medieteknik/\">Bj\xC3\xB6rn Jeffereys f\xC3\xB6redrag fr\xC3\xA5n KTH medieteknik</a> och webbdagarna. Om mjukvarans disruptiva kraft."
+date: 2008-04-10 13:59:55 +02:00
+wordpress_url: http://fadetogrey.wordpress.com/2008/04/10/ett-ackompanjemang-till-good-old/
+---
+Det här inlägget lånar slides och idéer från <a id="d4x3" title="Björn Jeffereys föredrag från KTH medieteknik" href="http://www.goodold.se/blog/trend/2008/04/09/slides-for-kth-medieteknik/">Björn Jeffereys föredrag från KTH medieteknik</a> och webbdagarna. Läs mer och se fler slides på <a title="Good Olds blog." href="http://www.goodold.se/">Good Olds blog.</a>
+<div id="x_x9" style="text-align:left;padding:1em 0;"><img style="width:423px;height:318px;" src="http://docs.google.com/File?id=df2vgdxk_173dgffkbdr_b" alt="" /></div>
+Det här är intressant. Framförallt när det gäller diskussionen om 'annonsfinansiering'. Att säga att, exempelvis en musiktjänst, ska vara annonsfinansierad idag behöver inte innebära banners eller reklam mellan låtar. Istället handlar det om att någon drar till sig en viss målgrupp som någon annan är intresserad av att komma i kontakt med. Att då komma i kontakt med dem via en banner känns inte så effektivt och inte särskilt kul för någon. Däremot att komma i kontakt genom samarbeten, genom att ge något, att stödja. Det är mer intressant.
+<div style="text-align:left;padding:1em 0;"><img style="width:430px;height:328px;" src="http://docs.google.com/File?id=df2vgdxk_169cd2rqqgk_b" alt="" /></div>
+Tekniska förändringar är disruptive, vilket är något helt annat än vanliga utvecklingar.
+En förändring som är disruptive innebär att de gamla sättet blir helt värdelösa och alla måste flytta till det nya fältet.
+Disruptive öppnar upp och kan ta hela marknaden (ifrån de andra)
+
+Mjukvara är disruptiv för att den är kopierbar. Alla kan snabbt flytta till och börja använda nya tjänster. Drastiskt minskad konstnad för annan tillverkning kan göra annat än mjukvara disruptive.
+
+Teknisk utveckling som är 'disruptive' skiljer sig också från teknisk utveckling som är revolutionär. Den revolutionära utvecklingen är ett kvantitativt steg framåt, den disruptiva utvecklingen är ett steg åt ett helt annat håll. Skulle internet vara en revolution för skivindustrin skulle det innebära att de nu måste sälja sin musik på internet istället för på skiva. Istället är internet disruptiv, vilket innebär att det inte längre går att sälja enskild musik och skivindustrin måste:
+<div id="ppw6" style="text-align:left;padding:1em 0;"><img style="width:431px;height:90px;" src="http://docs.google.com/File?id=df2vgdxk_170cs74h3dd_b" alt="" /></div>
+<div id="tqfd" style="text-align:left;padding:1em 0;"><img style="width:426px;height:326px;" src="http://docs.google.com/File?id=df2vgdxk_171d79bpkd2_b" alt="" /></div>
+Musik går från ägande till tillgång. JA.
+Men det betyder inte nödvändigtvis att det måste streamas. Gränsen mellan ägande och tillgång går inte vid var datan är lagrad utan hur den är lagrad och åtkomsten struktureras. Som om man ägde vad man har på hårddisken mer än vad som låg på någon annans server.
+
+Min gmail innebär inte att mail går från att handla om ägande till tillgång. Jag har ensam tillgång till dem oavsett om de är på googles servrar eller på min hårddisk.
+Ägande handlar om exklusivitet. Tillgång handlar om att dela. Alltså innebär även fildelning att musik handlar om tillgång mer än om ägande, trots att ens mp3or råkar ligga på hårddisken. Gränsen mellan ägande och tillgång går vid frågan: "Är du en del av ett nätverk eller ej?"
+
+Delandet är möjligt på grund av att kostnaderna för överföring och lagring närmat sig noll.
+<div id="ng" style="text-align:left;padding:1em 0;"><img style="width:448px;height:323px;" src="http://docs.google.com/File?id=df2vgdxk_172fz5nrfgq_b" alt="" /></div>
+Informationstunga drabbas först (japp), men Internets påverkan kommer ske på flera plan. Informationstunga behöver inte betyda rent digitala. Läkemedelsbranschen, mobiltelefonbranschen,  alla branscher som bygger på kunskap mer än resurser kommer kunna förändras.
+Och mycket riktigt är det inte branscherna i sig som förändrar dem. Det är själva poängen med termen "disruptive". De s.k. branscherna står handfallna när någon annan kommer fram och gör direkt mycket bättre vad de sysslar med i decennier.

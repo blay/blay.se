@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 135
+layout: post
+title: Fattig kultursyn hos kulturbranschen
+date: 2008-10-29 11:24:35 +01:00
+wordpress_url: http://www.blay.se/?p=135
+---
+Ett antal branschorganisationer inom kulturbranschen har idag skrivit en gemensam <a href="http://copyriot.se/2008/10/28/ifpi-drommer-pa-75-arsdagen-om-en-ny-korporativism/">debattartikel i GP</a> om fildelning. Förlaget är ett gammalt återanvänt förslag. Å ena sidan ska bredbandsabonenter 'erbjudas' att betala extra på abonnemanget för att få fildela fritt (oklart vad detta innebär...även att dela ut?), å andra sidan vill man se hårdare straff och åtgärder mot de som inte antar erbjudandet. Det här inlägget ska dock inte fokusera på förslaget.
+
+Istället på den otroligt stela syn på kultur och på internet som visas upp i den här artikeln. Å ena sidan har vi en bransch som producerar kulturobjekt, å andra sidan internetleverantörerna som levererar dem. Dessa ska <a href="http://copyriot.se/2008/10/28/ifpi-drommer-pa-75-arsdagen-om-en-ny-korporativism/">komma överens</a>. Sen tar det slut. Men internet idag är ingen kanal, det är ett <a href="http://www.blay.se/2008/10/06/sociala-objekt-nodal-points-och-panspektronism/">kommunikationsmedium</a>. Det kopplar samman människor, information och objekt. Skapar nya sätt att använda och <a href="http://www.blay.se/2008/06/13/ownership-and-belonging/">relatera till kultur.</a>
+
+Men detta är helt frånvarande i artikeln. Ingenting om hur social mjukvara kopplar samman människor kring vad som händer <a href="http://www.blay.se/2008/05/11/splab-i-presentationen/">utanför nätet</a>. Ingenting om att stödja den här innovationen. Ingenting om att något ens har skett och i accelererande takt hållet på att ske. Istället - branschen producerar, tar betalt för att distribuera information och sen konsumtion.
+
+Därmed exkluderar man totalt det som gör nätet till vad det är, nämligen dess ändpunkter. Man ignorerar allt som  internet har gjort för att förändra hur vi relaterar till varandra, till information, till kultur och till omvärlden. Istället är det samma gamla massmedievisa som görs till universellt diagram för kulturproduktion. Branschen producerar och tar betalt för att leverera, denna gång bara genom en smidigare kanal. Internet ska <a href="http://www.blay.se/files/analogabilder.pdf">formas efter gamla mediers logik</a>. Tyvärr branschorganisationerna. Det går inte att komma med en "lösning" genom att koppla ihop producenter av kulturobjekt med en kanal för distribution. Nätverkets ändpunkter måste skapa lösningar. Det paket av 'lösingar på fildelningsproblemet' som föreslås från flera håll idag hindrar snarare skapandet av detta.
+
+Ibland kommer man nära den <a href="http://copyriot.wordpress.com/2006/12/23/metamusikaret/">inställning som Momus har</a> till musiken som något som lever kvar, gör vad den ska, men knappast kommer komma med något överväldigande. När vad senaste gången musik eller film fick huvudet att flyga ut genom taket och benen skaka för att hela ens omvärld helt plötsligt framstod i en annan dager? Idag är det främst teknik som förändrar hela varat. På gott och ont.
+
+Nåväl, egentligen är det inget att förvånas över att branschorganisationer försvarar det som varit i en övergångsperiod innan det tydligare framsträder vad som håller på att växa fram istället. Under tiden är uppgiften tredelad - Få dem att förstå att det <a href="http://thepiratebay.org/">inte är business-as-usual</a> längre, <a href="http://www.piratpartiet.se/">förhindra</a> att desperata åtgärder inte omöjliggör innovation och lyft fram, <a href="http://s23m.tumblr.com/">experimentera med</a> och <a href="http://www.theswedishmodel.org/">utforska </a>nya sätt att relatera till teknologi, kultur, information och omvärld.
