@@ -3,14 +3,30 @@ layout: default
 title: Archive
 ---
 
-<h2>Archive</h2>
-<ol id="archive">
-  {% for post in site.posts %}
-    <li>
-      <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-      <p class="noindent"><a href="{{ post.url }}">{{ post.title }}</a></p>
+<div id="post">
+<h1>Archives</h1>
 
-    </li>
-  {% endfor %}
-</ol>
+{% for year in (2005..2015) reversed %}
+{% if site.collated_posts[year] %}
+<h2 class="archives">{{ year }}</h2>
+{% endif %}
+{% for month in (1..12) reversed %}
+{% if site.collated_posts[year][month] %}
+<h3>{{ month | to_month }}</h3>
+<ul class="archive-page">
+{% for day in (1..31) reversed %}
+{% if site.collated_posts[year][month][day] %}
+{% for post in site.collated_posts[year][month][day] reversed %}
+<li><a href='{{ site.base_url }}{{ post.url }}' title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+
+
+
 

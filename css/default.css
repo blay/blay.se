@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  Arial,Helvetica,sans-serif
+  font-size: small;
+  text-align: center;
+}
+
+#container {
+margin: 3em auto 2em auto;
+text-align: justify;
+line-height: 1.5em;
+width: 40em;
+}
