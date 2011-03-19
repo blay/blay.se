@@ -5,7 +5,13 @@ title: blay
 
 .post 
   .meta
-    = link_to('about me', 'http://jekyll.blay.se')
+    = link_to('about', '/about.html')
+    %form#search{ :method => 'get', :action => 'http://www.google.com/search' }
+      %input.text{ :type => 'text', :name => 'q' }
+      %input{ :type => 'hidden', :name => 'sitesearch', :value => 'blay.se' }
+      %input.button{ :type => 'submit', :value => 'Sök' }
+    .break // // //
+    %a(class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://www.blay.se")
 
   - current_year = nil    # ugly, but good enough
   - group_posts_by_month_and_day(site.posts) do |year, month, posts|
