@@ -22,4 +22,5 @@ title: blay
       %dt= posts.first.date.strftime("%B")
       - for post in posts
         %dd
+          %strong.day= post.date.strftime('%d') 
           %a{:href => post.url}= post.title
