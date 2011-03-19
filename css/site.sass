@@ -1,0 +1,105 @@
+$content_width: 710px
+$code_outset: 130px
+
+#everything
+  width: 100%
+  min-width: $content_width
+  min-height: 100%
+  position: relative
+  
+body 
+  font-size: 100%
+  margin: 0
+  padding: 0
+  font: 1em optima, arial, clean, sans-serif
+  line-height: 1.5em
+  height: 100%
+  
+pre
+  padding: 10px  
+  
+h1
+  font-size: 1.2em
+  font-variant: small-caps
+  margin-left: 130px
+  margin-right: 130px  
+  color: #003D5D
+h2
+  font-size: 1em
+
+h3
+  font-style: italic
+  font-size: 1em
+
+h4
+  font-size: 1.1em
+  
+img 
+  border: 0
+  
+blockquote
+  background: #ECF7FD
+  padding: 1.3em
+  margin: 0
+code 
+  line-height: 1.3em
+    
+.content
+  margin-left: auto
+  margin-right: auto
+  margin-bottom: 100px
+  margin-top: 100px
+  width: $content_width
+  position: relative
+  
+  pre
+    margin-left: -$code_outset
+    width: $content_width + 10
+
+  .post 
+    margin-left: 40px
+    margin-right: 130px
+  
+  ul, ol
+    padding-left: 30px
+      
+  #older_and_newer
+    a 
+      text-decoration: none
+      color: #aaa
+    
+    .newer
+      position: absolute
+      right: 120px
+      top: -2em
+    .older 
+      position: absolute
+      top: -2em
+      left: 20px
+        
+.tagline, .copyright
+  width: 100%
+  font: 3em impact, arial, clean, sans-serif
+  color: #fff
+  margin-left: 310px 
+  a 
+    text-decoration: none
+    color: #ECF7FD
+
+/* specialized application
+
+.year
+  color: #aaa
+  font-size: 2em
+  line-height: 1em
+  position: absolute
+  left: -50px
+
+.meta
+  float: right
+  position: relative
+  right: -130px
+  top: 70px
+  font-size: 0.8em
+  line-height: 1em
+  width: 130px
