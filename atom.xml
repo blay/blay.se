@@ -14,7 +14,7 @@ layout: nil
    <email>ok@blay.se</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="jekyll.blay.se{{ post.url }}"/>
