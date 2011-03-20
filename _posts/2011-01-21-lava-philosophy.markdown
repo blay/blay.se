@@ -9,7 +9,7 @@ Tim Morton [accuses](http://ecologywithoutnature.blogspot.com/search/label/lava%
 I have illustrated this with this drawing:
 
 
-[[lava.jpg]]
+![lava](/img/lava.jpg)
 
 
 Now imagine the lines constantly shifting within the square, changing the shapes. Kind of lava-lampish, isn't it? The idea of a *World* is one of Mortons targets and object-oriented philosophy in his version replaces the world with individual objects. Time is something that happens within and between objects, not on a horizon within a world. 
@@ -17,13 +17,13 @@ Now imagine the lines constantly shifting within the square, changing the shapes
 The objects are fully formed, autonomous and never come into direct contact. I illustrated ny extending the first drawing in this way:
 
 
-[[ooo.jpg]]
+![ooo](/img/ooo.jpg)
 
 
 Now I couldn't resist drawing a third drawing illustrating my unfinished ontology of kvasi object oriented philosophy --- or KOOP for short --- where neither world nor objects are ontologized:
 
 
-[[koop.jpg]]
+![koop](/img/koop.jpg)
 
 
 So, lava lamp philosophy is body (the square) without organs, object-oriented philosophy is fully formed organs without body (no world) and I have organ-bodies, some kind of mutant-cyborg-zombie thing going on there...
