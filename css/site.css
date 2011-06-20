@@ -1,0 +1,39 @@
+#everything { width: 100%; min-width: 710px; min-height: 100%; position: relative; }
+
+body { font-size: 100%; margin: 0; padding: 0; font: 1em optima, arial, clean, sans-serif; line-height: 1.5em; height: 100%; }
+
+pre { padding: 10px; }
+
+h1 { font-size: 1.2em; font-variant: small-caps; margin-left: 130px; margin-right: 130px; color: #32677a; }
+
+h2 { font-size: 1em; }
+
+h3 { font-style: italic; font-size: 1em; }
+
+h4 { font-size: 1.1em; }
+
+img { border: 0; }
+
+blockquote { background: #ecf7fd; padding: 1.3em; margin: 0; }
+
+code { line-height: 1.3em; }
+
+.content { margin-left: auto; margin-right: auto; margin-bottom: 100px; margin-top: 100px; width: 710px; position: relative; }
+.content a { color: #1b8be0; }
+.content pre { margin-left: -130px; width: 720px; }
+.content .post { margin-left: 40px; margin-right: 130px; }
+.content ul, .content ol { padding-left: 30px; }
+.content #older_and_newer a { text-decoration: none; color: #aaaaaa; }
+.content #older_and_newer .older { position: absolute; right: 120px; top: -2em; }
+.content #older_and_newer .newer { position: absolute; top: -2em; left: 20px; }
+
+.tagline, .copyright { width: 100%; font: 3em impact, arial, clean, sans-serif; color: white; margin-left: 310px; }
+.tagline a, .copyright a { text-decoration: none; color: #ecf7fd; }
+
+/* specialized application */
+.year { color: #aaaaaa; font-size: 2em; line-height: 1em; position: absolute; left: -50px; }
+
+.meta { float: right; position: relative; right: -170px; top: 70px; font-size: 0.8em; line-height: 2em; width: 130px; }
+
+.date { color: #888; font-weight: bold; }
+.postlist { list-style: none; }

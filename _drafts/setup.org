@@ -1,0 +1,11 @@
+pure text files
+- no export hassle
+- dual boot safe
+ - symlinks are your friend
+ - a common data partition
+- mendeley
+- emacs
+static web
+ - ikiwiki
+ - jekyll
+- git all!
