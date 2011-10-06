@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consuming the Illegal.
+title: Internauts, Punks and Infrastructure
 ---
 *This is a paper i presented at the "Consuming the Illegal" seminar in Leuwen, Belgium. Also available as [PDF](/papers/punks.pdf)*
 ## Internauts, Punks and Infrastructure
