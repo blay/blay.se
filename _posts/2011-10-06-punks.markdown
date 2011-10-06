@@ -2,7 +2,7 @@
 layout: post
 title: Consuming the Illegal. Internauts, Punks and Infrastructure
 ---
-*This is a paper i presented at the "Consuming the Illegal" seminar in Leuwen, Belgium. Also available as [PDF](/papers/punks.pdf)
+*This is a paper i presented at the "Consuming the Illegal" seminar in Leuwen, Belgium. Also available as [PDF](/papers/punks.pdf)*
 
 ### Internet Put into Place
 The Internet wouldn't be the same if the protocols and physical infrastructures would fundamentally change, but the thing we talk about
