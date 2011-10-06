@@ -27,7 +27,7 @@ code { line-height: 1.3em; }
 .content #older_and_newer .older { position: absolute; right: 120px; top: -2em; }
 .content #older_and_newer .newer { position: absolute; top: -2em; left: 20px; }
 
-.tagline, .copyright { width: 100%; font: 3em impact, arial, clean, sans-serif; color: white; margin-left: 310px; }
+.tagline, .copyright { width: 100%; font: 3em impact, arial, clean, sans-serif; color: #1B8BE0; margin-left: 310px; }
 .tagline a, .copyright a { text-decoration: none; color: #ecf7fd; }
 
 /* specialized application */
