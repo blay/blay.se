@@ -1,6 +1,8 @@
 ---
   layout: post
   title: Situerad teknikutveckling (från Power of Adhocracy)
+  summary: Reflections from Power of Adhocracy seminar on situated knowledge and technology interventions.
+  
 ---
 
 På förra tisdagens [\#powerofadhocracy](http://powerofadhocracy.org/index.html) hade [Jacob Appelbaum](https://secure.wikimedia.org/wikipedia/en/wiki/Jacob_Appelbaum) ett föredrag som i korthet gick ut på att visa hur rutten nätets kärna är idag då bakdörrar och säkerhetsbrister medvetet byggs in i infrastrukturen för att regeringar vill kunna spionera på trafiken. Det ställs krav på att ny kommunikationsinfrastruktur både hårdvaru- och mjukvarumässigt måste byggas trasig från början för att möjliggöra detta. Internet så som vi känner det och får tillgång till det idag måste enligt Jacob betraktas som fientligt innan motsatsen bevisats. Vi måste utgå från att de sätt vi kommunicerar via internet är kompromissade och att deras säkerhet är trasig. Om man är en obotlig pessimist när det gäller internets tillstånd idag är man troligen närmare sanningen än någon annan, menar han.

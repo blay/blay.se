@@ -7,8 +7,8 @@ layout: nil
 
   <channel>
     <title>blay.se</title>
-    <link>http://jekyll.blay.se/</link>
-    <atom:link href="http://jekyll.blay.se/index.rss" rel="self" type="application/rss+xml" />
+    <link>http://blay.se/</link>
+    <atom:link href="http://blay.se/index.rss" rel="self" type="application/rss+xml" />
     <description>stuff from blay.se</description>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
@@ -17,10 +17,10 @@ layout: nil
     {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://jekyll.blay.se{{ post.url }}</link>
+      <link>{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
       <author>ok@blay.se (Magnus)</author>
-      <guid>http://jekull.blay.se{{ post.id }}</guid>
+      <guid>{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
