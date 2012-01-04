@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Det missionerande kopimistförbundet
+summary: Den nya kyrkan och dess framtid
 ---
 
 Idag nås vi av nyheten att det kopimistiska missionsförbundet har godkänts som religiöst samfund av den svenska staten. Det är på många sätt en god nyhet men den avkrävde mig en funderare på hur det missionerande kopimistsamfundet relaterar till kopimismen överlag. Givetvis är inte kopimismens existerande beroende av ett erkännande av en nationalstat så det handlar inte om att religionen, om man vill kalla den så, numera blivit på riktigt. Ej heller är det så att den organisationsstruktur som det missionerande kopimistförbundet är uppbyggt kring, med styrelseordförande och en mänsklig (var är omniHAL!?) överstepräst, representerar strukturen av kopimismen överlag, som ju är kopimistisk snarare än hierarkisk [^hierarki].
