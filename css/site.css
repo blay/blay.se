@@ -38,3 +38,9 @@ code { line-height: 1.3em; }
 .date { color: #888; font-weight: bold; }
 .summary {font-size: 0.8em; font-style: italic; line-height: 0.8em;}
 .postlist { list-style: none; }
+
+.footnotes {
+font-size: 0.8em;
+border-top: 1px dashed;
+margin-top: 4em;
+}
