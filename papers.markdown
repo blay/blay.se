@@ -2,7 +2,7 @@
 layout: page
 title: blay:papers
 ---
-- Internauts, Punks and Infrastructure. [PDF](/papers/punks.PDF)
+- Internauts, Punks and Infrastructure. [PDF](/papers/punks.PDF), [HTML](/2011/10/06/punks/)
 
 *From Consuming the Illegal. Leuwen, Belgium. March 2011*
 
