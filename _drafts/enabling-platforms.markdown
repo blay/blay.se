@@ -4,7 +4,11 @@ title: Enabling platforms
 summary: 
 ---
 
-[Sammanfattning av artikel]
+Fabriken i Malmö är inte bara ett fablab utan också föremål för designforskning knuten till MEDEA vid Malmö högskola. Det har börjat komma en del akademiska papper ur detta och här ska jag ta upp ett som heter [Democratizing production: challenges in co-designing enabling platforms for social innovation](http://medea.mah.se/2011/11/democratizing-production-challenges-in-co-designing-enabling-platforms-for-social-innovation/)
+
+
+
+Artikeln tar upp fenomenet "enabling platforms". Detta koncept behöver inte bara handla om fablabs och liknande tekniska resurser utan är ett koncept som försöker lösa problematiken med att uppifrån stödja verksamheter bestående av lösa, bottom-up organiserade nätverk utan att kväva den spontana karaktären hos dem. I och med detta kan verksamheten fortsätta självorganisera och styra sin riktning även om det finns en "enabling platform" som hjälper till att skala upp och även kan kanalisera den kreativa verksamheten. Fabriken har till exempel delvis som syfte att skapa nya företag i Malmö.
 
 Problemet är att man börjar med plattformen och vad den kan möjliggöra och sen förväntar sig att folk bara ska droppa in och använda de möjligheter som finns. Varför gör de inte det i den utsträckning som förväntas? Jo för att deras liv innan plattformen var inte tomheter som bara kan fyllas med nya kapaciteter. Deras liv var och är fulla av åtaganden och förlustanden.Istället för att börja att bygga en plattform och förvänta sig deltagare borde man börja där (en viss grupp) deltagare finns och se vad som skulle kunna förbättra deras situation. Hur kan plattformen, kanske med enklare och mer mobila medel, existera just där, i deras liv? Ett annat alternativ är att skära bort andra åtaganden för att ge plats åt anänvdande av plattformen. Ett sådant sätt är att ta bort åttagandet "jobb" genom att finansiera deltagare (direkt eller genom lån) eller att ta bort orsaken till att de behöver jobba genom att bidra med resurser som de annars skulle behöva arbeta för att få tillgång till. Ett problem med denna strategi är dock att arbete i stor utsträckning är ett antingen-eller-fenomen. Antingen arbetar någon tills all sin energi gått åt eller så har de inget arbete alls. Oavsett behöver ersättandet då gälla hela inkomsten.
 
