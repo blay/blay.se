@@ -19,7 +19,7 @@ blockquote { background: #A4D0C4; padding: 1.3em; margin: 0; }
 code { line-height: 1.3em; }
 
 .content { margin-left: auto; margin-right: auto; margin-bottom: 100px; margin-top: 100px; width: 710px; position: relative; }
-.content a { color: #000; background: #000; }
+.content a { color: #000; background: #FFFF99; }
 .content pre { margin-left: -130px; width: 720px; }
 .content .post { margin-left: 40px; margin-right: 130px; }
 .content ul, .content ol { padding-left: 30px; }
@@ -28,7 +28,7 @@ code { line-height: 1.3em; }
 .content #older_and_newer .newer { position: absolute; top: -2em; left: 20px; }
 
 .tagline, .copyright { width: 990px; font: 3em impact, arial, clean, sans-serif; color: #0F0F0D; margin: auto; }
-.tagline a, .copyright a { text-decoration: none; color: #000; background: #000; }
+.tagline a, .copyright a { text-decoration: none; color: #A4D0C4; }
 
 /* specialized application */
 .year { color: #9A9C9F; font-size: 2em; line-height: 1em; position: absolute; left: -50px; }
