@@ -8,15 +8,21 @@
     </title>
     <meta content="Magnus (http://blay.se)" name="author" />
     <link href="/atom.xml" rel="alternate" title="blay.se" type="application/atom+xml" />
-    <link href="/css/site.css" rel="stylesheet" type="text/css" />
+    <link href="/css/site.css" rel="stylesheet" type="text/css" title="site"/>
+    <link href="/css/brooklyn_site.css" rel="alternate stylesheet" type="text/css" title="brooklyn"/>
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <script src="/js/flattr.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/scripts/styleswitcher.js"></script>
   </head>
   <body>
     <div id="everything">
       <div class="tagline">
        blay.se :: <a href="/">blog</a>:<a href="/papers.html">papers</a>:<a href="http://www.twitter.com/monki">@monki</a>
-      </div>
+    <div id="style">
+    <a href="#" onclick="setActiveStyleSheet('site'); return false;"><img src="img/site.png"></a>
+    <a href="#" onclick="setActiveStyleSheet('brooklyn'); return false;"><img src="img/brooklyn.png"></a>    
+    </div>
+</div>
       <div class="content">
   {{ content }}
       </div>

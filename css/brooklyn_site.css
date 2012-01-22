@@ -12,7 +12,7 @@ h3 { font-style: italic; font-size: 1em; }
 
 h4 { font-size: 1.1em; }
 
-img { border: 0; width: 540px; }
+.post img { border: 0; width: 540px; }
 
 blockquote { background: #64B6B1; padding: 1.3em; margin: 0; }
 
@@ -43,4 +43,8 @@ code { line-height: 1.3em; }
 font-size: 0.8em;
 border-top: 1px dashed;
 margin-top: 4em;
+}
+
+#style {
+float: right;
 }
