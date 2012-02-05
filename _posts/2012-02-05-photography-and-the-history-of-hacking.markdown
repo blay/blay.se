@@ -88,21 +88,21 @@ Situated cybernetics celebrates the inventive and creative character of cybernet
 Photography of course has always been a machinic artform and the camera is always present for reality to inscribe itself physically on the film. It has been no stranger to modifications and amateur constructions in its history, but at least until the digital camera it has not been more than a simple system, lacking any mechanical or electrical feedback loops. Here, a simple schematic for building one's own pinhole camera, a system without feedback. 
 
 
-## Camera Automata
+## Taeyoon Choi - Cameraautomata
 When hacking is introduced into an art practice, it shifts the interest from the final product to the process. A duck roams a tourist area equipped with a digital camera, a sensor and a printer. When someone tries to take a picture of the duck, IT takes of picture of the photographer and prints the photograph out its back. Feedback is introduced between the sensor, the processing device and the actuator. The process in which it intervenes is both a sociotechnical one, being about both the social practice of tourist photography as well as the material and technical actors involved in it.
 
-Taeyoon Choi - Cameraautomata
 
 
-## Fulgurator
+
+## Julius von Bismarck - Image Fulgurator
 Hacking in art gives plenty of opportunities to enact hacking in its original definition of a prank. Here a camera is modified in such a way that the back is removed, replaced by a flash that lights the camera from the back, through a film with an image or a text imprinted, through the lens and onto the surface the camera is pointed to. On top of the camera sits an automatic flash trigger that will trigger as soon as another person close by takes a photo using flash. The result is that the fulgurators image is projected on the surface that someone is taking a picture of during a milisecond --- too fast for the eye to pick up, but enough for it to be imprinted on the resulting photograph. Hacking has always been about the humorous intervention in a system. I believe it was Deleuze who said that comedy is when a human behaves as an object and vice versa. Here the human, through the stimuli caused by the hack becomes an object in the system set up by the artist, unwillingly following the plot he already staked out with the hack. In hacking, getting a human to perform a certain task by tricking them into it (for example by claiming to be from the IT department in need of a password) is refered to as social engineering.
 
-Julius von Bismarck - Image Fulgurator
 
 
-## The Mirror
+
+## Monica Ruzansky - The Mirror
 In this example we encounter something different than in the others. Here, an end result is produced in the form of a traditional portrait, but it is made with a hack as clever as it is simple. In front of the camera sits a one way mirror enabling the camera lens to capture the portrait while the portaitee sees only their own face, thus becoming aware of and adjusting their facial expression --- feedback at its simplest. The hack is certainly part of the aesthetic experience of the work and it clearly leaves a mark on the final photograph, but it does not occupy center stage. We are not simply looking at the documentation of a cleverness.
 
-Monica Ruzansky - The Mirror
+
 
 ![](/img/ns_images.jpg)

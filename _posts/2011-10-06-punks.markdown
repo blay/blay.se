@@ -9,6 +9,7 @@ summary: Is 100 mbit the speed limit of the free internet? Paper from the semina
 {:toc}
 
 ## Internauts, Punks and Infrastructure
+
 ### Internet Put into Place
 The Internet wouldn't be the same if the protocols and physical infrastructures would fundamentally change, but the thing we talk about
    when we say "the Internet" in daily speech, such as that the internet will
