@@ -1,4 +1,10 @@
-*This text is featured in 
+---
+layout: post
+title: Photography and the History of Hacking
+summary: Book chapter I write for ""
+---
+
+*This text is featured in "" produced by. I'm in the book together with Annika von Hauswolff, Karl Palmås and a cartoon about Fredrik Svensk. It build of a lecture held in a park in Gothenburg in the summer for students of the photo school* 
 
 # Introduction
 The term hacker is today a widely used and multi-faceted term that mean very different things to different people. Some associate it only with credit card scams and breaking into computer systems. For others, it is a label to attach to one's activity to give signal that it is unconventional, edgy and smart. To understand how all these meaning can be attached to a single word, I will make an exposé of the history of hacking to see how the different meaning has been attached to the word at different periods. 
@@ -93,7 +99,3 @@ Julius von Bismarck - Image Fulgurator
 In this example we encounter something different than in the others. Here, an end result is produced in the form of a traditional portrait, but it is made with a hack as clever as it is simple. In front of the camera sits a one way mirror enabling the camera lens to capture the portrait while the portaitee sees only their own face, thus becoming aware of and adjusting their facial expression --- feedback at its simplest. The hack is certainly part of the aesthetic experience of the work and it clearly leaves a mark on the final photograph, but it does not occupy center stage. We are not simply looking at the documentation of a cleverness.
 
 Monica Ruzansky - The Mirror
-
-
-
-
