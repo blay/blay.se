@@ -8,6 +8,9 @@ summary: Book chapter I write for "The Reader - North/South, River Run" produced
 
 ![](/img/ns_cover.jpg)
 
+* lol
+{:toc}
+
 # Introduction
 The term hacker is today a widely used and multi-faceted term that mean very different things to different people. Some associate it only with credit card scams and breaking into computer systems. For others, it is a label to attach to one's activity to give signal that it is unconventional, edgy and smart. To understand how all these meaning can be attached to a single word, I will make an exposé of the history of hacking to see how the different meaning has been attached to the word at different periods. 
 
