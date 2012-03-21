@@ -5,6 +5,9 @@ title: RepRap and Automation
 * bla
 {:toc}
 
+## Introduction
+
+
 ## 1. Comparing RepRap with automatation in factories.
 
 Since this seem to be the major thrust of the article I will begin here. I think it's a comparison that hold in some sense. Yes, reprap is making some moments of production automaticed. But I think there are also major differences in what the automatation amounts to, so in the end I am skeptical to go with the analogy all the way. I'm going to spell out some of these differences that I see. My feeling is that reprap amount to something more similar to a farmer having an ox than a factory owner having an automated factory. This is because when viewing the full process the reprap takes care of some moments of the production but the operator still needs to deploy a large skillset, just like the farmer just can't let the ox plough the fields in anyway it pleases. I could say a tractor, but given the current state of personal fabricators they feel more like animals partly equiped with their own will power.
