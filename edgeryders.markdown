@@ -3,6 +3,8 @@ layout: page
 title: blay:edgeryders
 ---
 
+[This paper as PDF](/papers/edgeryders.pdf)
+
 -   Introduction
     -   About the Edgeryders Project
     -   Research Questions
