@@ -3,7 +3,7 @@ layout: page
 title: Hans Magnus Enzensberger om Heta-linjen-upploppet 1982
 ---
 
-## Institutionens hägn
+## I Institutionernas hägn
 
 
 En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra. Nät folkmassan hade svällt till nära tusen människor satte den sig i rörelse utan marschordning, utan paroller, utan förutbestämd plan, mot Rålambshovsparken.
