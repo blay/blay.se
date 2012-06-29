@@ -3,6 +3,8 @@ layout: page
 title: Hans Magnus Enzensberger om Heta-linjen-upploppet 1982
 ---
 
+*Ur: Hans Magnus Enzensbergers "Svensk höst (1982)" i boken "ACK EUROPA!"*
+
 ## I Institutionernas hägn
 
 
