@@ -1,10 +1,7 @@
 ---
 layout: page
-title: blay:edgeryders
+title: Edgeryders
 ---
-
-[This paper as PDF](/papers/edgeryders.pdf)
-
 -   Introduction
     -   About the Edgeryders Project
     -   Research Questions
@@ -42,9 +39,15 @@ title: blay:edgeryders
         -   Prototyping cultures
 
 -   Concluding Remarks
+    -   Summary of analysis
+    -   Lessons learned
+    -   On changing relations between youth and institutions
+    -   Radical constructivism
+    -   Further Research
+    -   Concluding
 
-Title: edgeryders Author: Magnus Eriksson Base Header Level: 1 Format:
-complete
+
+Title: edgeryders Author: Magnus Eriksson Base Header Level: 1
 
 Introduction
 ============
@@ -1185,41 +1188,381 @@ more meaningful ways of engaging. Perhaps the issues of young people are
 both more global and more local than the national or regional level of
 institutional politics.
 
+It becomes a problem if young people are working more and more
+effectively in non-governmental and informal organizations, building up
+new capacities for actions, spreading ideas quickly and form new
+networks; while at the same time the public institutions remains fixed
+and are not influenced by this capacity. The further this goes, the less
+possible it will be to form dialogues and make the informal
+organizations able to influence policy. The question is if this needs to
+be a matter of bringing young people *into* the public institutions or
+if the public and the informal organizations can cooperate in hybrid
+spaces around common matters-of-concern without having to take place
+within the umbrella of the public institutions. An example of this would
+be learning. Compare the difference between young people influencing
+school policy and the way their schools work versus young people
+creating new learning spaces outside of the school system altogether
+such as hackerspaces, reading groups, free schools and online based
+learning communities. Looking at the Edgeryders platform it seems as if
+it is the latter, to create alternative spaces, that is the one where
+young people see opportunities today, aided by digital communication and
+networking technologies. Although young people are developing
+alternative spaces, it does not mean that they are not influence by
+decisions taken within public institutions. But it is not always
+decisions within a narrowly defined department that affects them the
+most. For example it might not be policy on education that influences
+the creation of alternative learning spaces the most, but urban
+development, property prices or intellectual property. This highlights a
+need for multidisciplinary and multi-institutional approaches to looking
+at issues that youth cares about.
+
 ### Common spaces and concerns
+
+If we forget a while about separating between participating in
+institutional politics on the one hand and self-organized initiatives on
+the other hand, there seem to be a common concern in reactivating a
+colelctive care for the commons in society. Titley suggests the term of
+”democratic partnership”(Titley, 2008) and I choose to adopt it here to
+name a process consisting of a common space where institutions and
+citizens share common concerns and collaborate to solve problems.
+
+These spaces blossom spontaneously anywhere when citizens find a ”matter
+of concern”(Latour, 2004) and it is not always the formal political
+organizations that spawn this activity, as the anti-ACTA protests in
+Poland shows:
+
+> What is essential (and very interesting in and of itself), these were
+> completely spontaneous, grass-roots activities, not associated with
+> NGOs that had been bringing up the ACTA problem for years
+>
+> (“Anti-ACTA in Poland - seen from the inside | Edgeryders, Project
+> Website,” n.d.)
+
+A challenge for institutions if this partnership is going to be formed
+is therefor to locate these spontaneous initiatives and respond to them
+in a meaningful way before it is too late.
+
+On the other hand, the spontaneous initiatives might need the
+institutions in order to make sure the initial enthusiasm translate into
+lasting political change. O’Donoghue writes:
+
+> In other words, supporters of youth participation must be open to the
+> unique voices and contributions of youth, but they also must help
+> youth learn how to recognize the norms of the public arena or the
+> specific practices of the field in which they hope to participate.
+> This is not so that youth will merely adopt these norms, but so that
+> they can be effective in shaping broader arenas.
+>
+> (O’Donoghue & Kirshner, 2002)
+
+There is in general a considerable lack of knowledge among young people
+as to how the public institutions function and what their role and
+purpose are. As well as how to reach and influence them effectively.
+From personal experience I can say that political campaigns around net
+politics has relied heavily on a few older activists and insiders in the
+institutions to be able to guide the activity through the bureacratic
+jungle of european institutions.
+
+Political institutions can also have a role in making sure that the
+space of common concern is open to everyone and that citizens are not
+only represented by a tech-savvy elite among young people. Titley
+recognizes this: \> In order to ensure full and equal participation of
+all citizens, special priority should be given to special needs groups.
+This may involve encouraging more spontaneous and non-traditional forms
+of youth participation, and creative and innovative activities which are
+beyond the usual scope of established programmes. \> \> (Titley, 2008)
+
+This is especially true when political participation rests on the
+ability to individually locate and build active networks of
+participants, mostly by making skilled use of information technology.
+While ICT has made communication and organizing widely accessible, cheap
+and easy, it is important to remember that all youth don’t have access
+to these tools or the knowledge to use them. Titley again:
+
+> While knowledge-based economies tend to privilege young people in the
+> labour market, they may also tend to disproportionately provide
+> increased opportunities for the socially privileged while amplifying
+> the vulnerability of the socially disadvantaged.
+>
+> (Titley, 2008)
 
 ### Open Government
 
+A potential common space of which there are some examples on the
+Edgeryders platform is what goes under the umbrella term of ”open
+government”. Here we find several kinds of initiatives that aim to upen
+up governance to a more transparent and participatory ways doing. I will
+reflect on this term here, give positive examples as well as highlight
+some critique of the idea of open government which could be solved by
+the right kind of institutional involvement.
+
+In a comment to a post discussing open government and lack of trust in
+institutions, Alberto says:
+
+> bridging this trust gap with information and open conversation is
+> exactly what open government does best
+>
+> (“Feeling a part of the political process | Edgeryders, Project
+> Website,” n.d.)
+
+By making governance transparent and creating tools for involving
+citizens in governance processes, open government hope to bridge the gap
+between citizens and political institutions. Open government is also
+seen as a way to depart from an idea of participation where the citizen
+is not engaged as a active equal of the government in managing the
+affairs of the state.
+
+> I also consider that it should go without saying, for citizens to
+> co-manage the affairs of the state, in collaboration with the
+> government. This is why I firmly believe in the open government
+> philosophy.
+>
+> (“Spaghetti open data: a little thing that feels right | Edgeryders,
+> Project Website,” n.d.)
+
+Open government also offers a space for bi-directional learning where
+citizens learn the was a political institution operates while the
+institution learn the way citizens (especially edgeryders) want to do
+things. That the learning is bi-directional is something that O’Donoghue
+stresses as a benefit of increaces youth participation:
+
+> youth participation in decision making leads to changes in the
+> organizational climate and a deeper commitment by adults to youth
+> development principles.
+>
+> (O’Donoghue & Kirshner, 2002)
+
+The benefit of youth participation should not only be considered as a
+one-way approach where it is the life of the young that needs to be
+influenced in a governmental fashion. Also the life of institutions is
+in need of guidance and change, a transition even. Perhaps the most
+impact will be in how youth participation changes the institutional
+life, rather than how it changes the young. It can be beneficial to turn
+the perspective on its head like this an instead assume that it is the
+public institutions that should participate in all the activity that the
+youth networks construct. As seen in the part on open data in the
+section on Edgeryders in this paper, it is often on citizen initiatives
+that open government projects begin which is later adapted by
+institutions.
+
+Herrera also stresses this point:
+
+> What’s more, socialization processes are becoming more bidirectional
+> with youth playing a more intensified role in teaching and socializing
+> the older generation to adapt to new technology and cultural patterns
+> associated with globalization.
+>
+> (Herrera, 2006)
+
+Youth participation forces institutions to become more democratic and
+live up to their ideals. At least it becomes a pressure for this. This
+can be seen in the protests around the ACTA treaty when it was protests
+from the outside, with a majority of young participants that led to the
+European parliament asserting pressure on the European commission to
+release unredacted versions of the negotiated text.
+
 ### Prototyping cultures
+
+It is not possible to sketch a single path to how the gap between
+edgeryders and institutions can be bridged. What is clear is that there
+is a great opportunity in tappoing in to the resources and creativity of
+the kind of policy innovation, if we can call it that, that edgeryders
+all over Europe are doing. This quote from the report on Spaghetti Open
+Data highlights this:
+
+> I think what is happening is this: the civil society is emerging as an
+> allied of the innovators within the public sector. They can go to
+> their bosses and say “look, these guys are hellbent on this stuff.
+> Either we move fast or they will move first and leave us looking like
+> idiots. The good news is, we can ask them to help us, and they will!
+> So we can appropriate some political benefit releasing data, and
+> everybody wins”.
+>
+> (“Spaghetti open data: a little thing that feels right | Edgeryders,
+> Project Website,” n.d.)
+
+Civil society is prototyping the new society, but they still can’t do it
+without institutional support. Or rather, the civil society version will
+be a working prototype – good enough to make an impact but could be made
+better with the right kind of support. Again from Spaghetti Open Data:
+
+> I personally love that Spaghetti Open Data is created by civil society
+> itself, is the best way this portal offers useful service to society.
+> But also acknowledge that if the government gets involved much better,
+> especially because it is who has more data and better quality, as well
+> as financing for the portal.
+>
+> (“Spaghetti open data: a little thing that feels right | Edgeryders,
+> Project Website,” n.d.)
+
+New forms of political participation are adapted to uncertainty, chaotic
+organization, experimentation and trial and error. This form of
+participation is experimental in its character, examines different was
+of doing things and questions the overarching goals. O’Donoghue echoes
+this when she says:
+
+> These organizations often do not face the same sets of constraints as
+> public institutions, and as a result, they may offer young people the
+> type of alternative spaces that they need to reflect critically and
+> build capacity for action.
+>
+> (O’Donoghue & Kirshner, 2002)
+
+By participating in youth-led initiatives rather than in formal
+decision-making processes, young people learn not just how the world
+works today and how the political process is structured today, but also
+how it *could be* structured and they learn to critique the current
+models for political participation. These self-organized initiatives
+gives a learning experience on a really low level. A radical learning
+experience in the precise sense of the word radical – to go to the root
+of something.
+
+The active engagement that participation is giving young people is a
+training not only for participating but participating effectively in
+ways that create change. I can only speak for myself in this matter. I
+learned how to talk to the media and how to form horisontal networks
+with my peers long before i learned how to participate in public
+institutions, when I was engaged in the debate over file-sharing and
+intellectual property. The thing that for me and many others was an eye
+opener was the activism around the European telecoms package. This was
+the first time my net activist generation engaged actively with the
+decision making process of a political institution. People started
+emailing and calling members of the parliament en masse to express their
+view on what was considered unfair ammendments to the telecoms package.
+Several people also went to Brussels to give their opinion on the
+matter. This engagement has become even more intense with the anti-ACTA
+activism that has been a collective learning experience for everyone
+involved on the complicated policy process of the european commission;
+on different committies and their functions, on ammendments and
+rejections. I have to admit that personally I gave up about half-ways
+into it and left it to others to continue to focus on ACTA with a tunnel
+vision. Once people got engaged in it there was no way out and it felt
+like the rabiit hole just went deeper and deeper. So much effort was
+spent on this by so many people during so many sleepless nights that one
+started to wonder if this really was the way it should be. What made the
+experience more bitter was to see all the active attempts to circumvent
+the democratic process by the advocates of the treaty. For all the
+people that got a first hand learning experience of how to engage with
+political institutions, there are as many people for whom it was the
+first and last time.
+
+An alternative to both top-down and bottom-up approahces is spelled out
+in the report about Kyopol, which is described as follows: “Kyopol
+promotes the development of”high quality" civic initiatives, by
+providing tools, methodologies and teaching resources that promote a
+participation which is transparent, informed, balanced, profound and
+documented."
+
+> Kyopol works, in short, as a decentralized and transparent “Facebook
+> of civic engagement”, which would be regularly used by citizens and
+> institutions of all kinds, to inform (/inform themselves) about civic
+> initiatives taking place in the places they care for, and deal with
+> subjects that matter to them.
+>
+> (“Creation of Kyopol System (aka: ‘Symbiotic City):’ the Internet as a
+> catalyst for civic engagement and citizen’s activation - ckyosei.org |
+> Edgeryders, Project Website,” n.d.)
+
+They call what they do “from-the-middle-and-out”.
+
+> Experts have long indicated that e-Participation systems promoted
+> “top-down”, from governments, are inefficient, technologically
+> backward and unable to fulfill the real needs of its users. This is
+> why the EU has not obtained much results, despite having invested more
+> than 100 million euros in the last 10 years.
+>
+> (“Creation of Kyopol System (aka: ‘Symbiotic City):’ the Internet as a
+> catalyst for civic engagement and citizen’s activation - ckyosei.org |
+> Edgeryders, Project Website,” n.d.)
+
+For substantial change and participation, there are problems with both
+the top-down and bottom-up approaches. This relates to “the project
+fallacy” as well as to previous failed attempts at youth political
+participation initiatives.
 
 Concluding Remarks
 ==================
 
-Besley, T. (2009). Governmentality of youth: Beyond cultural studies.
-*I: Peters m. fl, red, Governmentality Studies in Education, Rotterdam,
-Sense Publishers*.
+Summary of analysis
+-------------------
 
-Björgvinsson, E., Ehn, P., & Hillgren, P. A. A. (2010). Participatory
-design and democratizing innovation. In *Proceedings of the 11th
-Biennial Participatory Design Conference* (Vol. 7, pp. 41–50).
+In this paper I have compared ideas and experiences of political
+participation as it manifests on the Edgeryders platform with the
+current perspectives on European youth policy. It has been shown that
+there are significant differences between the two and that edgeryders
+view and practice political participation as something more integrated
+in their everyday lives and something more experimental that takes many
+different forms. Youth policy tend to rely on a perspective where
+participation equals participation in formal political processes, while
+for edgeryders this is just one way of embarking on a collective process
+to change the conditions of society.
 
-Commission, E. (2009). An EU Strategy for Youth Investing and Empowering
-A renewed open method of coordination to address youth challenges and
-opportunities.
+Lessons learned
+---------------
 
-Gozdzik-Ormel, Z. (2008). Have your say! manual on the revised European
-Charter on the Participation of Young People in Local and Regional
-Life.. Strasbourg: Council of Europe Pub.
+On changing relations between youth and institutions
+----------------------------------------------------
 
-Herrera, L. (2006). Whats New about Youth ?. *Development and Change*,
-*37*, 1425–1434.
+The conclusion form these differences is that it is not simply a matter
+of formulating a new youth policy, but what is needed is a
+re-negotiation of the relation between youth and political institutions
+when it comes to political participation. The traditional institutions
+are unable to direct youth today. As Herrera says:
 
-O’Donoghue, J. L. L., & Kirshner, B. (2002). Introduction: Moving youth
-participation forward. *NEW DIRECTIONS FOR YOUTH DEVELOPMENT*, 15–26.
+> Young people in the contemporary period acquire cultural and political
+> dispositions through new avenues of participation. Adult authorities,
+> including parents and teachers, and institutions such as schools and
+> universities, while they retain a degree of authority, hold less sway
+> over the socialization of young people than in even the recent past.
+>
+> (Herrera, 2006)
 
-Titley, G. (2008). The future of the Council of Europe youth policy:
-AGENDA 2020.
+This shift in relations is not as simple as to say that governments
+should move out of the way and let youth determine their own lives. This
+perspective is strong in our contemporary society and is somehting
+Foucault has called ”governmentality”(Foucault, Bertani, Fontana, &
+Macey, 2004). This perspective, which has been translated as a critique
+of youth policy by Besley(Besley, 2009) stresses on the one hand the
+self-governance of outh and the entrepreneurial self that makes its own
+future and on the other hand discourses of risk, security and control.
 
-von Hippel, E. (2005). *Democratizing innovation*.
+While globalization and neoliberal policies are reducing the impact of
+public institutions in favor of market-driven ones, young people take
+their own initiatives to make up for the losses and create participatory
+alternatives. Perhaps this can lead to new kinds of common institutions.
+
+A lot of this new ability to organize comes from making use of the
+internet. Both directly as a tool and indirectly by being inspired by
+some of the protocols that internet based participation has relied on,
+such as coming from the free software movement.
+
+> It is with this in mind that the youth sector argues that youth policy
+> approaches to human rights, anti-discrimination and participatory
+> citizenship must engage with the precariousness inherent in current
+> labour markets, and the difficulties young people face in
+> substantiating their right to decent living conditions.
+>
+> (Titley, 2008) This precariousness must also be considered when
+> looking at political participation and we can see how current
+> networked forms of participation is already adapted to this by not
+> having formal hierarchical structures with one person filling one
+> role, but more fluid organizing that allows different levels of
+> engagement and allows people to move in and out of activity depending
+> on how much effort they have available in their current life
+> situation. If people have to take (yet more) jobs or suddenly get
+> other engagements they can without notification drop out of the
+> activity and be replaced by someone else, or have the organization
+> transform to adapt to the loss of activity and more the focus to other
+> spaces.
+
+Radical constructivism
+----------------------
+
+Further Research
+----------------
+
+Concluding
+----------
 
 . | Edgeryders, Project Website. (n.d.). . | Edgeryders, Project
 Website.
@@ -1236,11 +1579,43 @@ Being paid for doing what you like-still impossible | Edgeryders,
 Project Website. (n.d.). Being paid for doing what you like-still
 impossible | Edgeryders, Project Website.
 
+Besley, T. (2009). Governmentality of youth: Beyond cultural studies.
+*I: Peters m. fl, red, Governmentality Studies in Education, Rotterdam,
+Sense Publishers*.
+
+Björgvinsson, E., Ehn, P., & Hillgren, P. A. A. (2010). Participatory
+design and democratizing innovation. In *Proceedings of the 11th
+Biennial Participatory Design Conference* (Vol. 7, pp. 41–50).
+
 CARING FOR COMMONS | Edgeryders, Project Website. (n.d.). CARING FOR
 COMMONS | Edgeryders, Project Website.
 
+Commission, E. (2009). An EU Strategy for Youth Investing and Empowering
+A renewed open method of coordination to address youth challenges and
+opportunities.
+
+Creation of Kyopol System (aka: “Symbiotic City):” the Internet as a
+catalyst for civic engagement and citizen’s activation - ckyosei.org |
+Edgeryders, Project Website. (n.d.). Creation of Kyopol System (aka:
+“Symbiotic City):” the Internet as a catalyst for civic engagement and
+citizen’s activation - ckyosei.org | Edgeryders, Project Website.
+
+Feeling a part of the political process | Edgeryders, Project Website.
+(n.d.). Feeling a part of the political process | Edgeryders, Project
+Website.
+
+Foucault, M., Bertani, M., Fontana, A., & Macey, D. (2004). *Society
+must be defended: lectures at the Collège de France, 1975-76*.
+
+Gozdzik-Ormel, Z. (2008). Have your say! manual on the revised European
+Charter on the Participation of Young People in Local and Regional
+Life.. Strasbourg: Council of Europe Pub.
+
 Hacking for change | Edgeryders, Project Website. (n.d.). Hacking for
 change | Edgeryders, Project Website.
+
+Herrera, L. (2006). Whats New about Youth ?. *Development and Change*,
+*37*, 1425–1434.
 
 Indignados: “A methodological revolution” - interview in Brussels |
 Edgeryders, Project Website. (n.d.). Indignados: “A methodological
@@ -1249,8 +1624,14 @@ revolution” - interview in Brussels | Edgeryders, Project Website.
 Interview with a Sharer | Edgeryders, Project Website. (n.d.). Interview
 with a Sharer | Edgeryders, Project Website.
 
+Latour, B. (2004). *Politics of nature: how to bring the sciences into
+democracy*.
+
 MAKING A LIVING | Edgeryders, Project Website. (n.d.). MAKING A LIVING |
 Edgeryders, Project Website.
+
+O’Donoghue, J. L. L., & Kirshner, B. (2002). Introduction: Moving youth
+participation forward. *NEW DIRECTIONS FOR YOUTH DEVELOPMENT*, 15–26.
 
 Participatory Budgeting worldwide! | Edgeryders, Project Website.
 (n.d.). Participatory Budgeting worldwide! | Edgeryders, Project
@@ -1282,5 +1663,10 @@ Edgeryders, Project Website.
 Taking to the streets | Edgeryders, Project Website. (n.d.). Taking to
 the streets | Edgeryders, Project Website.
 
+Titley, G. (2008). The future of the Council of Europe youth policy:
+AGENDA 2020.
+
 WE, THE PEOPLE | Edgeryders, Project Website. (n.d.). WE, THE PEOPLE |
 Edgeryders, Project Website.
+
+von Hippel, E. (2005). *Democratizing innovation*.
