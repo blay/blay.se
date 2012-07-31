@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Edgeryders
+title: edgeryders
 ---
+
 -   Introduction
     -   About the Edgeryders Project
     -   Research Questions
@@ -36,7 +37,8 @@ title: Edgeryders
         -   Foreground and background
         -   Common spaces and concerns
         -   Open Government
-        -   Prototyping cultures
+        -   Users and citizens
+            -   Prototyping cultures
 
 -   Concluding Remarks
     -   Summary of analysis
@@ -46,8 +48,6 @@ title: Edgeryders
     -   Further Research
     -   Concluding
 
-
-Title: edgeryders Author: Magnus Eriksson Base Header Level: 1
 
 Introduction
 ============
@@ -114,14 +114,14 @@ Method
 To get an overview of how edgeryders take part in political processes I
 have conducted a study of the mission reports and comments to those
 reports on the Edgeryders platform. This has primarily been focused on
-the campaign ”We, the People” which specifically dealt with political
+the campaign ’’We, the People’’ which specifically dealt with political
 participation. However, mission reports from other campaigns are also
-relevant, such as ”Caring for Commons”, ”Making a Living” and
-”Resilience”. This is an important point, because as we shall see
+relevant, such as ’’Caring for Commons’’, ’’Making a Living’’ and
+’’Resilience’’. This is an important point, because as we shall see
 edgeryders do not restrict their political participation to a separate
 sphere but keep a holistic view on all the whole of their lives. In
-exploring the site I have gone through all the mission reports in ”We,
-the People” and followed links to other campaigns as well as following
+exploring the site I have gone through all the mission reports in ’’We,
+the People’’ and followed links to other campaigns as well as following
 the most discussed mission reports. From this exploration, topics have
 emerged that I feel gives an overview of the most crucial aspects of how
 politics and participation are viewed from the edgeryders.
@@ -147,12 +147,12 @@ participation that we can see examples of on Edgeryders and how these
 forms can be interpreted. This comes in several categories that has been
 chosen for how they correspond to forms of political participation I
 have found in the mission reports. This is somewhat of a redundant
-approach. Since the edgeryders are ”citizen experts”, they are of course
-also self-reflexive and read and are inspired by theory, perhaps the
-same theory that I use to analyze the forms of participation they engage
-in. There are even references to this kind of literature in the mission
-reports and discussions on Edgeryders. The use of this material is
-therefor not only a way of externally interpreting the actions of
+approach. Since the edgeryders are ’’citizen experts’’, they are of
+course also self-reflexive and read and are inspired by theory, perhaps
+the same theory that I use to analyze the forms of participation they
+engage in. There are even references to this kind of literature in the
+mission reports and discussions on Edgeryders. The use of this material
+is therefor not only a way of externally interpreting the actions of
 edgeryders but also to bring forth some of the *source material* within
 these forms of participation. For example I rely sometimes on design
 theory that in recent years have developed into a theory for the
@@ -169,10 +169,10 @@ the Edgeryders platform. After a more detailed look at how the
 Edgeryders project officially talk about participation and how that has
 structured the project I will describe the forms of participation found
 in the mission reports on Edgeryders. I have devided these in three
-categories; protests, systems and social innovation. ”Protest” deals
-with street protest movements, ”systems” deal with the invention of new
-kinds of political procedures and systems and ”social innovation” deals
-with attempts to directly improve a certain situation or living
+categories; protests, systems and social innovation. ’’Protest’’ deals
+with street protest movements, ’’systems’’ deal with the invention of
+new kinds of political procedures and systems and ’’social innovation’’
+deals with attempts to directly improve a certain situation or living
 condition. After this description I will analyze the findings along
 several dimensions: *First* how politics is situated and performed in
 relation to other dimensions of life; *second* about process, goals and
@@ -208,7 +208,7 @@ background as support structure for citizen initiatives. The second
 concerns how edgeryders and institutions could find common spaces and
 concerns and work together. The third theme regard open government as an
 u,brella concept for a new way of working together. And the forth theme
-regards the idea of ”prototyping cultures” as a form of participation
+regards the idea of ’’prototyping cultures’’ as a form of participation
 that embraces uncertainty, adhoc decisions and experimentation. Finally,
 this section contains a part of the role of a project like Edgeryders in
 shaping youth policy.
@@ -225,26 +225,26 @@ Edgeryders and participation
 
 As said in the introduction, apart from the topics discussed on the
 platform, Edgeryders as a project (uppercase E) deals specifically with
-participation from its users in the role of ”citizen experts”, here
+participation from its users in the role of ’’citizen experts’’, here
 called edgeryders (with lowercase e). This is reflected in the
-presentation of Edgeryders as ”the worlds largest think tank”:
+presentation of Edgeryders as ’’the worlds largest think tank’’:
 
 > Thanks to the web, we can collaborate on a massive scale to aggregate
 > our expertise into the world’s largest think tank. This is what
 > Edgeryders wants to be.
 >
-> (“. | Edgeryders, Project Website,” n.d.)
+> (Edgeryders, n.d.)
 
 Edgeryders is therefor both a way of gathering stories about responses
 to the problem of political participation by young people as well as an
 answer to its own concerns. These concerns are presented in a blog post
-on Edgeryders from January 2012 discussing the new campaign ””We, the
-People”:
+on Edgeryders from January 2012 discussing the new campaign ’’’’We, the
+People’’:
 
 > The reasoning behind this inquiry is that surveys point to a growing
 > lack of involvement on youths’ part and a gloomy future of party
-> politics. […] Who will elect our officials if not a small minority? If
-> indeed they are turning away, institutions are responsible to look
+> politics. [...] Who will elect our officials if not a small minority?
+> If indeed they are turning away, institutions are responsible to look
 > into why this happens and how to bring them closer.
 
 These concerns are also put in another light in a blog post in June 2012
@@ -260,24 +260,24 @@ the crises it is now facing:
 > it real at the European level.
 
 Central to my survey of the mission reports and discussions on the
-Edgeryders platform has been the campaign ”We, the people”(“WE, THE
-PEOPLE | Edgeryders, Project Website,” n.d.), as it dealt directly with
-political participation. The campaign presents a picture of how young
-people are rejecting traditional political participation:
+Edgeryders platform has been the campaign ’’We, the people’’(Edgeryders,
+n.d.), as it dealt directly with political participation. The campaign
+presents a picture of how young people are rejecting traditional
+political participation:
 
 > What is alarming for scholars and democracy advocates is that
 > participation is no longer a natural result of stepping into
 > adulthood, of taking up responsibilities, paying taxes etc, as it used
 > to be.
 >
-> (“WE, THE PEOPLE | Edgeryders, Project Website,” n.d.)
+> (Edgeryders, n.d.)
 
 However, the campaign asks:
 
 > The question is: to what extent they are disengaged? Or rather they
 > are engaged differently?
 >
-> (“WE, THE PEOPLE | Edgeryders, Project Website,” n.d.)
+> (Edgeryders, n.d.)
 
 It then proceeds to suggest that the latter is true, citing examples
 such as *the arab spring*, *Los Indignados* and the *Occupy protests*.
@@ -291,39 +291,35 @@ forms of surveillance by governments and other entities.
 
 The campaign then presents four missions:
 
--   Reactivating democratic institutions (“Reactivating democratic
-    institutions | Edgeryders, Project Website,” n.d.)
+-   Reactivating democratic institutions (Edgeryders, n.d.)
 
     *This mission is about stories from traditional political
     participation.*
 
--   Taking it to the streets (“Taking to the streets | Edgeryders,
-    Project Website,” n.d.)
+-   Taking it to the streets (Edgeryders, n.d.)
 
     *This mission captures experiences from street protests*\
--   Hacking for change (“Hacking for change | Edgeryders, Project
-    Website,” n.d.)
+
+-   Hacking for change (Edgeryders, n.d.)
 
     *This mission is about how technology aids political movements*
 
--   Spotlight: open government (“Spotlight: open government |
-    Edgeryders, Project Website,” n.d.)
+-   Spotlight: open government (Edgeryders, n.d.)
 
     *This mission takes a special look at how technical systems can
     foster participatory collaboration between citizens and governments*
 
-Apart from ”We”, the people” I have incorporated mission reports from
+Apart from ’’We’’, the people’’ I have incorporated mission reports from
 other campaigns, the reason being that forms of political participation
 can also be seen in practices that is not necessarily framed as a
 political participation but is still about shaping the collective world
 we live in. Stories from the introductory life stories from the mission
-”Share my ride” (“Share your Ryde | Edgeryders, Project Website,” n.d.)
-fits here, as well as mission reports form ”Making a Living” (“MAKING A
-LIVING | Edgeryders, Project Website,” n.d.) about jobs and social
-innovation, ”Caring for the Commons” (“CARING FOR COMMONS | Edgeryders,
-Project Website,” n.d.) about protecting and enhancing common resources
-and ”Resilience” (“RESILIENCE | Edgeryders, Project Website,” n.d.)
-about how society manages food and other vital resources.
+’’Share my ride’’ (Edgeryders, n.d.) fits here, as well as mission
+reports form ’’Making a Living’’ (Edgeryders, n.d.) about jobs and
+social innovation, ’’Caring for the Commons’’ (Edgeryders, n.d.) about
+protecting and enhancing common resources and ’’Resilience’’
+(Edgeryders, n.d.) about how society manages food and other vital
+resources.
 
 Forms of participation
 ----------------------
@@ -346,6 +342,22 @@ institutions are mistrusted (although that is not uncommon), but a lack
 of trust that institutions and political structures are either equipped
 to face new political challenges, utilize new participatory
 opportunities or equipped to be able to adapt to the new circumstances.
+Edgeryder Jonathan Sundqvist exemplifies this sentiment with his
+experiences with working with citizen journalism for the climate
+meetings at COP15
+
+> Perhaps it was around that time I started to feel that I wasn’t able
+> to do enough or the right things. It was the most stressful time of my
+> life participating during those meetings. So much going on all the
+> time, but at the same time, nothing. It was moving at a snail’s pace.
+
+> Sheer frustration.
+
+> People were talking. But nothing was happening. As you may know it’s
+> still going on, with little movement forward.
+>
+> (Sundqvist, n.d.)
+
 The other consequence is that no one really knows what to do next. Or
 rather, there are contending proposals of what to do next, but no
 consensus of how to proceed. This leads to a situation where there is
@@ -401,23 +413,22 @@ because they target issues that are normally perceived to be just an
 administrative matter and turn them into contested political issues. The
 the case of ACTA — the negotiations of a trade agreement. As a
 consequence, there is no clear divide among the political parties on
-this issue. No one ”owns” this issue or a position on it and this can
+this issue. No one ’’owns’’ this issue or a position on it and this can
 create interesting political alliances.
 
 > An unintended consequence of this political diversity on the streets
 > was that neither politicians nor media had a clue how to describe the
-> movement, how to narrate about it nor categorize it. […]It turned out
-> that neither media nor politicians are able to handle truly
+> movement, how to narrate about it nor categorize it. [...] It turned
+> out that neither media nor politicians are able to handle truly
 > grass-roots, spontaneous initiatives focused on particular issues,
 > functioning over (or away from!) the usual political and social
 > divides.
 >
-> (“Anti-ACTA in Poland - seen from the inside | Edgeryders, Project
-> Website,” n.d.)
+> (rysiek, n.d.)
 
 Not only does issues like this create new political alliances but since
 neither media nor politicians have an established routine for handling
-them, especially when they target an part of the political process that
+them, especially when they target a part of the political process that
 rarely interacts with citizens, it opens up political space for
 unexpected turns. In the case of Anti-ACTA in Poland, this is best
 exemplified with the 7 hour long debate between the activists and the
@@ -453,13 +464,13 @@ internet in general has created an inspiring culture of sharing and
 co-production that these system builders tries to adapt to other
 phenomena in society. As one edgeryder puts in:
 
-> [I]t’s possible to create a whole lifestyle based on sharing without
+> It’s possible to create a whole lifestyle based on sharing without
 > joining a commune. Car sharing, co-housing, co-working, yard sharing,
 > bike sharing, tool sharing and other innovations are growing in
 > popularity. And they do not require you to give up your privacy,
 > individuality or even ownership of your stuff.
 >
-> (“Interview with a Sharer | Edgeryders, Project Website,” n.d.)
+> (Gorenflo, n.d.)
 
 One prolific cluster of initiatives are the ones that go under the
 banner of *Open Data*. This is initiatives that see a participatory
@@ -477,37 +488,33 @@ citizen initiatives can act in more agile ways than institutions:
 > organizations are just way better and faster than government agencies
 > in performing some of the related operations
 >
-> (“Spaghetti open data: a little thing that feels right | Edgeryders,
-> Project Website,” n.d.)
+> (Cottica, n.d.)
 
 The way these initiatives have proliferated so far is in many cases that
 a group of citizen enthusiasts manages to get in contact with an
-”insider” who is either knowledgable in software or ust enthusiastic
-about the idea. An example from the Italian ”Spaghetti Open Data”
-initiative showed how ”a couple of civil servants  joined forces with
+’’insider’’ who is either knowledgable in software or ust enthusiastic
+about the idea. An example from the Italian ’’Spaghetti Open Data’’
+initiative showed how ’’a couple of civil servants  joined forces with
 hackers from the Open Knowledge Fondation and the Guardian’s datablog to
 release a fantastic dataset on public expenditure in a fully open and
-interactive form” (“Spaghetti open data: a little thing that feels right
-| Edgeryders, Project Website,” n.d.).
+interactive form’’ (Cottica, n.d.).
 
 Another example from Edgeryders where open data is combined with a
-structure for participation is ”the concept of ”Participatory
-Budgeting”. [Explain the concept] Participatory budgeting is an attempt
-to, in a systemic way, structure the interaction between governing
-institutions and citizens. This is not without its critics and
-participatory budgeting has been criticized sometimes for being too much
-of a top-down initiative that is focused on improving and enriching the
-work of political institutions rather than focusing on citizens own
-initiatives. This view is expressed in a comment on Edgeryders:
+structure for participation is ’’the concept of ’’Participatory
+Budgeting’’. Participatory budgeting is an attempt to, in a systemic
+way, structure the interaction between governing institutions and
+citizens. This is not without its critics and participatory budgeting
+has been criticized sometimes for being too much of a top-down
+initiative that is focused on improving and enriching the work of
+political institutions rather than focusing on citizens own initiatives.
+This view is expressed in a comment on Edgeryders:
 
-> My strong critique is that PB is […] just like a nice tool in the hand
-> of politicians to better involve citizens, and not the contrary. […]
-> Therefore, citizens come to award them, rather than themselves, and
-> keep thinking [PB] as a service offered [rather] than a right
-> achieved!
+> My strong critique is that PB is [...] just like a nice tool in the
+> hand of politicians to better involve citizens, and not the contrary.
+> [...] Therefore, citizens come to award them, rather than themselves,
+> and keep thinking as a service offered rather than a right achieved!
 >
-> (“Participatory Budgeting worldwide! | Edgeryders, Project Website,”
-> n.d.)
+> (Stortone, n.d.)
 
 This problem of how participation is facilitated, on whose initiative
 and on what term is something that will be dealt with more in the
@@ -520,41 +527,38 @@ The final category is what I call social innovation and direct
 improvements. Like the name suggest, this is about initiatives that
 directly try to improve the living conditions in a certain situation,
 together with other peers and without going through the representing
-phase of trying to influence a decision makes within a political
+phase of trying to influence a decision makers within a political
 institution to do something about the problem. Social innovation has
 become something of a buzzword lately and often refers to projects that
-both improve social conditions *and* make a profit. However, the way
+both improve social conditions *and* make a profit. However, the way I
 interpret the term, it doesn’t have to involve making a profit. The
 profit is there to enable the project to sustain itself over time and
 this can also be accomplished through other means such as pubic funding
 or by volunteer efforts.
 
 An example of social innovation is found in an Edgeryders report from
-Sicily about the Addiopizzo initiative (“Addiopizzo. Aware consumers
-against the Mafia system. | Edgeryders, Project Website,” n.d.). This
-can be described as a variation of the *Fair Trade* motif but being
-about supporting Sicilian restaurants who refuse to pay bribes to the
-mafia. The initiative is started by a group of young people in Palermo.
+Sicily about the Addiopizzo initiative (Zabatino, n.d.). This can be
+described as a variation of the *Fair Trade* motif but being about
+supporting Sicilian restaurants who refuse to pay bribes to the mafia.
+The initiative is started by a group of young people in Palermo.
 
 > Addiopizzo is a non-partisan movement and a volunteer association that
-> opposes the Mafia System. It promotes a virtuous economic system free
+> opposes the Mafia System. It promotes a virtuous economic system free
 > from the control of the Mafia through a project called " Critical
-> Consumption”
+> Consumption’’
 >
-> (“Addiopizzo. Aware consumers against the Mafia system. | Edgeryders,
-> Project Website,” n.d.)
+> (Zabatino, n.d.)
 
-The ”Critical Consumption” project started as a way to index and support
-those restaurants that dared to challenge the practice of paying bribes
-to the mafia.
+The ’’Critical Consumption’’ project started as a way to index and
+support those restaurants that dared to challenge the practice of paying
+bribes to the mafia.
 
 > Critical Consumption is a project that wants to support merchants who
 > do not submit to the extortion racket, creating a network of aware
 > consumers who commit themselves to go to those merchants for their
 > purchases.
 >
-> (“Addiopizzo. Aware consumers against the Mafia system. | Edgeryders,
-> Project Website,” n.d.)
+> (Zabatino, n.d.)
 
 Addiopizzo incorporates several characteristics common to social
 innovation projects.
@@ -567,7 +571,7 @@ innovation projects.
 -   They involve multiple stakeholders, tend to go viral, and are based
     on building a community
 
--   They practice ”Design in use”(Björgvinsson, Ehn, & Hillgren, 2010)
+-   They practice ’’Design in use’’(Björgvinsson, Ehn, & Hillgren, 2010)
     and expand issues as more stakeholders become involved
 
 Social innovation is also the form of political participation that
@@ -591,9 +595,7 @@ experimentation in the neighborhoods where they were located:
 > lessons (Nuovo Cinema Palazzo), readings, projections, trump
 > tournaments in the summer for the elderly (Nuovo Cinema Palazzo).
 >
-> (“THE LEGITIMATE ILLEGALITY. CULTURE AS A COMMONS. A JOURNEY THROUGH
-> THE ITALIAN SPACES OCCUPIED BY KNOWLEDGE WORKERS \# 2 | Edgeryders,
-> Project Website,” n.d.)
+> (Zabatino, n.d.)
 
 Through direct improvements of living conditions, new forms of
 participation and political relations can emerge:
@@ -604,9 +606,7 @@ participation and political relations can emerge:
 > citizens, places where you implement new social policies based on co -
 > operation and identification of real urgencies.
 >
-> (“THE LEGITIMATE ILLEGALITY. CULTURE AS A COMMONS. A JOURNEY THROUGH
-> THE ITALIAN SPACES OCCUPIED BY KNOWLEDGE WORKERS \# 2 | Edgeryders,
-> Project Website,” n.d.)
+> (Zabatino, n.d.)
 
 Analysis of Participation on Edgeryders
 ---------------------------------------
@@ -618,10 +618,11 @@ is that the political can turn up anywhere in relation to other
 practices of life. Political participation is not seen as a special
 sphere of life and it does not have a designated time and place such as
 it would have if one would engage in a political organization after work
-or school. There are clear examples of this on Edgeryders, for example a
-post called ”Being paid for doing what you like - still impossible”
-(“Being paid for doing what you like-still impossible | Edgeryders,
-Project Website,” n.d.) where the mission report starts out with a quite
+or school.
+
+There are clear examples of this on Edgeryders, for example a post
+called ’’Being paid for doing what you like - still impossible’’
+(lucyanna, n.d.) where the mission report starts out with a quite
 personal discussion about the dilemma of having to choose between
 getting paid for doing a job you are not uncomfortable with and doing
 what you like but not get rewarded financially for it. The options that
@@ -631,10 +632,11 @@ of very little. The discussion in the comment field however quickly
 turns to a discussion of the political situation that brought this
 dilemma about and political actions and alternative economic systems
 that could solve this it such as time-banks, alternative currencies,
-ways of sharing resources. The Edgeryders platform has also been
-successful in encouraging people to tell stories from their own life
-situations and then have an active team and community that encourages
-wider reflection in the discussions.
+ways of sharing resources.
+
+The Edgeryders platform has also been successful in encouraging people
+to tell stories from their own life situations and then have an active
+team and community that encourages wider reflection in the discussions.
 
 ### Process, outcome and continuity
 
@@ -644,29 +646,32 @@ to work towards a well defined goal, they aim to establish procedures
 and form of interaction where political discussions and actions are made
 possible. This can be seen in protest movements as well as the system
 building and social innovation. As is expressed in an interview with a
-participant of Los Indignados posted on Edgeryders (“Indignados: ‘A
-methodological revolution’ - interview in Brussels | Edgeryders, Project
-Website,” n.d.), in examples such as occupy and Indignados, this has
-been criticized from outsiders as a weakness. But from within the
-movements it is rather seen as an indication that they are trying to
-address the roots of the contemporary political situation rather than
-trying to fix problems on the surface. One can link this to a larger
-societal trend of moving from formal modes of interaction to experiment
-with open-ended forms of participation. Not only in political action but
-also regarding for example innovation in the business world (von Hippel,
-2005). This is of course correlated to the rise of networked
-communication technologies. For political action though there are some
-problems associated with this form of participation and that is a
-widespread problem with continuity. Since participation is mostly based
-on time- and resource consuming volunteer efforts and a process-oriented
-practice is based on continuous involvement without ever really reaching
-a plateau where political gains are institutionalized and secured, it
-can easily lead to individual and collective burn-out. For the corporate
-world, this is rarely a problem because they have an abundance of
-resources to throw at this process year after year, but in the time- and
-resource scarce world of volunteer political engagement, this becomes a
-real problem. Open-ended, networked and process-oriented participation
-is very prolific in getting things started, gathering people, spreading
+participant of Los Indignados posted on Edgeryders (Paola, n.d.), in
+examples such as occupy and Indignados, this has been criticized from
+outsiders as a weakness. But from within the movements it is rather seen
+as an indication that they are trying to address the roots of the
+contemporary political situation rather than trying to fix problems on
+the surface.
+
+One can link this to a larger societal trend of moving from formal modes
+of interaction to experiment with open-ended forms of participation. Not
+only in political action but also regarding for example innovation in
+the business world (von Hippel, 2005). This is of course correlated to
+the rise of networked communication technologies.
+
+For political action though there are some problems associated with this
+form of participation and that is a widespread problem with continuity.
+Since participation is mostly based on time- and resource consuming
+volunteer efforts and a process-oriented practice is based on continuous
+involvement without ever really reaching a plateau where political gains
+are institutionalized and secured, it can easily lead to individual and
+collective burn-out. For the corporate world, this is rarely a problem
+because they have an abundance of resources to throw at this process
+year after year, but in the time- and resource scarce world of volunteer
+political engagement, this becomes a real problem.
+
+Open-ended, networked and process-oriented participation is very
+prolific in getting things started, gathering people, spreading
 information and working up an energy for a new form of participation in
 the beginning of a project, but after the initial phase it can be
 problematic to solidify the initial achievements. In the comment section
@@ -678,22 +683,63 @@ of the post on Addiopizzo this is discussed:
 > increase in the number of shops in the list was much higher in a
 > couple of years and it was not proportional.
 >
-> (“Addiopizzo. Aware consumers against the Mafia system. | Edgeryders,
-> Project Website,” n.d.)
+> (Zabatino, n.d.)
 
 This problem is also recognized in my field of design research where
 participatory research projects that work with social design
 intervention in people lives have become more common the last years.
-Sometimes called ”The Project Fallacy”, a re-occuring problem is that
+Sometimes called ’’The Project Fallacy’’, a re-occuring problem is that
 between interventions that require long-term commitments to achieve the
 desired impact and funding structures that premiers short-term
 contracts. As a result, many projects end up involving a lot of
 stakeholders in a promising effort, but when the funding is drained and
 the project ends, the situation goes back to what it was before the
-intervention and no change has actually been achieved. I will present
-some ways that researchers have been trying to solve this in the section
-on ”Prototyping culture” when I discuss suggestions for policy
-improvement.
+intervention and no change has actually been achieved.
+
+Edgeryders user “demsoc” describes this problem in his work on the UK
+initiative “We Live Here” that “tried to create a civic space by
+networking the networks that already exist in the community”(demsoc,
+n.d.). Projects initiated from the outside of communities can be seen
+negatively by the affected participants.
+
+> Innovation can sometimes come across as “testing our brilliant idea on
+> you”, particularly in communities that have had a lot of different
+> projects tested on them.
+>
+> (demsoc, n.d.)
+
+What “We Live Here” instead did was to map and make use of already
+existing networks:
+
+> We asked local public services for the names of the five people they
+> thought were particularly active in that community. We went to find
+> them and asked them who they spoke to about their neighbourhood, who
+> they trusted for reliable information about their neighbourhood, and
+> who they would recommend to someone who was new to the neighbourhood.
+> Then we asked the people they named the same questions. 
+>
+> (demsoc, n.d.)
+
+There is a scaling problem with many of the Edgeryders projects that
+stay as local initiatives (some of the systems solutions though is
+scalable in an information system sense).
+
+Perhaps political institutions, such as the state, is necessary to
+handle the scaling issues of multiple local initiatives.
+
+There are several reasons why scaling issues are absent. One is that
+edgeryders, as other people, are most engaged in what is immediately
+relevant to them and their communities. That means that direct
+improvement of local conditions is a present issue while global climate
+change, melting of polar ice or regional waste management is less
+present (except from as a background story). Another reason is that
+there is a skepticism that the scale necessary to solve those issues
+will be a viable path. Either that working on that scale, for example
+with the state, is closed, or that those larger networks and supply
+chains necessary for action on that scale will simply break down and
+local communities will have to manage their own resilience, as described
+in the report on the resilience session at the Edgeryders conference
+(LucasG, n.d.).
 
 ### What participation is missing?
 
@@ -726,8 +772,8 @@ example, while people on Edgeryders are open about participating in
 protest movements such as Occupy and Los Indignados, I find no accounts
 from any of the young people that took part in the London riots. While I
 am sure many policy makers would denounce that activity, their voices
-are important to get a full people of the desires and feelings of young
-people in Europe today and what view they have on formal political
+are important to get a full understanding of the desires and feelings of
+young people in Europe today and what view they have on formal political
 institutions.
 
 Beyond being a problem of representation, many of the accounts of
@@ -735,7 +781,20 @@ political participation on Edgeryders deal with responses to the current
 economic crisis and some the communities that are not present are
 perhaps the young Europeans that are hit the hardest by the crisis,
 already being in vulnerable living conditions and without much space for
-social maneuverability.
+social maneuverability. This is also problematized in the ethnographic
+report on Edgeryders by Rebecca Collins and Valentina Cuzzocrea:
+
+> Although participants in this project have represented a diverse set
+> of backgrounds and experiences, they have also been a self-selecting
+> group of privileged actors, which means that inevitably some voices
+> are missing. Furthermore, the mission reports have been shaped by the
+> questions posed within the campaigns and, as a result, Edgeryders
+> stories have usually been framed around the positive actions they are
+> taking as they navigate their transitions. In short, it must be
+> acknowledged that there is a risk of reading these stories in too
+> positive a light.
+>
+> (Collins & Cuzzocrea, n.d.)
 
 Overview of Youth Policy
 ========================
@@ -762,7 +821,7 @@ summarized by Linda Herrera:
 
 Another dominating theme in youth policy apart form this new landscape
 is the notion of crisis. As the European commission writes in the report
-”An EU Strategy for Youth”:
+’’An EU Strategy for Youth’’:
 
 > Globalisation can bring growth and jobs, but it can also bring about
 > specific challenges for vulnerable workers such as youth, as
@@ -778,8 +837,8 @@ of youth that the crisis affects hard.
 
 This all lead to a situation where youth is facing great uncertainty,
 which is reflected in the concerns of the youth policies. As summarized
-by Titley in a background paper to ”8th Council of Europe Conference of
-Ministers responsible for Youth”:
+by Titley in a background paper to ’’8th Council of Europe Conference of
+Ministers responsible for Youth’’:
 
 > Indeed if there is a core theme running through the different issues
 > youth policy and work will have to address in relation to the work
@@ -787,13 +846,13 @@ Ministers responsible for Youth”:
 >
 > (Titley, 2008)
 
-Yet, in this precarious situation, Titley recognizes ”the new range of
+Yet, in this precarious situation, Titley recognizes ’’the new range of
 opportunities and possibilities many young people have in what can
-loosely be termed our knowledge societies”(Titley, 2008) and that there
-is ”[a] strong tendency towards freedom of cultural expression,
+loosely be termed our knowledge societies’’(Titley, 2008) and that there
+is ’’a strong tendency towards freedom of cultural expression,
 creativity and individualism paves the way for young people today, who
 identify themselves as cultural producers and carriers of innovation and
-new forms of expression”(Titley, 2008).
+new forms of expression’’(Titley, 2008).
 
 This situation with crisis and uncertainty on the one hand and new
 opportunities and a new culture of participation on the other hand leads
@@ -873,8 +932,9 @@ guided through the transition to adulthood so that they don’t fall into
 any traps(Besley, 2009). If this fails, the youth justice system has to
 take over and try to get the youth back on track(Besley, 2009).
 
-Not all policy has this view of youth though. The report ”An EU Strategy
-for Youth” from the European Commission has the following to say:
+Not all policy has this view of youth though. The report ’’An EU
+Strategy for Youth’’ from the European Commission has the following to
+say:
 
 > Young people are not a burdensome responsibility but a critical
 > resource to society which can be mobilised to achieve higher social
@@ -890,13 +950,13 @@ The Council of Europe share a similar view on youth:
 >
 > (Titley, 2008)
 
-In the article ”Moving youth participation forward”, O’Donoghue et.al.
-States that “Youth development researchers have noted a shift in youth
+In the article ’’Moving youth participation forward’’, O’Donoghue et.al.
+states that “Youth development researchers have noted a shift in youth
 work in the past two decades from prevention (programs designed to treat
-and prevent the problems of “at-risk” youth) to preparation”. Youth are
-to be prepared to face the challenges of the transition to adulthood in
-a self-governing manner. In this preparedness, political participation
-is seen as a key:
+and prevent the problems of “at-risk” youth) to preparation” (O’Donoghue
+& Kirshner, 2002). Youth are to be prepared to face the challenges of
+the transition to adulthood in a self-governing manner. In this
+preparedness, political participation is seen as a key:
 
 > Europe’s youth need to be equipped to take advantage of opportunities
 > such as civic and political participation, volunteering, creativity,
@@ -905,8 +965,8 @@ is seen as a key:
 > (Commission, 2009)
 
 The importance of participation from the perspective of youth policy is
-also reflected in its inclusion in the United Nations ”Convention on the
-Rights of the Child”.
+also reflected in its inclusion in the United Nations ’’Convention on
+the Rights of the Child’’.
 
 The figure of the youth seems to embody the fears and hopes of our
 society. As Linda Herrera states in an assessment of youth policy:
@@ -926,7 +986,7 @@ innovation and creativity are projected on the youth. Precisely the
 properties that society hopes to see in the future.
 
 XXX names this oscillation between stepping back and allowing
-self-governance while retaining control ”governmentality”. The term
+self-governance while retaining control ’’governmentality’’. The term
 comes from Foucault…
 
 Edgeryders hardly present youth as troubled and in need of guidance, but
@@ -944,9 +1004,9 @@ The Idea of Participation
 
 While it is considered a key factor for youth policy, it is still often
 unclear what is meant by participation. It can both refer to policy that
-”empower adolescents to take part in and influence decision making that
-affects their lives”(O’Donoghue & Kirshner, 2002) or supporting youth to
-take their own initiatives that shape their own future.
+’’empower adolescents to take part in and influence decision making that
+affects their lives’’(O’Donoghue & Kirshner, 2002) or supporting youth
+to take their own initiatives that shape their own future.
 
 The distinction matters because it leads to very different perspectives
 on youth policy. Consider this quote from a European Commission report
@@ -1000,10 +1060,11 @@ broadens the view of participation:
 >
 > (Gozdzik-Ormel, 2008)
 
-The definition of participation is broadened here to include ”means” and
-”space” to participate in ”actions and activities” that “contribute to
-building a better society”. This also encompasses engaging in activities
-that influence the scope, agenda and process of political participation.
+The definition of participation is broadened here to include ’’means’’
+and ’’space’’ to participate in ’’actions and activities’’ that
+“contribute to building a better society”. This also encompasses
+engaging in activities that influence the scope, agenda and process of
+political participation.
 
 Differences between Youth Policy and Edgeryders
 -----------------------------------------------
@@ -1058,8 +1119,8 @@ edgeryders are already active in their own spaces and platforms.
 ### Should youth policy even exist?
 
 When formulating new perspectives on youth policy, one has to also
-grapple with the whole concept of ”youth” and how that category is
-changing. The category of youth is a historical construce that cheanges
+grapple with the whole concept of ’’youth’’ and how that category is
+changing. The category of youth is a historical construct that changes
 meaning in different eras. As Herrera points out in her examination of
 youth policy:
 
@@ -1109,10 +1170,10 @@ Aim of this section
 -------------------
 
 The aim of this section is to provide suggestions for how the gap
-between edgeryders and current youth policy can be bridge in a way that
+between edgeryders and current youth policy can be bridged in a way that
 take into considerations the experiences of Edgeryders and the new
 participatory environment that edgeryders are creating. Since I am both
-speaking for myself as a reseracher here as well as trying to sound the
+speaking for myself as a researcher here as well as trying to sound the
 voices of Edgeryders, I will clarify what the aim of this section is.
 
 The purpose of this section is not for me as a researcher to suggest a
@@ -1135,7 +1196,7 @@ Herrera:
 
 > In the past, political parties and formal youth organizations such as
 > youth councils with links to formal government structures represented
-> the standard form of youth partic-ipation, but this is no longer the
+> the standard form of youth participation, but this is no longer the
 > case.
 >
 > (Herrera, 2006)
@@ -1158,7 +1219,7 @@ point where institutions could provide support. To try to create policy
 that is fit to these new lifestyles as well as trying to see what
 support structures are suitable. An example of edgeryders recognizing
 the infrastructural role of institutions can be seen in the mission
-report ”Interview with a Sharer”:
+report ’’Interview with a Sharer’’:
 
 > And second, the time you free up by sharing and living more simply can
 > be used to get engaged in issues that affect your lifestyle. For
@@ -1168,7 +1229,7 @@ report ”Interview with a Sharer”:
 > community to make sure your tax dollars are spent in ways that make
 > simpler living possible.
 >
-> (“Interview with a Sharer | Edgeryders, Project Website,” n.d.)
+> (Gorenflo, n.d.)
 
 Even though voting levels are declining young people still seem to value
 the democratic foundations that institutional politics provide. As
@@ -1194,49 +1255,51 @@ new capacities for actions, spreading ideas quickly and form new
 networks; while at the same time the public institutions remains fixed
 and are not influenced by this capacity. The further this goes, the less
 possible it will be to form dialogues and make the informal
-organizations able to influence policy. The question is if this needs to
-be a matter of bringing young people *into* the public institutions or
-if the public and the informal organizations can cooperate in hybrid
-spaces around common matters-of-concern without having to take place
-within the umbrella of the public institutions. An example of this would
-be learning. Compare the difference between young people influencing
-school policy and the way their schools work versus young people
-creating new learning spaces outside of the school system altogether
-such as hackerspaces, reading groups, free schools and online based
-learning communities. Looking at the Edgeryders platform it seems as if
-it is the latter, to create alternative spaces, that is the one where
-young people see opportunities today, aided by digital communication and
-networking technologies. Although young people are developing
-alternative spaces, it does not mean that they are not influence by
-decisions taken within public institutions. But it is not always
-decisions within a narrowly defined department that affects them the
-most. For example it might not be policy on education that influences
-the creation of alternative learning spaces the most, but urban
-development, property prices or intellectual property. This highlights a
-need for multidisciplinary and multi-institutional approaches to looking
-at issues that youth cares about.
+organizations able to influence policy.
+
+The question is if this needs to be a matter of bringing young people
+*into* the public institutions or if the public and the informal
+organizations can cooperate in hybrid spaces around common
+matters-of-concern without having to take place within the umbrella of
+the public institutions. An example of this would be learning. Compare
+the difference between young people influencing school policy and the
+way their schools work versus young people creating new learning spaces
+outside of the school system altogether such as hackerspaces, reading
+groups, free schools and online based learning communities.
+
+Looking at the Edgeryders platform it seems as if it is the latter, to
+create alternative spaces, that is the one where young people see
+opportunities today, aided by digital communication and networking
+technologies. Although young people are developing alternative spaces,
+it does not mean that they are not influenced by decisions taken within
+public institutions. But it is not always decisions within a narrowly
+defined department that affects them the most. For example it might not
+be policy on education that influences the creation of alternative
+learning spaces the most, but urban development, property prices or
+intellectual property. This highlights a need for multidisciplinary and
+multi-institutional approaches to looking at issues that youth cares
+about.
 
 ### Common spaces and concerns
 
 If we forget a while about separating between participating in
 institutional politics on the one hand and self-organized initiatives on
 the other hand, there seem to be a common concern in reactivating a
-colelctive care for the commons in society. Titley suggests the term of
-”democratic partnership”(Titley, 2008) and I choose to adopt it here to
-name a process consisting of a common space where institutions and
+collective care for the commons in society. Titley suggests the term of
+’’democratic partnership’’(Titley, 2008) and I choose to adopt it here
+to name a process consisting of a common space where institutions and
 citizens share common concerns and collaborate to solve problems.
 
-These spaces blossom spontaneously anywhere when citizens find a ”matter
-of concern”(Latour, 2004) and it is not always the formal political
-organizations that spawn this activity, as the anti-ACTA protests in
-Poland shows:
+These spaces blossom spontaneously anywhere when citizens find a
+’’matter of concern’’(Latour, 2004) and it is not always the formal
+political organizations that spawn this activity, as the anti-ACTA
+protests in Poland shows:
 
 > What is essential (and very interesting in and of itself), these were
 > completely spontaneous, grass-roots activities, not associated with
 > NGOs that had been bringing up the ACTA problem for years
 >
-> (“Anti-ACTA in Poland - seen from the inside | Edgeryders, Project
-> Website,” n.d.)
+> (rysiek, n.d.)
 
 A challenge for institutions if this partnership is going to be formed
 is therefor to locate these spontaneous initiatives and respond to them
@@ -1260,17 +1323,21 @@ as to how the public institutions function and what their role and
 purpose are. As well as how to reach and influence them effectively.
 From personal experience I can say that political campaigns around net
 politics has relied heavily on a few older activists and insiders in the
-institutions to be able to guide the activity through the bureacratic
+institutions to be able to guide the activity through the bureaucratic
 jungle of european institutions.
 
 Political institutions can also have a role in making sure that the
 space of common concern is open to everyone and that citizens are not
 only represented by a tech-savvy elite among young people. Titley
-recognizes this: \> In order to ensure full and equal participation of
-all citizens, special priority should be given to special needs groups.
-This may involve encouraging more spontaneous and non-traditional forms
-of youth participation, and creative and innovative activities which are
-beyond the usual scope of established programmes. \> \> (Titley, 2008)
+recognizes this:
+
+> In order to ensure full and equal participation of all citizens,
+> special priority should be given to special needs groups. This may
+> involve encouraging more spontaneous and non-traditional forms of
+> youth participation, and creative and innovative activities which are
+> beyond the usual scope of established programmes.
+>
+> (Titley, 2008)
 
 This is especially true when political participation rests on the
 ability to individually locate and build active networks of
@@ -1289,8 +1356,8 @@ to these tools or the knowledge to use them. Titley again:
 ### Open Government
 
 A potential common space of which there are some examples on the
-Edgeryders platform is what goes under the umbrella term of ”open
-government”. Here we find several kinds of initiatives that aim to upen
+Edgeryders platform is what goes under the umbrella term of ’’open
+government’’. Here we find several kinds of initiatives that aim to upen
 up governance to a more transparent and participatory ways doing. I will
 reflect on this term here, give positive examples as well as highlight
 some critique of the idea of open government which could be solved by
@@ -1302,8 +1369,7 @@ institutions, Alberto says:
 > bridging this trust gap with information and open conversation is
 > exactly what open government does best
 >
-> (“Feeling a part of the political process | Edgeryders, Project
-> Website,” n.d.)
+> (MarukomuC, n.d.)
 
 By making governance transparent and creating tools for involving
 citizens in governance processes, open government hope to bridge the gap
@@ -1317,8 +1383,7 @@ affairs of the state.
 > government. This is why I firmly believe in the open government
 > philosophy.
 >
-> (“Spaghetti open data: a little thing that feels right | Edgeryders,
-> Project Website,” n.d.)
+> (Cottica, n.d.)
 
 Open government also offers a space for bi-directional learning where
 citizens learn the was a political institution operates while the
@@ -1361,11 +1426,36 @@ from the outside, with a majority of young participants that led to the
 European parliament asserting pressure on the European commission to
 release unredacted versions of the negotiated text.
 
-### Prototyping cultures
+### Users and citizens
+
+The idea of user communities is also reflected in the experiences told
+by *demsoc* in a mission report about the “We Live Here” project,
+mapping civic networks in Brighton.
+
+> People don’t think about “democracy”, they think about needs. Although
+> people felt that there were issues that they wanted to raise with the
+> council and with public services, the civic activists we spoke to were
+> largely uninterested in “democracy” conceptually. They were interested
+> in getting solutions to community needs, and expressing
+> community voices - goals that actually would need to be delivered
+> by democracy.
+>
+> (demsoc, n.d.)
+
+The same sentiment is reflected in the fact that edgeryders in their
+mission report talk about their and their communities needs, projects,
+networks and issues, but their political participation is rarely if ever
+framed in term of Europe and european youth. Political participation is
+not approached from the perspective of being a citizen within an
+abstract political entity such as a nation or Europe. One can however
+find the European perspective as motivation from the part of the
+organizers of Edgeryders (Vinay, n.d., see for example the blog post)
+
+#### Prototyping cultures
 
 It is not possible to sketch a single path to how the gap between
 edgeryders and institutions can be bridged. What is clear is that there
-is a great opportunity in tappoing in to the resources and creativity of
+is a great opportunity in tapping in to the resources and creativity of
 the kind of policy innovation, if we can call it that, that edgeryders
 all over Europe are doing. This quote from the report on Spaghetti Open
 Data highlights this:
@@ -1378,8 +1468,7 @@ Data highlights this:
 > So we can appropriate some political benefit releasing data, and
 > everybody wins”.
 >
-> (“Spaghetti open data: a little thing that feels right | Edgeryders,
-> Project Website,” n.d.)
+> (Cottica, n.d.)
 
 Civil society is prototyping the new society, but they still can’t do it
 without institutional support. Or rather, the civil society version will
@@ -1392,8 +1481,7 @@ better with the right kind of support. Again from Spaghetti Open Data:
 > especially because it is who has more data and better quality, as well
 > as financing for the portal.
 >
-> (“Spaghetti open data: a little thing that feels right | Edgeryders,
-> Project Website,” n.d.)
+> (Cottica, n.d.)
 
 New forms of political participation are adapted to uncertainty, chaotic
 organization, experimentation and trial and error. This form of
@@ -1416,6 +1504,61 @@ models for political participation. These self-organized initiatives
 gives a learning experience on a really low level. A radical learning
 experience in the precise sense of the word radical – to go to the root
 of something.
+
+Prototyping requires communities that can act together. “User
+communities”, as Stengers talks about, who are linked not as citizens to
+an abstract entity like the state, but linked to each other due to
+material exchanges and dependencies, such as physical proximity of
+neighbours, or common concerns for a specific set of issues.
+
+’’Beckery’’ talks about this community building as a key characteristic
+of Edgeryders:
+
+> The focus on engaging local communities marks the second facet of
+> Edgeryders’ activities that suggests, to me, that they are already
+> working to build a resilient future
+>
+> (Beckery, n.d.)
+
+A concrete example of a prototyping culture is the ’’Transition Towns’’
+movement that James Beecher mentions in his mission report on practical
+resilience(Beecher, n.d.) where he cites several ongoing projects such
+as a farmers market, a car club and an edible gardens project.
+
+Prototyping culture also has a performative element in it in the sense
+that a prototypical form of social organization is presented and put on
+display as a possibility. This is directly suggested as a method in a
+mission report by James Hester suggesting that edgeryders make use of
+“applied history methods” to enact future scenarios and ways of living.
+
+> It could be a portrayal of a London flat living a 1-planet lifestyle,
+> an off-grid and fully self-sufficient farm, or even an entire
+> neighbourhood operating on an alternative currency. [...] We get a
+> group together and come up with a scenario. We do the research on what
+> that scenario would actually, practically, look like; gather data,
+> crunch the numbers, make informed hypotheses. We experiment, and see
+> if some of our theories actually work. Then, armed with what we’ve
+> come up with, we set up a place where we will portray that scenario,
+> as accurately as possible, and invite people to come, see for
+> themselves, and ask questions.
+>
+> (Hester, n.d.)
+
+Aspects of this can be seen in several projects that edgeryders are
+involved in – a sense that something made possible in a small scale or
+for a short while gives a hint to a possible future model that can be
+scaled up. Beckery mentions several in her post about
+relilience(Beckery, n.d.) and writes:
+
+> And this is the third sense in which I think that Edgeryders are
+> already demonstrating their skills for resilience – by acting as role
+> models, hubs of knowledge, or co-ordinators of local efforts. By
+> communicating their own experiences and showing that someone has trod
+> a similar path before, Edgeryders are well-positioned to contribute to
+> the safety-nets that are essential to encourage others to follow their
+> lead.
+>
+> (Beckery, n.d.)
 
 The active engagement that participation is giving young people is a
 training not only for participating but participating effectively in
@@ -1446,7 +1589,7 @@ people that got a first hand learning experience of how to engage with
 political institutions, there are as many people for whom it was the
 first and last time.
 
-An alternative to both top-down and bottom-up approahces is spelled out
+An alternative to both top-down and bottom-up approaches is spelled out
 in the report about Kyopol, which is described as follows: “Kyopol
 promotes the development of”high quality" civic initiatives, by
 providing tools, methodologies and teaching resources that promote a
@@ -1459,9 +1602,7 @@ documented."
 > initiatives taking place in the places they care for, and deal with
 > subjects that matter to them.
 >
-> (“Creation of Kyopol System (aka: ‘Symbiotic City):’ the Internet as a
-> catalyst for civic engagement and citizen’s activation - ckyosei.org |
-> Edgeryders, Project Website,” n.d.)
+> (pedro.prieto-martin, n.d.)
 
 They call what they do “from-the-middle-and-out”.
 
@@ -1471,9 +1612,7 @@ They call what they do “from-the-middle-and-out”.
 > why the EU has not obtained much results, despite having invested more
 > than 100 million euros in the last 10 years.
 >
-> (“Creation of Kyopol System (aka: ‘Symbiotic City):’ the Internet as a
-> catalyst for civic engagement and citizen’s activation - ckyosei.org |
-> Edgeryders, Project Website,” n.d.)
+> (pedro.prieto-martin, n.d.)
 
 For substantial change and participation, there are problems with both
 the top-down and bottom-up approaches. This relates to “the project
@@ -1519,11 +1658,11 @@ are unable to direct youth today. As Herrera says:
 
 This shift in relations is not as simple as to say that governments
 should move out of the way and let youth determine their own lives. This
-perspective is strong in our contemporary society and is somehting
-Foucault has called ”governmentality”(Foucault, Bertani, Fontana, &
+perspective is strong in our contemporary society and is something
+Foucault has called ’’governmentality’’(Foucault, Bertani, Fontana, &
 Macey, 2004). This perspective, which has been translated as a critique
 of youth policy by Besley(Besley, 2009) stresses on the one hand the
-self-governance of outh and the entrepreneurial self that makes its own
+self-governance of youth and the entrepreneurial self that makes its own
 future and on the other hand discourses of risk, security and control.
 
 While globalization and neoliberal policies are reducing the impact of
@@ -1542,18 +1681,19 @@ such as coming from the free software movement.
 > labour markets, and the difficulties young people face in
 > substantiating their right to decent living conditions.
 >
-> (Titley, 2008) This precariousness must also be considered when
-> looking at political participation and we can see how current
-> networked forms of participation is already adapted to this by not
-> having formal hierarchical structures with one person filling one
-> role, but more fluid organizing that allows different levels of
-> engagement and allows people to move in and out of activity depending
-> on how much effort they have available in their current life
-> situation. If people have to take (yet more) jobs or suddenly get
-> other engagements they can without notification drop out of the
-> activity and be replaced by someone else, or have the organization
-> transform to adapt to the loss of activity and more the focus to other
-> spaces.
+> (Titley, 2008)
+
+This precariousness must also be considered when looking at political
+participation and we can see how current networked forms of
+participation is already adapted to this by not having formal
+hierarchical structures with one person filling one role, but more fluid
+organizing that allows different levels of engagement and allows people
+to move in and out of activity depending on how much effort they have
+available in their current life situation. If people have to take (yet
+more) jobs or suddenly get other engagements they can without
+notification drop out of the activity and be replaced by someone else,
+or have the organization transform to adapt to the loss of activity and
+more the focus to other spaces.
 
 Radical constructivism
 ----------------------
@@ -1564,20 +1704,10 @@ Further Research
 Concluding
 ----------
 
-. | Edgeryders, Project Website. (n.d.). . | Edgeryders, Project
-Website.
+Beckery. (n.d.). Leading the way to resilience?
 
-Addiopizzo. Aware consumers against the Mafia system. | Edgeryders,
-Project Website. (n.d.). Addiopizzo. Aware consumers against the Mafia
-system. | Edgeryders, Project Website.
-
-Anti-ACTA in Poland - seen from the inside | Edgeryders, Project
-Website. (n.d.). Anti-ACTA in Poland - seen from the inside |
-Edgeryders, Project Website.
-
-Being paid for doing what you like-still impossible | Edgeryders,
-Project Website. (n.d.). Being paid for doing what you like-still
-impossible | Edgeryders, Project Website.
+Beecher, J. (n.d.). Practical Resilience: Experiments In Resilience In A
+Small UK Market-town.
 
 Besley, T. (2009). Governmentality of youth: Beyond cultural studies.
 *I: Peters m. fl, red, Governmentality Studies in Education, Rotterdam,
@@ -1587,86 +1717,91 @@ Björgvinsson, E., Ehn, P., & Hillgren, P. A. A. (2010). Participatory
 design and democratizing innovation. In *Proceedings of the 11th
 Biennial Participatory Design Conference* (Vol. 7, pp. 41–50).
 
-CARING FOR COMMONS | Edgeryders, Project Website. (n.d.). CARING FOR
-COMMONS | Edgeryders, Project Website.
+Collins, R., & Cuzzocrea, V. (n.d.). On being Edgeryders A picture of
+young Europeans navigating their transition to an independent life.
 
 Commission, E. (2009). An EU Strategy for Youth Investing and Empowering
 A renewed open method of coordination to address youth challenges and
 opportunities.
 
-Creation of Kyopol System (aka: “Symbiotic City):” the Internet as a
-catalyst for civic engagement and citizen’s activation - ckyosei.org |
-Edgeryders, Project Website. (n.d.). Creation of Kyopol System (aka:
-“Symbiotic City):” the Internet as a catalyst for civic engagement and
-citizen’s activation - ckyosei.org | Edgeryders, Project Website.
+Cottica, A. (n.d.). Spaghetti open data: a little thing that feels
+right.
 
-Feeling a part of the political process | Edgeryders, Project Website.
-(n.d.). Feeling a part of the political process | Edgeryders, Project
-Website.
+Edgeryders. (n.d.). How Edgeryders Work.
+
+Edgeryders. (n.d.). We, The People.
+
+Edgeryders. (n.d.). Reactivating democratic institutions.
+
+Edgeryders. (n.d.). Taking to the streets.
+
+Edgeryders. (n.d.). Hacking for change.
+
+Edgeryders. (n.d.). Spotlight: open government.
+
+Edgeryders. (n.d.). Share your Ryde.
+
+Edgeryders. (n.d.). Making A Living.
+
+Edgeryders. (n.d.). Caring for Commons.
+
+Edgeryders. (n.d.). Resilience.
 
 Foucault, M., Bertani, M., Fontana, A., & Macey, D. (2004). *Society
-must be defended: lectures at the Collège de France, 1975-76*.
+must be defended: lectures at the Collège de France, 1975-76*. Penguin
+Books.
+
+Gorenflo, N. (n.d.). Interview with a Sharer.
 
 Gozdzik-Ormel, Z. (2008). Have your say! manual on the revised European
 Charter on the Participation of Young People in Local and Regional
 Life.. Strasbourg: Council of Europe Pub.
 
-Hacking for change | Edgeryders, Project Website. (n.d.). Hacking for
-change | Edgeryders, Project Website.
-
-Herrera, L. (2006). Whats New about Youth ?. *Development and Change*,
+Herrera, L. (2006). Whats New about Youth. *Development and Change*,
 *37*, 1425–1434.
 
-Indignados: “A methodological revolution” - interview in Brussels |
-Edgeryders, Project Website. (n.d.). Indignados: “A methodological
-revolution” - interview in Brussels | Edgeryders, Project Website.
-
-Interview with a Sharer | Edgeryders, Project Website. (n.d.). Interview
-with a Sharer | Edgeryders, Project Website.
+Hester, J. (n.d.). Portraying the Future: ’Historical Pre-Enactment’.
 
 Latour, B. (2004). *Politics of nature: how to bring the sciences into
-democracy*.
+democracy*. Harvard University Press.
 
-MAKING A LIVING | Edgeryders, Project Website. (n.d.). MAKING A LIVING |
-Edgeryders, Project Website.
+LucasG. (n.d.). Report on Resilience Session: Resilient Health through
+Networks.
+
+MarukomuC. (n.d.). Feeling a part of the political process.
 
 O’Donoghue, J. L. L., & Kirshner, B. (2002). Introduction: Moving youth
-participation forward. *NEW DIRECTIONS FOR YOUTH DEVELOPMENT*, 15–26.
+participation forward. *NEW DIRECTIONS FOR YOUTH DEVELOPMENT*, *2*,
+15–26.
 
-Participatory Budgeting worldwide! | Edgeryders, Project Website.
-(n.d.). Participatory Budgeting worldwide! | Edgeryders, Project
-Website.
+Paola, G. de. (n.d.). Indignados: “A methodological revolution” -
+interview in Brussels.
 
-RESILIENCE | Edgeryders, Project Website. (n.d.). RESILIENCE |
-Edgeryders, Project Website.
+Stortone, S. (n.d.). Participatory Budgeting worldwide!
 
-Reactivating democratic institutions | Edgeryders, Project Website.
-(n.d.). Reactivating democratic institutions | Edgeryders, Project
-Website.
-
-Share your Ryde | Edgeryders, Project Website. (n.d.). Share your Ryde |
-Edgeryders, Project Website.
-
-Spaghetti open data: a little thing that feels right | Edgeryders,
-Project Website. (n.d.). Spaghetti open data: a little thing that feels
-right | Edgeryders, Project Website.
-
-Spotlight: open government | Edgeryders, Project Website. (n.d.).
-Spotlight: open government | Edgeryders, Project Website.
-
-THE LEGITIMATE ILLEGALITY. CULTURE AS A COMMONS. A JOURNEY THROUGH THE
-ITALIAN SPACES OCCUPIED BY KNOWLEDGE WORKERS \# 2 | Edgeryders, Project
-Website. (n.d.). THE LEGITIMATE ILLEGALITY. CULTURE AS A COMMONS. A
-JOURNEY THROUGH THE ITALIAN SPACES OCCUPIED BY KNOWLEDGE WORKERS \# 2 |
-Edgeryders, Project Website.
-
-Taking to the streets | Edgeryders, Project Website. (n.d.). Taking to
-the streets | Edgeryders, Project Website.
+Sundqvist, J. (n.d.). Getting lost inspite of my passion for the
+environment.
 
 Titley, G. (2008). The future of the Council of Europe youth policy:
 AGENDA 2020.
 
-WE, THE PEOPLE | Edgeryders, Project Website. (n.d.). WE, THE PEOPLE |
-Edgeryders, Project Website.
+Vinay. (n.d.). At the beginning of the end, or the beginning of a new
+Europe?
 
-von Hippel, E. (2005). *Democratizing innovation*.
+Zabatino, A. (n.d.). Addiopizzo. Aware consumers against the Mafia
+system.
+
+Zabatino, A. (n.d.). The Legitimate Illegality. Culture As A Commons. A
+Journey Through The Italian Spaces Occupied By Knowledge Workers \# 2.
+
+demsoc. (n.d.). Networking the networks.
+
+lucyanna. (n.d.). Being paid for doing what you like-still impossible.
+
+pedro.prieto-martin. (n.d.). Creation of Kyopol System (aka: “Symbiotic
+City):” the Internet as a catalyst for civic engagement and citizen’s
+activation - ckyosei.org.
+
+rysiek. (n.d.). Anti-ACTA in Poland - seen from the inside.
+
+von Hippel, E. (2005). *Democratizing innovation*. MIT Press.
