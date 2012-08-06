@@ -2,6 +2,9 @@
 layout: page
 title: edgeryders
 ---
+
+This paper as [PDF](/papers/edgeryders.pdf)
+
 -   Introduction
     -   About the Edgeryders Project
     -   Research Questions
