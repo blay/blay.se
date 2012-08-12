@@ -1,8 +1,7 @@
 ---
-layout: page
+layout:page
 titel: Heta linjen i Arbetaren kultur
 ---
-
 # Ingress
 En septemberkväll 1982 samlades ett tusental ungdomar i Rålambshovsparken till synes utan syfte. Polis gick till attack och stenkastning utbröt. Man menade att en bugg i telefonsystemet -- "heta linjen" -- låg bakom upploppet. 30 år senare är det dags att ge denna händelse till rätta plats i nätpolitikens historia.
 
@@ -99,20 +98,20 @@ Reaktionen från samhället blev som bekant inget pris, utan ett anfall från po
 
 > Deras brott bestod helt enkelt i att de inte hade utnyttjat någon av de institutioner som inrättats för detta ändamål. Hade de vänt sig till rätt instans med begäran om att få organisera ett gruppmöte för dåligt målinriktade, svagt motiverade, normlösa ungdomar, så hade man inte bemött dem med polisbatonger utan med subventioner. Skaror av socialarbetare, förmyndare och fritidspedagoger skulle ha satt i rörelse för att hjälpa dem fram till en socialt önskvärd form av kommunikation.
 
-Och mycket riktigt, som på beställning kommer institutionaliseringen av "heta linjen" med där både televerket och polisen är med på noterna. En delegation ungdomar från heta linjen möter televerket och kommer nöjda därifrån efter att man kommit överens om att ungdomarna ska få en egen het linje hos Televerket. Enzensberger:
+Och mycket riktigt, som på beställning kommer institutionaliseringen av "heta linjen" där både televerket och polisen är med på noterna. En delegation ungdomar från heta linjen möter televerket och kommer nöjda därifrån efter att man kommit överens om att ungdomarna ska få en egen het linje hos Televerket. Enzensberger:
 
 > Logiken i den statliga interventionspolitiken är fullkomligt klar: första batongen, sedan moroten. Ungdomarnas sociala fantasi, deras självverksamhet skall kvävas genom ett slags kniptångsrörelse: å ena sidan genom att undertryckas, å andra sidan genom att förstatligas.
 
 > Och från den stunden kan man låta polishundarna stanna i sin hundgård. Blott hjälpsamhet och förståelse möter de får som hittat tillbaka till fållan.
 
-Enligt Enzensberger uppfattar svenskarna sina institutioner och ämbetsmannaverk som en främmande men välvillig makt. Klart det var trist det där med polishunderna och batongerna, men de förstod bara inte. När väl ungdomarna förklarat så insåg de att det sociala behovet fanns. På så vis växer det fram en slags "moralisk immunitet" kring institutionerna där bara en "med ont i sinnet" skulle få för sig att värja sig mot deras makt. Väl inne hos institutionen finns värme och hjälpsamhet, livet är enkelt och allting funkar. Ute i kylan riskerar man både att skada sig och att allt kul man hittar på stängs ner.
+Enligt Enzensberger uppfattar svenskarna sina institutioner och ämbetsmannaverk som en främmande men välvillig makt. Klart det var trist det där med polishundarna och batongerna, men de förstod bara inte. När väl ungdomarna förklarat så insåg de att det sociala behovet fanns. På så vis växer det fram en slags "moralisk immunitet" kring institutionerna där bara en "med ont i sinnet" skulle få för sig att värja sig mot deras makt. Väl inne hos institutionen finns värme och hjälpsamhet, livet är enkelt och allting funkar. Ute i kylan riskerar man både att skada sig och att allt kul man hittar på stängs ner.
 
 
 # Mediernas Makt
 
-Enzensbergers sociologiska analys i all ära, men den mest intressanta teorin stod ändå den svenska polisen för. Där är alla så kallade sociala förklaringar helt frånvarande. För dem var det utan tvivel att heta linjen hade *orsakat* upploppet. Inte bara det, för polisen menar att buggen i telefonsystemet även är förklaringen till att det "emellanåt uppträtt mycket stora ungdomsgäng i Stockholm" som ofta lett till skadegörelse och bråk med polis (SVD820920). Om bara den heta linjen, detta masspsykosframkallande medium, stängs ner så ska nog ungdomarna lugna ner sig. Inte sedan den tyske mediavetaren Friedrich Kittler hävdade att den "så kallade människan" bara är en funktion av samtidens tekniska mediastandarder har någon tagit mediernas makt på så stort allvar.
+Enzensbergers sociologiska analys i all ära, men den mest intressanta teorin stod ändå den svenska polisen för. Där är alla så kallade sociala förklaringar helt frånvarande. För dem var det utan tvivel att heta linjen hade *orsakat* upploppet. Inte bara det, för polisen menar att buggen i telefonsystemet även är förklaringen till att det "emellanåt uppträtt mycket stora ungdomsgäng i Stockholm" som ofta lett till skadegörelse och bråk med polis (SVD820920). Det låter som handlingen till någon gammal importerad B-skräckis som gick direkt till videokassett. Om bara den heta linjen, detta masspsykosframkallande medium, stängs ner så ska nog ungdomarna lugna ner sig. Inte sedan den tyske mediavetaren Friedrich Kittler hävdade att den "så kallade människan" bara är en funktion av samtidens tekniska mediastandarder har någon tagit mediernas makt på så stort allvar.
 
-Liknande slutsatser dras också under liknande debatter som följer under 80-talet. Karatefilmer orsakar kungsankravallerna och W.A.S.P skapar satanistiska självmordssekter. Och så givetvis rejvkommissionen och de hypnotiska repetetiva rytmerna följande decennium. I det perspektivet är det slående hur så kallade "moralpaniker" uppstår kring nya medier. Hur de antas orsaka kollektiv psykos bland annars hederliga samhällsmedborgare. Till synes yrvaket vaknar samhället upp till ett nytt socialt fenomen som blivit exponerat genom användningen av nya medier trots att orsakerna bakom det legat och pyrt under en längre tid.
+Liknande slutsatser dras också under andra debatter som följer under 80-talet. Karatefilmer orsakar kungsankravallerna och W.A.S.P skapar satanistiska självmordssekter. Och så givetvis rejvkommissionen och de hypnotiska repetetiva rytmerna följande decennium. I det perspektivet är det slående hur så kallade "moralpaniker" uppstår kring nya medier. Hur de antas orsaka kollektiv psykos bland annars hederliga samhällsmedborgare.
 
 Jag vill dock inte vara allt för snabb att avskriva dessa moralpaniker. Det vore att förneka nya mediers omvälvande kraft. Visst lugnar allt ned sig efter ett tag då samhället vant sig vid nya medier, men det är dammet som lägger sig efter en stor strid då redan samhälliga dynamiker har kopplat om sig. Hur många skulle inte, likt mig, ha haft helt andra liv om inte internet kom i vägen nångång under tonåren och öppnade upp helt nya världar. Heta linjen är också intressant eftersom den ritar om de sociala nätverken inom ett avgränsat urbant område. Heta linjen bildar en social sfär som skär rakt igenom skolar, regioner och centrum/periferi.
 
