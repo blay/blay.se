@@ -129,10 +129,10 @@ Långt innan Facebook och Google gav direkttillgång till alla användares infor
 
 # Jämförelse med Nätpolitik
 
-Förutom Enzensbergers redogörelse är det tunt om händelsen i litteraturen trots att den är så egensinnig i sin karaktär. Det enda omnämnandet på nätet jag hittar är bloggen Mothugg som 2011 läste Enzensbergers text och mycket riktigt påpekar att heta linjen-upploppet för tankarna till mycket av dagens diskussioner kring "nätpolitik" -- "långt innan begrepp som flashmobs, phreaking, hacktivism, sociala medier eller för den delen nätpolitik blev till allmängods i svenska språket." Även taktiken att ta något fritt, stänga ner det och göra en officiell variant av den har benämnts "spotifiering" av en viss kulturredaktör.
+Förutom Enzensbergers redogörelse är det tunt om händelsen i litteraturen trots att den är så egensinnig i sin karaktär. Det enda omnämnandet på nätet jag hittar är bloggen Mothugg som 2011 läste Enzensbergers text och mycket riktigt påpekar att heta linjen-upploppet för tankarna till mycket av dagens diskussioner kring "nätpolitik" -- "långt innan begrepp som flashmobs, phreaking, hacktivism, sociala medier eller för den delen nätpolitik blev till allmängods i svenska språket." Även taktiken att ta något fritt, stänga ner det och göra en officiell variant av den har som bekant benämnts "spotifiering" av en viss kulturredaktör.
 
 En samtida nyhet om händelsen kanske skulle sett ut som följande:
 
-> Nätpolitik: En flashmob som uppstod genom sociala medier hamnade på fredagskvällen i konfrontation med polisen. Polisen misstänker att en grupp phreakers ligger bakom hackerattacken mot telefonnätverket som möjliggjorde den anonyma mötesplatsen där eventet skapats.
+> Nätpolitik: En flashmob som uppstod genom sociala medier hamnade på fredagskvällen i konfrontation med polisen. Det finns misstankar om att en grupp phreakers ligger bakom hackerattacken mot telefonnätverket som möjliggjorde den anonyma mötesplatsen där eventet skapats. Polisen menar att det finns risk för att det anonyma nätverket används för grov organiserad brottslighet och tänker därför stänga ner det.
 
 Den 17 september (i år en tisdag) är det 30 år sedan heta linjen-upploppet. Det innebär att vi har nästan exakt en månad på oss att komma på hur vi bäst uppmärksammar jubileet. *Ska du till Fridhemsplan ikväll?*
