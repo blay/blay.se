@@ -1,6 +1,6 @@
 ---
-layout: page
-titel: Om heta linjen i Arbetaren kultur
+layout:page
+titel: Heta linjen i Arbetaren kultur
 ---
 # Ingress
 En septemberkväll 1982 samlades ett tusental ungdomar i Rålambshovsparken till synes utan syfte. Polis gick till attack och stenkastning utbröt. Man menade att en bugg i telefonsystemet -- "heta linjen" -- låg bakom upploppet. 30 år senare är det dags att ge denna händelse till rätta plats i nätpolitikens historia.
@@ -35,7 +35,7 @@ Men redan på fredagskvällen den 17 september ett par veckor senare hade antale
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 
-Något liknande hade aldrig tidigare upplevts. Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade sig för att skingra klungan.
+Antalet uppgick snart till närmare tusen ungdomar. Något liknande hade aldrig tidigare upplevts. Okontrollerbara,  men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade sig för att skingra klungan.
 
 > - De fanns överallt, berättar kommissarie Kjell Andersson. På busskurens tak, i träden, på valstugetaken och i elledningarna. Men de skingrade sig när vi kom. (EX820918)
 
@@ -43,13 +43,15 @@ Istället rör sig massan mot Rålambshovsparken *utan marschordning, utan parol
 
 Ett femtiotal poliser med kravallhjälmar och hundar gick in för att skingra massan. Ungdomarna började kasta stenar, ölburkar och flaskor från gångbron. Kjell Andersson beskriver som som att "det blev någon sorts masspsykos. Allt fler började kasta saker." (EX820919)
 
- Batongslag utdelades, blåmärken uppstod. Några hävde att de blivit hundbitna. Fyra poliser skadades av flygande föremål. Tio ungdomar omhändertogs och fick hämtas ut från arresten av sina föräldrar. Vid 22-tiden ungdomarna skingrade och allt återgick till det normala.
+ Batongslag utdelades, blåmärken uppstod. Några hävdade att de blivit hundbitna. Fyra poliser skadades av flygande föremål. Tio ungdomar omhändertogs och fick hämtas ut från arresten av sina föräldrar. Vid 22-tiden ungdomarna skingrade och allt återgick till det normala.
   
 # Reaktioner efteråt
 
-Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...). "Tonåringarna, de flesta i 14-18-årsåldern kände inte varandra [...] Kontakten hade de knutit via "heta linjen" -- den nya flugan som genom televerkets misstag gör det möjligt för ett obegränsat antal människor att bli ihopkopplade på samma telefonledning". (AB820918)
+Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...). 
 
-Ryktet går att televerket ska stoppa heta linjen. "Vi skriver på protestlistor mot televerket. Var ska man kunna få kontakt med varandra i fortsättningen? sa Sanna Norelid, 16, från Djursholm och hon fick ivrigt medhåll från sina okända kamrater som slogs om att få skriva på listorna." (AB820918)
+>Tonåringarna, de flesta i 14-18-årsåldern kände inte varandra [...] Kontakten hade de knutit via "heta linjen" -- den nya flugan som genom televerkets misstag gör det möjligt för ett obegränsat antal människor att bli ihopkopplade på samma telefonledning. (AB820918)
+
+Ryktet går att televerket ska stoppa heta linjen på grund av upploppet. "Vi skriver på protestlistor mot televerket. Var ska man kunna få kontakt med varandra i fortsättningen? sa Sanna Norelid, 16, från Djursholm och hon fick ivrigt medhåll från sina okända kamrater som slogs om att få skriva på listorna." (AB820918)
 
 Mycket riktigt, ansvarige komissarie Kjell Andersson fruktar nya upplopp. "Nu fruktar vi vad som ska hända ikväll, säger Kjell Andersson. Blir det ett nytt upplopp med stenkastning måste vi se till att televerket stoppar 'Heta linjen' genast". (EX820918)
 
@@ -57,7 +59,7 @@ Svenska dagbladet uppmärksammar att det inte var den enda händelsen av sitt sl
 
 > Flera stora ungdomsgäng drev på fredagskvällen omkring i Stockholm och vållade polisen stora bekymmer. Flera ungdomar greps, bl.a. i Rålambshovsparken där de ägnat sig åt att kasta sten mot polismännen. Hos Norrmalmspolisen var den stora arresten i det närmaste fullsatt redan före kl. 22 på kvällen. Andra stora ungdomsgäng härjade bl.a. på Gärdet, på Lidingö, på Ekerö och på Bromstensfältet. (SVD820918). 
 
-Även Expressen uppmärksammar att det var en stökig helg. Ungdomar har setts som "välte bilar, krossade fönster och brände valaffischer i Stockholms city". Vid en rockkonsert på Sergerls torg samlade ungdomarna ihop affischer och tände på. När polisen gick in för att gripa dem så går kamraterna till attack för att frita dem.
+Även Expressen uppmärksammar att det var en stökig helg. Ungdomar har setts som "välte bilar, krossade fönster och brände valaffischer i Stockholms city". Vid en rockkonsert på Sergerls torg samlade ungdomarna ihop affischer och tände på. När polisen gick in för att gripa dem så går kamraterna till attack för att frita dem. Ungdomarna verkar ha varit som besatta av något.
 
 Efter de första reaktionerna drunknar nyheten i framförallt två stora händelser. På söndagen täcks förstasidorna av massakerna i Sabra och Shantila i Libanon som krävde närmare tusen liv. På måndagen kommer nyhetsflödet att helt domineras av Palmes valseger som markerar slutet på Socialdemokraternas sex år som oppositionsparti.
 
@@ -67,11 +69,13 @@ Efter de första reaktionerna drunknar nyheten i framförallt två stora händel
 En liten liten notis ses dock på DNs förstasida på söndagen: "Slutringt på heta linjen". Längre in i tidningen får vi lära att televerket har kallat in tjugo experter som ska stänga ner de nummer som används för heta linjen. Den extrainkallade personalen kommer efter att polisen varit på besök och krävt ett stopp på samtalen.
 
 Televerket förklarar hur heta linjen funkar: 
+
 > "Heta linjen" är många linjer. Det är abonnemang som har upphört men där det finns hänvisningston och talbesked: Var god tag 90 120 för besked. 
 > - Televerket har varit generöst och låtit hänvisningen stå kvar flera år efter det att abonnemanget flyttat eller abonnemanget upphört, berättar Bengt Källsson. 
 > Alla linjer som inte används kopplas till en speciell utrustning där linjerna läggs parallellt och en talmaskin kopplas in. När flera personer ringer ett nummer som upphört kan de tala eller skrika [sic!] med varandra.
 
 DN förklarar vidare hur ungdomarna kommit över numren:
+
 > De aktuella telefonnumren sprids med blixtens hastighet. Ofta delar ungdomarna med sig av telefonnummer när de talar på heta linjen. En 18-årig pojke berättade på fredagskvällen för DN att han hade 60 nummer som gick till fria linjer.
 
 Televerket är dock inte så hjärtlösa att de bara stänger ner linjerna. Man förstår trots allt att det finns ett socialt behov, framförallt för "gamla, sjuka och handikappade"(DN820919). Istället ska man undersöka möjligheterna till att ordna "seriösa gruppsamtal" (DN820919).
