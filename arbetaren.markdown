@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 titel: Heta linjen i Arbetaren kultur
 ---
 # Ingress
