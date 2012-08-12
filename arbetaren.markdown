@@ -1,7 +1,8 @@
 ---
-layout:page
+layout: page
 titel: Heta linjen i Arbetaren kultur
 ---
+
 # Ingress
 En septemberkväll 1982 samlades ett tusental ungdomar i Rålambshovsparken till synes utan syfte. Polis gick till attack och stenkastning utbröt. Man menade att en bugg i telefonsystemet -- "heta linjen" -- låg bakom upploppet. 30 år senare är det dags att ge denna händelse till rätta plats i nätpolitikens historia.
 
