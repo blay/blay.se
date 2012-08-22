@@ -14,7 +14,7 @@ h4 { font-size: 1.1em; }
 
 img { border: 0; width: 540px; }
 
-blockquote { background: #A4D0C4; padding: 1.3em; margin: 0; }
+blockquote { background: #A4D0C4; padding-left: 1.3em; padding-right: 1.3em; padding-top: 0.1em; padding-bottom: 0.1em; margin: 0; }
 
 code { line-height: 1.3em; }
 
