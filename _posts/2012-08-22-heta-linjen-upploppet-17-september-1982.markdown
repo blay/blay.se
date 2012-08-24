@@ -4,7 +4,7 @@ title: Heta linjen-upploppet 17 september 1982
 summary: Den 17e september 1982 samlades ett tusental ungdomar i Rålambshovsparken till synes utan syfte. Polis gick till attack och stenkastning utbröt. Man menade att en bugg i telefonsystemet -- "heta linjen" -- låg bakom upploppet. 30 år senare är det dags att ge denna händelse till rätta plats i nätpolitikens historia.
 ---
 
-*Denna text är ytterligare en variant på en sammanställning av den research jag gjort kring heta linjen-upploppet den 17 september 1982. Tidigare versionen har hamnar i [Arbetaren Kultur](http://arbetaren.se/artiklar/heta-linjen-30-ar-senare/) och presenterats på [Make All](http://make-all.se/) på Tekniska Museet i Stockholm den 18 augusti.* 
+*Denna text är ytterligare en variant på en sammanställning av den research jag gjort kring heta linjen-upploppet den 17 september 1982. Tidigare versionen har hamnat i [Arbetaren Kultur](http://arbetaren.se/artiklar/heta-linjen-30-ar-senare/) och presenterats på [Make All](http://make-all.se/) på Tekniska Museet i Stockholm den 18 augusti.* 
 
 *Följande research är baserad till stor del på genomgång av dagstidningar på mikrofilm under de aktuella datumen. För den som vill läsa de inscannade tidningsartiklar som jag refererar till kan göra det [här](http://files.blay.se/hetalinjen/). Jag vill även passa på att tacka [Kugg](http://forskningsavd.se/) och [Linus](http://www.df.lth.se/~triad/book/) som hjälp till med research.*
 
