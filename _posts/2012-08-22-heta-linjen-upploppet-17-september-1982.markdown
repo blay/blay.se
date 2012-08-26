@@ -12,10 +12,9 @@ summary: Den 17e september 1982 samlades ett tusental ungdomar i Rålambshovspar
 
 *Men framförallt, nu gäller det att komma på hur 30-årsjubileet ska uppmärksammas, som inträffar måndagen den 17 september i år.*
 
-## Beskrivning av Händelseförlopp
+## Redogörelse av Händelseförlopp
 
-Det var inte första gången ungdomar hade bestämt träff vid Fridhemsplan på heta linjen. 
-Så lät det till exempel i en artikel i Aftonbladet den 9 september.
+Det var inte första gången ungdomar hade bestämt träff vid Fridhemsplan på heta linjen. Så lät det till exempel i en artikel i Aftonbladet den 9 september.
 
 > Nya nöjet för ungdomar i Stockholm med omnejd är improviserade gruppsamtal per telefon. 
 >
@@ -40,27 +39,28 @@ Så lät det till exempel i en artikel i Aftonbladet den 9 september.
 >
 > [(AB820909)](http://files.blay.se/hetalinjen/.820909-Aftonbladet-9.jpg)
 
-Men redan på fredagskvällen den 18 september ett par veckor senare hade antalet ungdomar ökat explosionsartat. Sociala nätverk och rykten, precis som smittor, ökar som bekant i spridning exponentiellt.
+Men redan på fredagskvällen den 17 september ett par veckor senare hade antalet ungdomar ökat explosionsartat. Sociala nätverk och rykten, precis som smittor, ökar som bekant i spridning exponentiellt. En berättar för en annan. De berättar för två till. De fyra blir 8, sen 16, 32, 64 osv. Inte nog med det. Längs vägen kan det också hända att spridningen når en riktig hubb, en extremt välsammankopplad supernod. Det är då spridningen fullkomligt exploderar. Något sådant måste ha hänt mellan den 9 september och den 17 september som vi förflyttar oss till nu.
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 >
 > [Hans-Magnus Enzensberger](http://blay.se/hetalinjen.html)
 
-Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade att skingra klungan.
+Antalet uppgick snart till närmare tusen ungdomar. Något liknande hade aldrig tidigare upplevts. Okontrollerbara men ändå så lugna. Kanske hade de en hemlig plan? Kanske var de påverkade av något? De kanske var ute efter bråk? Polisen tog det säkra före det osäkra och beslutade att skingra klungan.
 
 > De fanns överallt, berättar kommissarie Kjell Andersson. På busskurens tak, i träden, på valstugetaken och i elledningarna. Men de skingrade sig när vi kom. [(EX820918)](http://files.blay.se/hetalinjen/.820918-Expressen-18.jpg)
 
-Istället rör sig massan mot Rålambshovsparken *utan marschordning, utan paroller, utan förutbestämd plan*. Ungdomarna samlades uppe på gångbron vid parken. En spänd situation uppstod. Någon kastade en flaska.
+Istället rör sig massan mot Rålambshovsparken *utan marschordning, utan paroller, utan förutbestämd plan*. Ungdomarna samlades uppe på gångbron vid parken, polisen hack i häl. En spänd situation uppstod. Någon kastade en flaska. Då går polisen in.
 
-Ett femtital poliser med kravallhjälmar och hundar gick in för att skingra massan. Ungdomarna började kasta stenar, ölburkar och flaskor från gångbron. Kjell Andersson beskriver som som att "det blev någon sorts masspsykos. Allt fler började kasta saker." [(EX820918)](http://files.blay.se/hetalinjen/.820918-Expressen-18.jpg)
+Ett femtital poliser med kravallhjälmar och hundar går in för att skingra massan. Ungdomarna började kasta stenar, ölburkar och flaskor från gångbron. Kommissarie  Kjell Andersson beskriver senare som att "det blev någon sorts masspsykos. Allt fler började kasta saker." [(EX820918)](http://files.blay.se/hetalinjen/.820918-Expressen-18.jpg)
 
- Batongslag utdelades. Några hävde att de blivit hundbitna. Fyra poliser skadades. Tio ungdomar omhändertogs och fick hämtas ut från arresten av sina föräldrar. Vid 22-tiden ungdomarna skingrade och allt återgick till det normala.
+Batongslag utdelades, blåmärken uppstod. Några hävdade att de blivit hundbitna. Fyra poliser skadades av flygande föremål. Tio ungdomar omhändertogs och fick hämtas ut från arresten av sina föräldrar. Vid 22-tiden var ungdomarna skingrade och allt återgick till det normala.
   
-## Reaktioner efteråt
+## Reaktioner dagen därpå
 
-### Direkta reaktioner
+Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...). 
 
-Dagen efter kommer rubriken i Aftonbladet: "Heta Linjen-fans slogs med polisen" (fotbollsfans var väl det enda gatuvåld de kände till...). "Tonåringarna, de flesta i 14-18-årsåldern kände inte varandra [...] Kontakten hade de knutit via "heta linjen" -- den nya flugan som genom televerkets misstag gör det möjligt för ett obegränsat antal människor att bli ihopkopplade på samma telefonledning. [(AB820918)](http://files.blay.se/hetalinjen/.820918-Aftonbladet-14.jpg)
+>Tonåringarna, de flesta i 14-18-årsåldern kände inte varandra [...] Kontakten hade de knutit via "heta linjen" -- den nya flugan som genom televerkets misstag gör det möjligt för ett obegränsat antal människor att bli ihopkopplade på samma telefonledning.
+> [(AB820918)](http://files.blay.se/hetalinjen/.820918-Aftonbladet-14.jpg)
 
 Ryktet går att televerket ska stoppa heta linjen. "Vi skriver på protestlistor mot televerket. Var ska man kunna få kontakt med varandra i fortsättningen? sa Sanna Norelid, 16, från Djursholm och hon fick ivrigt medhåll från sina okända kamrater som slogs om att få skriva på listorna." [(AB820918)](http://files.blay.se/hetalinjen/.820918-Aftonbladet-14.jpg)
 
@@ -71,9 +71,6 @@ Svenska dagbladet uppmärksammar att det inte var den enda händelsen av sitt sl
 > Flera stora ungdomsgäng drev på fredagskvällen omkring i Stockholm och vållade polisen stora bekymmer. Flera ungdomar greps, bl.a. i Rålambshovsparken där de ägnat sig åt att kasta sten mot polismännen. Hos Norrmalmspolisen var den stora arresten i det närmaste fullsatt redan före kl. 22 på kvällen. Andra stora ungdomsgäng härjade bl.a. på Gärdet, på Lidingö, på Ekerö och på Bromstensfältet. [(SVD820918)](http://files.blay.se/hetalinjen/.820918-SVD-12.jpg). 
 
 Även Expressen uppmärksammar att det var en stökig helg. Ungdomar har setts som "välte bilar, krossade fönster och brände valaffischer i Stockholms city". Vid en rockkonsert på Sergels torg samlade ungdomarna ihop affischer och tände på. När polisen gick in för att gripa dem så går kamraterna till attack för att frita dem. [EX820920](http://files.blay.se/hetalinjen/.820920-Expressen-59.jpg)
-
-
-### Nyheten drunknar i två stora händelser
 
 Efter de första reaktionerna så drunknar nyheten i framförallt två stora händelser. På söndagen täcks förstasidorna av [massakerna i Sabra och Shantila](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) i Libanon som krävde närmare tusen liv. På måndagen kommer nyhetsflödet att helt domineras av [Palmes valseger](http://files.blay.se/hetalinjen/.820920-Expressen-1.jpg) som markerar slutet på Socialdemokraternas sex år som oppositionsparti.
 
@@ -90,6 +87,8 @@ Televerket förklarar hur heta linjen funkar:
 
 DN förklarar vidare hur ungdomarna kommit över numren:
 > De aktuella telefonnumren sprids med blixtens hastighet. Ofta delar ungdomarna med sig av telefonnummer när de talar på heta linjen. En 18-årig pojke berättade på fredagskvällen för DN att han hade 60 nummer som gick till fria linjer.
+
+Där har vi supernoden...
 
 Televerket är dock inte så hjärtlösa att de bara stänger ner linjerna. Man förstår trots allt att det finns ett socialt behov, framförallt för "gamla, sjuka och handikappade". Istället ska man undersöka möjligheterna till att ordna "seriösa gruppsamtal" [(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg).
 
@@ -126,9 +125,7 @@ Enzensbergers sociologiska analys i all ära, men det mest intressanta teorin st
 
 Liknande slutsatser dras också under liknande debatter som följer under 80-talet. [Karatefilmer](http://en.wikipedia.org/wiki/Bruce_Lee) orsakar [kungsankravallerna](http://sv.wikipedia.org/wiki/Paolo_Roberto) och [W.A.S.P](http://sv.wikipedia.org/wiki/W.A.S.P%2E) skapar [satanistiska självmordssekter](http://sv.wikipedia.org/wiki/Anton_LaVey). Och så givetvis [rejvkommissionen](http://tuggarna.posterous.com/polisen-som-mitt-i-tunnelbanan-star) och de hypnotiska repetetiva rytmerna följande decennium.
 
-I det perspektivet är det slående hur så kallade "moralpaniker" uppstår kring nya medier. Hur de antas orsaka kollektiv psykos bland annars redliga samhällsmedborgare. Till synes nyvaket vaknar samhället upp till ett nytt socialt fenomen som blivit exponerat genom användningen av nya medier trots att orsakerna bakom det legat och pyrt under en längre tid.
-
-Jag vill dock inte vara allt för snabb att avskriva dessa moralpaniker. Det vore att förneka nya mediers omvälvande kraft. Visst lugnar allt ned sig efter ett tag då samhället vant sig vid nya medier, men det är dammet som lägger sig efter en stor strid då redan samhälliga dynamiker har kopplat om sig. Hur många skulle inte, likt mig, ha haft helt andra liv om inte internet kom i vägen nångång under tonåren och öppnade upp helt nya världar. Heta linjen är också intressant eftersom den ritar om de sociala nätverken inom ett avgränsat urbant område. Heta linjen bildar en social sfär som skär rakt igenom skolar, regioner och centrum/periferi.
+Jag vill dock inte vara allt för snabb att avskriva dessa moralpaniker. Det vore att förneka nya mediers omvälvande kraft. Visst lugnar allt ned sig efter ett tag då samhället vant sig, men det är dammet som lägger sig efter en stor strid då redan samhälleliga dynamiker har förändrats. Hur många skulle inte, likt mig, ha haft helt andra liv om inte internet kom i vägen nångång under tonåren och öppnade upp helt nya världar. Det var nästan som en masspsykos, fast i positiv bemärkelse. Heta linjen är också intressant eftersom den ritar om de sociala nätverken inom ett avgränsat urbant område. Heta linjen bildar en social sfär som skär rakt igenom skolor, regioner, klasser och centrum/periferi, som annars avdelar grupper från varandra.
 
 ## En Alldeles Egen Värld
 
