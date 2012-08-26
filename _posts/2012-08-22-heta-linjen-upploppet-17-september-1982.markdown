@@ -39,7 +39,7 @@ Det var inte första gången ungdomar hade bestämt träff vid Fridhemsplan på 
 >
 > [(AB820909)](http://files.blay.se/hetalinjen/.820909-Aftonbladet-9.jpg)
 
-Men redan på fredagskvällen den 17 september ett par veckor senare hade antalet ungdomar ökat explosionsartat. Sociala nätverk och rykten, precis som smittor, ökar som bekant i spridning exponentiellt. En berättar för en annan. De berättar för två till. De fyra blir 8, sen 16, 32, 64 osv. Inte nog med det. Längs vägen kan det också hända att spridningen når en riktig hubb, en extremt välsammankopplad supernod. Det är då spridningen fullkomligt exploderar. Något sådant måste ha hänt mellan den 9 september och den 17 september som vi förflyttar oss till nu.
+Men redan ett par veckor senare hade antalet ungdomar ökat explosionsartat. Sociala nätverk och rykten, precis som smittor, ökar som bekant i spridning exponentiellt. En berättar för en annan. De berättar för två till. De fyra blir 8, sen 16, 32, 64 osv. Inte nog med det. Längs vägen kan det också hända att spridningen når en riktig hubb, en extremt välsammankopplad supernod. Det är då spridningen fullkomligt exploderar. Något sådant måste ha hänt mellan den 9 september och den 17 september som vi förflyttar oss till nu.
 
 > En vacker höstkväll i september 1982 samlades några dussin brokigt utstyrda unga människor på Fridhemsplan: helt vanliga skolungdomar, inga organiserade motorcykelgäng. Inte heller stadens fåtaliga punkare och anarkister var representerade annat än med med några få ombud. Oavbrutet dök nykomlingar upp ur tunnelbanans djup. Ingen visste var de kom ifrån och vad de hade för avsikter. De tycktes inte demonstrera för eller mot något. De bara fanns där, stod i löst sammanhållna grupper och pratade med varandra.
 >
