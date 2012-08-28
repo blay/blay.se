@@ -21,20 +21,34 @@ Det var inte första gången ungdomar hade bestämt träff vid Fridhemsplan på 
 > Man slår ett nummer som saknar abonnent. Mellan televerkets pipljud och den automatiska telefonistens "var god tag..." kan upp till 15 personer samtidigt samtala och hojta till varann. 
 > Såhär lät det vid 8.30-tiden i morse på 08/13 00 20:
 >
-> - Pip pi pip piip... var god tad 90 120 för besked...
+> Pip pi pip piip... var god tad 90 120 för besked...
+>
 > (Ett sorl av röster, hallå, hallå, finns Göran där?)
+>
 > (Flickröst:) Är det någon kille på linjen?
+>
 > (Pojke:) Ja jag!
-> - Är det du som kallas Klark Gabble
-> - Javisst
-> - Jasså, finns det ingen annan?
-> - Jag kallas även Clark Gäjbel...
+>
+> Är det du som kallas Klark Gabble
+>
+> Javisst
+>
+> Jasså, finns det ingen annan?
+>
+> Jag kallas även Clark Gäjbel...
+>
 > (Annan pojkröst:) Göran!
-> - Äh lägg av, det finns ingen Göran.
+>
+> Äh lägg av, det finns ingen Göran.
+>
 > (Flickan:) Varifrån är du då?
+>
 > (Clark Gable:) Enköping.
+>
 > Ska du till Fridhemsplan ikväll?
-> - Njä, vet inte.
+>
+> Njä, vet inte.
+>
 > (Pip pip pip piip, var god tag...)
 >
 > [(AB820909)](http://files.blay.se/hetalinjen/.820909-Aftonbladet-9.jpg)
@@ -84,9 +98,12 @@ Televerket förklarar hur heta linjen funkar:
 > "Heta linjen" är många linjer. Det är abonnemang som har upphört men där det finns hänvisningston och talbesked: Var god tag 90 120 för besked. 
 > - Televerket har varit generöst och låtit hänvisningen stå kvar flera år efter det att abonnemanget flyttat eller abonnemanget upphört, berättar Bengt Källsson. 
 > Alla linjer som inte används kopplas till en speciell utrustning där linjerna läggs parallellt och en talmaskin kopplas in. När flera personer ringer ett nummer som upphört kan de tala eller skrika [sic!] med varandra.
+[(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg)
 
 DN förklarar vidare hur ungdomarna kommit över numren:
+
 > De aktuella telefonnumren sprids med blixtens hastighet. Ofta delar ungdomarna med sig av telefonnummer när de talar på heta linjen. En 18-årig pojke berättade på fredagskvällen för DN att han hade 60 nummer som gick till fria linjer.
+[(DN820919)](http://files.blay.se/hetalinjen/.820919-DN-5.jpg)
 
 Där har vi supernoden...
 
