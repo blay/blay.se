@@ -145,7 +145,7 @@ En samtida nyhet om händelsen kanske skulle sett ut som följande:
 
 > Nätpolitik: En flashmob som uppstod genom sociala medier hamnade på fredagskvällen i konfrontation med polisen. Polisen misstänker att en grupp phreakers ligger bakom hackerattacken mot telefonnätverket som möjliggjorde den anonyma mötesplatsen där eventet skapats.
 
-Den 18 september (i år en tisdag) är det 30 år sedan heta linjen-upploppet. Det innebär att vi har nästan exakt en månad på oss att komma på hur vi bäst uppmärksammar jubileet. *Ska du till Fridhemsplan ikväll?*
+Den 17 september (i år en måndag) är det 30 år sedan heta linjen-upploppet. Det innebär att vi har nästan exakt en månad på oss att komma på hur vi bäst uppmärksammar jubileet. *Ska du till Fridhemsplan ikväll?*
 
 *Stay tuned for part II...*
 
