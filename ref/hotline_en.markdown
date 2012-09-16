@@ -87,7 +87,7 @@ Also evening paper Expressen acknowledges that it was a messy weekend. Youths ha
 After the initital reactions the news about the incident drown in two major events. On  Sunday, the headlines are covered by [the massacres in Sabra och Shantila](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) in Lebanon that cost almost 1000 lives. On Monday, the news flow is dominated by [the electoral victory of Olof Palme](http://files.blay.se/hetalinjen/.820920-Expressen-1.jpg)  that marks the end of the Social Democrats six years as an opposition party.
 
 
-### The Establishment of an Official Line
+## The Establishment of an Official Line
 
 However, a small notice on [the front page of daily Dagens Nyheter](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) on Sunday says: "Slutringt på heta linjen" (No more calls on the hot line). [Further into the paper](http://files.blay.se/hetalinjen/.820919-DN-5.jpg) we learn that Televerket has called in twenty experts that are going to shut down the numbers used for the hot line. The extra personell follows directly on a visit from the police that demanded an end to the calls.
 
