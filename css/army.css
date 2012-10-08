@@ -1,0 +1,122 @@
+
+#everything {
+    min-height: 100%;
+    min-width: 710px;
+    position: relative;
+    width: 100%;
+}
+body {
+    font: 1em/1.5em georgia,optima,arial,clean,sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+pre {
+    padding: 10px;
+}
+h1 {
+    color: #FFB700;
+    font-size: 1.6em;
+    font-variant: small-caps;
+    line-height: 1.2em;
+}
+h2 {
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 1em;
+    font-style: italic;
+}
+h4 {
+    font-size: 1.1em;
+}
+.post img {
+    border: 0 none;
+    width: 540px;
+}
+blockquote {
+    border: 2px dashed #F00018;
+    margin: 0;
+    padding: 0.1em 1.3em;
+}
+code {
+    line-height: 1.3em;
+}
+.content {
+    color: #3C341F;
+    margin: 100px auto;
+    position: relative;
+    text-align: justify;
+    width: 800px;
+}
+.content a {
+    color: #FFB700;
+}
+.content pre {
+    margin-left: -130px;
+    width: 720px;
+}
+.content .post {
+}
+.content ul, .content ol {
+    padding-left: 30px;
+}
+.content #older_and_newer a {
+    color: #3C341F;
+    text-decoration: none;
+}
+.content #older_and_newer .older {
+    position: absolute;
+    right: 120px;
+    top: -2em;
+}
+.content #older_and_newer .newer {
+    left: 20px;
+    position: absolute;
+    top: -2em;
+}
+.tagline, .copyright {
+    background-color: #3C341F;
+    color: #FFB700;
+    font: 3em impact,arial,clean,sans-serif;
+}
+.tagline a, .copyright a {
+    color: #FFB700;
+    text-decoration: none;
+}
+.year {
+    color: #9A9C9F;
+    font-size: 2em;
+    left: -50px;
+    line-height: 1em;
+    position: absolute;
+}
+.meta {
+    float: right;
+    font-size: 0.8em;
+    line-height: 2em;
+    position: relative;
+    right: -170px;
+    top: 70px;
+    width: 130px;
+}
+.date {
+    color: #888888;
+    font-weight: bold;
+}
+.summary {
+    font-size: 0.8em;
+    font-style: italic;
+    line-height: 0.8em;
+}
+.postlist {
+    list-style: none outside none;
+}
+.footnotes {
+    border-top: 1px dashed;
+    font-size: 0.8em;
+    margin-top: 4em;
+}
+#style {
+    float: right;
+}
