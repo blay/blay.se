@@ -85,9 +85,9 @@ code {
     text-decoration: none;
 }
 .year {
-    color: #9A9C9F;
+    color: #F00018;
     font-size: 2em;
-    left: -50px;
+    left: -100px;
     line-height: 1em;
     position: absolute;
 }
