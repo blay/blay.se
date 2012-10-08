@@ -36,7 +36,7 @@ code { line-height: 1.3em; }
 .meta { float: right; position: relative; right: -170px; top: 70px; font-size: 0.8em; line-height: 2em; width: 130px; }
 
 .date { color: #eee; font-weight: bold; }
-.summary {font-size: 0.8em; font-style: italic; line-height: 0.8em;}
+.summary {font-size: 0.8em; font-style: italic; }
 .postlist { list-style: none; }
 
 .footnotes {
