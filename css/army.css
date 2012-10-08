@@ -6,7 +6,7 @@
     width: 100%;
 }
 body {
-    font: 1em/1.5em georgia,optima,arial,clean,sans-serif;
+    font: 1em/1.5em 'DejaVu Sans','Bitstream Vera Sans',Verdana,sans-serif;
     height: 100%;
     margin: 0;
     padding: 0;
