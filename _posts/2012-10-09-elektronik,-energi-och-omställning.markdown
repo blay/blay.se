@@ -3,7 +3,7 @@ layout: post
 title: "Elektronik, energi och omställning"
 summary: Om elektronikens förkroppsligade energi inför Göteborgs omställningskonferens
 ---
-> På fredag kväll skommer jag och GHS, Göteborgs Hackerspace, att vara med på omställningskonferensen "Ställ Om-natta" och visa på hacking och elektrinikpysslandets roll i att "möta utmaningar som ekonomiska kriser, oljetopp, klimatförändringar och resursbrist?". Följande text är mina hastiga reflektioner kring ämnet.
+> På fredag kväll kommer jag och GHS, Göteborgs Hackerspace, att vara med på omställningskonferensen "Ställ Om-natta" och visa på hacking och elektrinikpysslandets roll i att "möta utmaningar som ekonomiska kriser, oljetopp, klimatförändringar och resursbrist?". Följande text är mina hastiga reflektioner kring ämnet.
 
 Det finns två anledningar varför elektronik är viktigt att tala om kring omställningsarbete.
 
