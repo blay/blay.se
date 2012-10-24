@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Recension av boken Things"
-summary: Tidigare inlämningsuppgift om Things på min doktorandkurs blev underkänt eftersom det var alldeles för långt. Jag gjorde om och gjorde rätt och det blev en recension av boken istället 
+summary: Tidigare inlämningsuppgift om Things på min doktorandkurs blev underkänd eftersom den var alldeles för lång. Jag gjorde om och gjorde rätt och det blev en recension av boken istället 
 ---
 
-*[Det tidigare inlägget](/2012/10/11/things/) om boken Things som var en inlämningsuppgift på min doktorandkurs blev underkänt eftersom det var alldeles för långt. 38000 tecken istället för angivna maxantalet 7500. Jag gjorde om och gjorde rätt och det blev en recension av boken istället*
+*[Det tidigare inlägget](/2012/10/11/things/) om boken Things som var en inlämningsuppgift på min doktorandkurs blev underkänd eftersom den var alldeles för lång. 38000 tecken istället för angivna maxantalet 7500. Jag gjorde om och gjorde rätt och det blev en recension av boken istället*
 
 Boken ["Things"](http://books.google.com/books?id=aXnFQgAACAAJ&redir_esc=y) är en antologi och kan därför vara något svår att sammanfatta i en kort text utan att gå igenom varje kapitel var för sig. Dock finns det vissa genomgående teman eller slitningar i texten som kan kännas igen från kapitel till kapitel, utöver det generella temat om materialitet inom litteratur och poesi. Ett sådnat tema är slitningen mellan objekt och ting, som även kan sägas vara slitningen mellan det manifesta och det dolda, mellan det isolerade och det sammankopplade. Redan i inledningen uppkommer denna slitning i formen av skillnaden mellan teori och poesi där teorin står på objektens och det manifestas sida medan poesi förmår att göra tingen närvarande utan att göra avkall på deras dunkelhet, utan att fixera dem och isolera dem från de sammanhang de stiger upp ur. Genom boken ges flera exempel på denna förmåga hos poesin, t.ex. genom användandet av gåtor i Tiffany:s kapitel. Det som gör att slitningen mellan objekt och ting kvarstår är viljan att närma sig objekten (vilket Schwenger associerar med dödsdriften hos Lacan) men insikten att ju mer vi närmar oss dem, desto längre bort verkar de vara för oss (så som Simmel-citatet i början av boken lyder) eftersom det vi når i närmandet bara är en stel representation av tinget.
 
