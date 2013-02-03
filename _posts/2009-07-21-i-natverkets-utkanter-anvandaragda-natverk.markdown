@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 515
 layout: post
-title: "I n\xC3\xA4tverkets utkanter: Anv\xC3\xA4ndar\xC3\xA4gda n\xC3\xA4tverk"
+title: "I nätverkets utkanter: Användarägda nätverk"
 date: 2009-07-21 14:01:18 +02:00
 wordpress_url: http://www.blay.se/?p=515
 ---

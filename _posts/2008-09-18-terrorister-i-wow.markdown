@@ -2,7 +2,7 @@
 wordpress_id: 123
 layout: post
 title: Terrorister i WoW
-excerpt: "Wired skriver att amerikanska s\xC3\xA4kerhetsexperter allt mer oroar sig f\xC3\xB6r att terrorattacker kan komma att planeras i virtuella krigiska v\xC3\xA4rldar som World of Warcraft och koda sina planer genom att tala med spelets lingo. Vi f\xC3\xA5r ett scenario om hur en planering av en attack mot vita huset skulle kunna se ut:"
+excerpt: "Wired skriver att amerikanska säkerhetsexperter allt mer oroar sig för att terrorattacker kan komma att planeras i virtuella krigiska världar som World of Warcraft och koda sina planer genom att tala med spelets lingo. Vi får ett scenario om hur en planering av en attack mot vita huset skulle kunna se ut:"
 date: 2008-09-18 01:15:28 +02:00
 wordpress_url: http://www.blay.se/?p=123
 ---

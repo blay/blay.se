@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 8
 layout: post
-title: "F\xC3\xB6rfattarfunktion\xC3\xA4ren"
+title: "Författarfunktionären"
 date: 2006-10-06 10:10:51 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2006/10/06/forfattarfunktionaren/
 ---

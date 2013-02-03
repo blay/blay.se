@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 482
 layout: post
-title: "Ambassad\xC3\xB6rsrapport fr\xC3\xA5n Moskva: Del 2"
+title: "Ambassadörsrapport från Moskva: Del 2"
 date: 2009-06-13 20:00:42 +02:00
 wordpress_url: http://www.blay.se/?p=482
 ---

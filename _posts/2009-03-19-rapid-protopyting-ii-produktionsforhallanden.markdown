@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 320
 layout: post
-title: "Rapid protopyting II - Produktionsf\xC3\xB6rh\xC3\xA5llanden"
+title: "Rapid protopyting II - Produktionsförhållanden"
 date: 2009-03-19 22:54:44 +01:00
 wordpress_url: http://www.blay.se/?p=320
 ---

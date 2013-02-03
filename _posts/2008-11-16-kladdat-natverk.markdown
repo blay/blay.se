@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 139
 layout: post
-title: "Kladdade n\xC3\xA4tverk"
+title: "Kladdade nätverk"
 date: 2008-11-16 21:45:49 +01:00
 wordpress_url: http://www.blay.se/?p=139
 ---

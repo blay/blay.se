@@ -2,7 +2,7 @@
 wordpress_id: 143
 layout: post
 title: Rekommendationssystem och filmiska assemblage
-excerpt: "NY Times k\xC3\xB6rde nyligen en artikel om rekommendationssystem. Netflix har utlyst en t\xC3\xA4vling med prissumma p\xC3\xA5 1 miljon dollar till den som kan g\xC3\xB6ra deras rekommendationssystem f\xC3\xB6r filmer 10% b\xC3\xA4ttre p\xC3\xA5 att f\xC3\xB6ruts\xC3\xA4tta anv\xC3\xA4ndarnas betygs\xC3\xA4ttning. Ett antal team fr\xC3\xA5n hela v\xC3\xA4rlden jobbar med problemet nu men n\xC3\xA4r de n\xC3\xA4rmar sig 1+ procents f\xC3\xB6rb\xC3\xA4ttring stannar allas framsteg av. Det visar sig att ett f\xC3\xA5tal filmer, men Napoleon Dynamite i spetsen \xC3\xA4r notoriskt sv\xC3\xA5ra att f\xC3\xB6rutsp\xC3\xA5 betygs\xC3\xA4ttningen p\xC3\xA5."
+excerpt: "NY Times körde nyligen en artikel om rekommendationssystem. Netflix har utlyst en tävling med prissumma på 1 miljon dollar till den som kan göra deras rekommendationssystem för filmer 10% bättre på att förutsätta användarnas betygsättning. Ett antal team från hela världen jobbar med problemet nu men när de närmar sig 1+ procents förbättring stannar allas framsteg av. Det visar sig att ett fåtal filmer, men Napoleon Dynamite i spetsen är notoriskt svåra att förutspå betygsättningen på."
 date: 2008-11-23 21:26:43 +01:00
 wordpress_url: http://www.blay.se/?p=143
 ---

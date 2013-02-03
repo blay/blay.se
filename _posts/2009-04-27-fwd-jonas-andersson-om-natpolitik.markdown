@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 402
 layout: post
-title: "Fwd: Jonas Andersson om n\xC3\xA4tpolitik"
+title: "Fwd: Jonas Andersson om nätpolitik"
 date: 2009-04-27 18:36:49 +02:00
 wordpress_url: http://www.blay.se/?p=402
 ---

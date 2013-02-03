@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 453
 layout: post
-title: "Internet noll - Del 3. Att m\xC3\xA5la med data"
+title: "Internet noll - Del 3. Att måla med data"
 date: 2009-05-16 21:21:57 +02:00
 wordpress_url: http://www.blay.se/?p=453
 ---

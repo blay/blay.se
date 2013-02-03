@@ -2,7 +2,7 @@
 wordpress_id: 137
 layout: post
 title: Ljudmolnet
-excerpt: "Kollade nyligen p\xC3\xA5 Soundclouds f\xC3\xB6redrag fr\xC3\xA5n reboot i \xC3\xA5r. Soundcloud.com kan beskrivas som ett Flickr f\xC3\xB6r musik som de vill ska ers\xC3\xA4tta FTP, email, chatt, p2p eller *share f\xC3\xB6r att sprida enstaka musikfiler och g\xC3\xB6ra det lika enkelt som att l\xC3\xA4gga upp bilder och kommentera p\xC3\xA5 bilder. Helt enkelt g\xC3\xB6ra musik till ett socialt objekt. Allt v\xC3\xA4ldigt 2.0 och smidigt (om den du ska skicka till ocks\xC3\xA5 har konto p\xC3\xA5 soundcloud). Det h\xC3\xA4r inl\xC3\xA4gget \xC3\xA4r ingen bed\xC3\xB6mning av tj\xC3\xA4nsten utan ist\xC3\xA4llet vad de sa om digital musik i f\xC3\xB6redraget."
+excerpt: "Kollade nyligen på Soundclouds föredrag från reboot i år. Soundcloud.com kan beskrivas som ett Flickr för musik som de vill ska ersätta FTP, email, chatt, p2p eller *share för att sprida enstaka musikfiler och göra det lika enkelt som att lägga upp bilder och kommentera på bilder. Helt enkelt göra musik till ett socialt objekt. Allt väldigt 2.0 och smidigt (om den du ska skicka till också har konto på soundcloud). Det här inlägget är ingen bedömning av tjänsten utan istället vad de sa om digital musik i föredraget."
 date: 2008-11-16 21:13:57 +01:00
 wordpress_url: http://www.blay.se/?p=137
 ---

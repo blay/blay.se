@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 112
 layout: post
-title: "Presentation p\xC3\xA5 horitzo.tv"
-excerpt: "Nu finns f\xC3\xB6rel\xC3\xA4sningen jag h\xC3\xB6ll i onsdags uppe p\xC3\xA5 horitzo.tv, kryddad med massa grafik som de verkar ha en f\xC3\xB6rk\xC3\xA4rlek f\xC3\xB6r h\xC3\xA4r. Texten kommer upp h\xC3\xA4r inom kort. Presentationen behandlade mycket kring relationen mellan digitala arkiv och realtidsupplevelser, b\xC3\xA5de i fr\xC3\xA5ga om kulturellt meningsskapande i specifika situationer och den \xC3\xB6vergripande diskursen om city branding och kreativa industrier."
+title: "Presentation på horitzo.tv"
+excerpt: "Nu finns föreläsningen jag höll i onsdags uppe på horitzo.tv, kryddad med massa grafik som de verkar ha en förkärlek för här. Texten kommer upp här inom kort. Presentationen behandlade mycket kring relationen mellan digitala arkiv och realtidsupplevelser, både i fråga om kulturellt meningsskapande i specifika situationer och den övergripande diskursen om city branding och kreativa industrier."
 date: 2008-06-05 16:54:20 +02:00
 wordpress_url: http://www.blay.se/?p=112
 ---

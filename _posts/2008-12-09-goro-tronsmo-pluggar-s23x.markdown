@@ -2,7 +2,7 @@
 wordpress_id: 149
 layout: post
 title: Goro Tronsmo pluggar s23x
-excerpt: "Goro Tronsmo jobbar med sociala strukturer genom att som utg\xC3\xA5ngspunkt ta en viss utvald sammans\xC3\xA4ttning deltagare, ofta icke-proffessionella f\xC3\xB6r att sedan med dem som utg\xC3\xA5ngspunkt bygga en process som i n\xC3\xA5got skede blir en performance. Dock verkar hon mest vara intresserad av att involvera flera i processen snarare \xC3\xA4n att representera. K\xC3\xA4nns detta igen d\xC3\xA5? Jo, det g\xC3\xB6r det ju. S23m/x har till stor del handlat om att deltagare som s\xC3\xA4tta i ett tr\xC3\xA5ngt fysiskt utrymme och sedan skapar projektet med sammans\xC3\xA4ttningen, platsen och diverse objekt och f\xC3\xB6rest\xC3\xA4llningar som utg\xC3\xA5ngspunkt snarare \xC3\xA4n att utg\xC3\xA5 efter en f\xC3\xA4rdig id\xC3\xA9."
+excerpt: "Goro Tronsmo jobbar med sociala strukturer genom att som utgångspunkt ta en viss utvald sammansättning deltagare, ofta icke-proffessionella för att sedan med dem som utgångspunkt bygga en process som i något skede blir en performance. Dock verkar hon mest vara intresserad av att involvera flera i processen snarare än att representera. Känns detta igen då? Jo, det gör det ju. S23m/x har till stor del handlat om att deltagare som sätta i ett trångt fysiskt utrymme och sedan skapar projektet med sammansättningen, platsen och diverse objekt och föreställningar som utgångspunkt snarare än att utgå efter en färdig idé."
 date: 2008-12-09 02:11:01 +01:00
 wordpress_url: http://www.blay.se/?p=149
 ---

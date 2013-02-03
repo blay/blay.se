@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 466
 layout: post
-title: "R\xC3\xA5d till n\xC3\xA4sta veckas ambassad\xC3\xB6rer"
+title: "Råd till nästa veckas ambassadörer"
 date: 2009-05-26 19:42:13 +02:00
 wordpress_url: http://www.blay.se/?p=466
 ---

@@ -2,7 +2,7 @@
 wordpress_id: 108
 layout: post
 title: SPLAB III - Torsdagen
-excerpt: "Sista inl\xC3\xA4gget om SPLAB handlar om sista dagens f\xC3\xB6rel\xC3\xA4sningar. Tv\xC3\xA5 f\xC3\xB6rel\xC3\xA4sningar blev till anm\xC3\xA4rkningar."
+excerpt: "Sista inlägget om SPLAB handlar om sista dagens föreläsningar. Två föreläsningar blev till anmärkningar."
 date: 2008-05-18 22:15:42 +02:00
 wordpress_url: http://www.blay.se/?p=108
 ---

@@ -2,7 +2,7 @@
 wordpress_id: 36
 layout: post
 title: En arkitektur som litteratur
-excerpt: "\xC3\x96vers\xC3\xA4ttningar av, anteckningar till och citat fr\xC3\xA5n: </p><p><a title=\"Spatial Narratives\" href=\"http://www.iit.edu/%7Ekearns/simoccup/rakatansky-spatial%20narratives.pdf\" id=\"i.06\">Spatial Narratives</a> av <a title=\"Mark Rakatansky\" href=\"http://www.mr-studio.com\" id=\"78\">Mark Rakatansky</a> </p><p><br /><font size=\"1\"><i>There is no mute architecture. All architects, all buildings \"tell stories\" with varying degrees of consciousness. </i></font></p>"
+excerpt: "översättningar av, anteckningar till och citat från: </p><p><a title=\"Spatial Narratives\" href=\"http://www.iit.edu/%7Ekearns/simoccup/rakatansky-spatial%20narratives.pdf\" id=\"i.06\">Spatial Narratives</a> av <a title=\"Mark Rakatansky\" href=\"http://www.mr-studio.com\" id=\"78\">Mark Rakatansky</a> </p><p><br /><font size=\"1\"><i>There is no mute architecture. All architects, all buildings \"tell stories\" with varying degrees of consciousness. </i></font></p>"
 date: 2008-02-14 01:15:54 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/02/14/en-arkitektur-som-litteratur/
 ---

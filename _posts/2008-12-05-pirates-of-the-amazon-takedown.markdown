@@ -2,8 +2,8 @@
 wordpress_id: 146
 layout: post
 title: Pirates of the Amazon takedown
-excerpt: "Pirates of the Amazon \xC3\xA4r en add-on till Firefox som f\xC3\xB6r\xC3\xA4ndrar upplevelsen av amazon.com genom att l\xC3\xA4gga till en knapp med texten \"download 4 free\" vid varje produkt och sedan l\xC3\xA4nka till en motsvarande torrent hos pirate bay. Projektet \xC3\xA4r skapat av tv\xC3\xA5 studenter vid Media Design M.A. p\xC3\xA5 Piet Zwart institutet i Rotterdam i en kurs ledd av mediahistorikern Florian Cramer.\n\n\
-  Han har nu g\xC3\xA5tt ut med nyheten om att Pirates of the Amazon har tagits ner efter hotfulla brev fr\xC3\xA5n Amazons advokater, trots att allt programmet g\xC3\xB6r \xC3\xA4r att l\xC3\xA4nka samman de tv\xC3\xA5 sidorna genom att g\xC3\xB6ra en s\xC3\xB6kning p\xC3\xA5 Pirate Bay med titeln p\xC3\xA5 Amazon som s\xC3\xB6kord."
+excerpt: "Pirates of the Amazon är en add-on till Firefox som förändrar upplevelsen av amazon.com genom att lägga till en knapp med texten \"download 4 free\" vid varje produkt och sedan länka till en motsvarande torrent hos pirate bay. Projektet är skapat av två studenter vid Media Design M.A. på Piet Zwart institutet i Rotterdam i en kurs ledd av mediahistorikern Florian Cramer.\n\n\
+  Han har nu gått ut med nyheten om att Pirates of the Amazon har tagits ner efter hotfulla brev från Amazons advokater, trots att allt programmet gör är att länka samman de två sidorna genom att göra en sökning på Pirate Bay med titeln på Amazon som sökord."
 date: 2008-12-05 10:39:42 +01:00
 wordpress_url: http://www.blay.se/?p=146
 ---

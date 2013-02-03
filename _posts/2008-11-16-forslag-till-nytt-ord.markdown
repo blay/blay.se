@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 136
 layout: post
-title: "F\xC3\xB6rslag till nytt ord:"
+title: "Förslag till nytt ord:"
 date: 2008-11-16 21:06:56 +01:00
 wordpress_url: http://www.blay.se/?p=136
 ---

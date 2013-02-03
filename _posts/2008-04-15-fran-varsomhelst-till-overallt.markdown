@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 43
 layout: post
-title: "Fr\xC3\xA5n varsomhelst till \xC3\xB6verallt"
-excerpt: "L\xC3\xA5t mig ber\xC3\xA4tta om n\xC3\xA4r jag f\xC3\xB6r n\xC3\xA5gra dagar sedan startade upp Soulseek f\xC3\xB6r att ladda ner ett album av Tujiko Noriko. Efter att ha hittat albumet \xC3\xB6ppnade jag upp alla delade filer som fanns hos anv\xC3\xA4ndaren som hade hennes album och laddade ner alla album som fanns i utdelningskatalogen av artister med japanska namn."
+title: "Från varsomhelst till överallt"
+excerpt: "Låt mig berätta om när jag för några dagar sedan startade upp Soulseek för att ladda ner ett album av Tujiko Noriko. Efter att ha hittat albumet öppnade jag upp alla delade filer som fanns hos användaren som hade hennes album och laddade ner alla album som fanns i utdelningskatalogen av artister med japanska namn."
 date: 2008-04-15 00:25:05 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/15/fran-varsomhelst-till-overallt/
 ---

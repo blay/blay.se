@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 626
 layout: post
-title: "Svar p\xC3\xA5 italienska fr\xC3\xA5gor"
+title: "Svar på italienska frågor"
 date: 2010-04-19 19:50:18 +02:00
 wordpress_url: http://www.blay.se/?p=626
 ---

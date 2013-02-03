@@ -2,7 +2,7 @@
 wordpress_id: 133
 layout: post
 title: Fitbit
-excerpt: "Ist\xC3\xA4llet f\xC3\xB6r att skriva l\xC3\xA5ngt om slemminarium i G\xC3\xB6teborg forts\xC3\xA4tter jag p\xC3\xA5 sp\xC3\xA5ret om panoptikon och panspektron som tv\xC3\xA5 komponenter i samma assemblage. Dagens objekt \xC3\xA4r n\xC3\xA5got som kallas Fitbit och \xC3\xA4r en liten manick som du hela tiden b\xC3\xA4r med dig och som registrerar s\xC3\xB6mn, tr\xC3\xA4ning och annan h\xC3\xA4lsodata. Denna kan sedan koppla upp sig mot datorn och dina v\xC3\xA4nner som kan s\xC3\xA4tta upp gemensamma m\xC3\xA5l."
+excerpt: "Istället för att skriva långt om slemminarium i Göteborg fortsätter jag på spåret om panoptikon och panspektron som två komponenter i samma assemblage. Dagens objekt är något som kallas Fitbit och är en liten manick som du hela tiden bär med dig och som registrerar sömn, träning och annan hälsodata. Denna kan sedan koppla upp sig mot datorn och dina vänner som kan sätta upp gemensamma mål."
 date: 2008-10-19 16:04:47 +02:00
 wordpress_url: http://www.blay.se/?p=133
 ---

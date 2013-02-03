@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 555
 layout: post
-title: "Fr\xC3\xA5n n\xC3\xA4tverkets utkant"
+title: "Från nätverkets utkant"
 date: 2009-10-03 16:47:05 +02:00
 wordpress_url: http://www.blay.se/?p=555
 ---

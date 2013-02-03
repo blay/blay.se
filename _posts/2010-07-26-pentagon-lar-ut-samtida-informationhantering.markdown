@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 998
 layout: post
-title: "Pentagon l\xC3\xA4r ut samtida informationshantering"
+title: "Pentagon lär ut samtida informationshantering"
 date: 2010-07-26 16:57:07 +02:00
 wordpress_url: http://www.blay.se/2010/07/26/pentagon-lar-ut-samtida-informationhantering/
 ---

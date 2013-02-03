@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 441
 layout: post
-title: "Tillsammans r\xC3\xA4ddar vi skunk.nu!"
+title: "Tillsammans räddar vi skunk.nu!"
 date: 2009-05-12 14:01:28 +02:00
 wordpress_url: http://www.blay.se/?p=441
 ---

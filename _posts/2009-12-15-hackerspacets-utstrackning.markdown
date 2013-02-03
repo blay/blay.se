@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 574
 layout: post
-title: "Hackerspacets utstr\xC3\xA4ckning"
+title: "Hackerspacets utsträckning"
 date: 2009-12-15 11:28:02 +01:00
 wordpress_url: http://www.blay.se/?p=574
 ---

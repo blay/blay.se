@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 1000
 layout: post
-title: "Det ytliga n\xC3\xA4tet"
+title: "Det ytliga nätet"
 date: 2010-07-28 12:31:47 +02:00
 wordpress_url: http://www.blay.se/?p=1000
 ---

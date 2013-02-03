@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 473
 layout: post
-title: "singularitetspunkt uppt\xC3\xA4ckt p\xC3\xA5 youtube"
+title: "singularitetspunkt upptäckt på youtube"
 date: 2009-06-10 13:55:43 +02:00
 wordpress_url: http://www.blay.se/?p=473
 ---

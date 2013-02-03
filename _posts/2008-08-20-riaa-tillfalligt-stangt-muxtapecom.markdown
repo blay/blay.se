@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 117
 layout: post
-title: "RIAA tillf\xC3\xA4lligt st\xC3\xA4ngt muxtape.com"
-excerpt: "Vilka partyd\xC3\xB6dare! Muxtape var en av dessa sm\xC3\xA5tj\xC3\xA4nster som frodades i gr\xC3\xA5zonerna under RIAAs radar. Vem som helst kunde registrera sig och ladda upp en mixtape best\xC3\xA5ende av ett antal l\xC3\xA5tar som som sedan vem som helst kunde lyssna p\xC3\xA5 genom att g\xC3\xA5 in p\xC3\xA5 anv\xC3\xA4ndarnamn.muxtape.com. S\xC3\xA5 simpelt, s\xC3\xA5 genialt."
+title: "RIAA tillfälligt stängt muxtape.com"
+excerpt: "Vilka partydödare! Muxtape var en av dessa småtjänster som frodades i gråzonerna under RIAAs radar. Vem som helst kunde registrera sig och ladda upp en mixtape bestående av ett antal låtar som som sedan vem som helst kunde lyssna på genom att gå in på användarnamn.muxtape.com. Så simpelt, så genialt."
 date: 2008-08-20 11:10:50 +02:00
 wordpress_url: http://www.blay.se/?p=117
 ---

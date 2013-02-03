@@ -2,7 +2,7 @@
 wordpress_id: 34
 layout: post
 title: One, vast programmable machine
-excerpt: "Vilken status har hemdatorn j\xC3\xA4mte andra digitala medier?<br /><br />\xC3\x85 ena sidan producerar de alla olika rum och objekt. \xC3\x85 andra sidan kan man urskilja en abstrakt bin\xC3\xA4r logik som sk\xC3\xA4r tv\xC3\xA4rs igenom dem och g\xC3\xB6r de olika apparaterna till rena yteffekter - ing\xC3\xA5ngar och utg\xC3\xA5ngar till Systemet. Ett system som samtidigt alltid \xC3\xA4r f\xC3\xB6rkroppsligad i n\xC3\xA5gon speciell konfiguration."
+excerpt: "Vilken status har hemdatorn jämte andra digitala medier?<br /><br />Å ena sidan producerar de alla olika rum och objekt. Å andra sidan kan man urskilja en abstrakt binär logik som skär tvärs igenom dem och gör de olika apparaterna till rena yteffekter - ingångar och utgångar till Systemet. Ett system som samtidigt alltid är förkroppsligad i någon speciell konfiguration."
 date: 2008-01-16 19:24:03 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/01/16/one-vast-programmable-machine/
 ---

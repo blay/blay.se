@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 42
 layout: post
-title: "Haptiska datorgr\xC3\xA4nssnitt och f\xC3\xB6rsjunkenhet, del 1"
-excerpt: "\xC3\x84n en g\xC3\xA5ng bes\xC3\xB6kte jag John p\xC3\xA5 VR-labbet vid Lunds tekniska h\xC3\xB6gskolas designcentrum. Alltid en v\xC3\xA4ldigt fascinerande upplevelse (l\xC3\xA4nka youtube) och denna g\xC3\xA5ng fick jag prova \xC3\xA4nnu en leksak. Deras otroliga 'Haptic Device'. Ett inl\xC3\xA4gg mellan simulation och verklighet."
+title: "Haptiska datorgränssnitt och försjunkenhet, del 1"
+excerpt: "Än en gång besökte jag John på VR-labbet vid Lunds tekniska högskolas designcentrum. Alltid en väldigt fascinerande upplevelse (länka youtube) och denna gång fick jag prova ännu en leksak. Deras otroliga 'Haptic Device'. Ett inlägg mellan simulation och verklighet."
 date: 2008-04-10 15:54:47 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/10/haptiska-datorgranssnitt-och-forsjunkenhet-del-1/
 ---

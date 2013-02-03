@@ -2,8 +2,8 @@
 wordpress_id: 261
 layout: post
 title: Objekt och aura
-excerpt: "Det h\xC3\xA4r inl\xC3\xA4gget tar upp f\xC3\xB6rra inl\xC3\xA4ggets funderingar kring objekt.\n\n\
-  Hur relaterar fr\xC3\xA5gan om post-digitala objekt till Benjamins ber\xC3\xB6mda ess\xC3\xA4 om auran? Relationen mellan avst\xC3\xA5nd och n\xC3\xA4rhet i relation till Benjamins aura diskuteras av Bruno Latour i boken \xE2\x80\x9DMapping Benjamin\xE2\x80\x9D."
+excerpt: "Det här inlägget tar upp förra inläggets funderingar kring objekt.\n\n\
+  Hur relaterar frågan om post-digitala objekt till Benjamins berömda essä om auran? Relationen mellan avstånd och närhet i relation till Benjamins aura diskuteras av Bruno Latour i boken \xE2\x80\x9DMapping Benjamin\xE2\x80\x9D."
 date: 2009-03-05 20:13:43 +01:00
 wordpress_url: http://www.blay.se/?p=261
 ---

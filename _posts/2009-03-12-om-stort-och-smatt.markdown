@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 286
 layout: post
-title: "Om stort, sm\xC3\xA5tt och Hunter S. Thompson"
-excerpt: "Vad som \xC3\xA4r stort eller sm\xC3\xA5tt kan inte avg\xC3\xB6ras ontologiskt utan \xC3\xA4r ist\xC3\xA4llet n\xC3\xA5got som vi hela tiden k\xC3\xA4mpar om i det sociala. Ta exemplet med en tidning och en medarbetare. Ett container-t\xC3\xA4nkande skulle direkt anta att tidningen \xC3\xA4r st\xC3\xB6rre \xC3\xA4n medarbetaren som \xC3\xA4r anst\xC3\xA4lld under tidningens ledning. Detta r\xC3\xA5der det dock hela tiden koflikter om."
+title: "Om stort, smått och Hunter S. Thompson"
+excerpt: "Vad som är stort eller smått kan inte avgöras ontologiskt utan är istället något som vi hela tiden kämpar om i det sociala. Ta exemplet med en tidning och en medarbetare. Ett container-tänkande skulle direkt anta att tidningen är större än medarbetaren som är anställd under tidningens ledning. Detta råder det dock hela tiden koflikter om."
 date: 2009-03-12 14:09:30 +01:00
 wordpress_url: http://www.blay.se/?p=286
 ---

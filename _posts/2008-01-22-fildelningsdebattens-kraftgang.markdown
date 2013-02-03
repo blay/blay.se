@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 35
 layout: post
-title: "Fildelningsdebattens kr\xC3\xA4ftg\xC3\xA5ng"
-excerpt: "<a id=\"tcz6\" title=\"Debatt om fildelning i p1 idag\" href=\"http://www.sr.se/cgi-bin/P1/program/index.asp?programID=3048\">Debatt om fildelning i p1 idag</a>. Utg\xC3\xA5ngspunkten var att fildelningsdebatten gjort en kr\xC3\xA4ftg\xC3\xA5ng den senaste tiden och backat tillbaka till utg\xC3\xA5ngsl\xC3\xA4get vi hade f\xC3\xB6r tre \xC3\xA5r sedan. Det st\xC3\xA4mmer om man tittar p\xC3\xA5 den massmediala debatten. En titt p\xC3\xA5 de debattartiklar som kommer fram numera bekr\xC3\xA4ftar synnerligen detta. Samtidigt har en annan debatt, som massmedier uppenbarligen inte \xC3\xA4r mogen f\xC3\xB6r, utvecklats n\xC3\xA5got enormt."
+title: "Fildelningsdebattens kräftgång"
+excerpt: "<a id=\"tcz6\" title=\"Debatt om fildelning i p1 idag\" href=\"http://www.sr.se/cgi-bin/P1/program/index.asp?programID=3048\">Debatt om fildelning i p1 idag</a>. Utgångspunkten var att fildelningsdebatten gjort en kräftgång den senaste tiden och backat tillbaka till utgångsläget vi hade för tre år sedan. Det stämmer om man tittar på den massmediala debatten. En titt på de debattartiklar som kommer fram numera bekräftar synnerligen detta. Samtidigt har en annan debatt, som massmedier uppenbarligen inte är mogen för, utvecklats något enormt."
 date: 2008-01-22 16:11:13 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/01/22/debatt-om-fildelning-i-p1-idag-utgan/
 ---

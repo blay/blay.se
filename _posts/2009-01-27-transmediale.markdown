@@ -2,7 +2,7 @@
 wordpress_id: 191
 layout: post
 title: Transmediale
-excerpt: "P\xC3\xA5 torsdag h\xC3\xA5ller jag och Daniela en presentation och deltar i paneldebatt h\xC3\xA4r p\xC3\xA5 Transmediale i Berlin. Presentationen, med titeln \xE2\x80\x9DShuffle = Terror\xE2\x80\x9D, ska handla om bakgrunden till det fiktiva m\xC3\xB6tet mellan IFPIs VD John Kennedy och S23K-bussen. Hit kommer den via omv\xC3\xA4gar genom \xC3\xA5rstider, skogar och informations\xC3\xB6verfl\xC3\xB6d."
+excerpt: "På torsdag håller jag och Daniela en presentation och deltar i paneldebatt här på Transmediale i Berlin. Presentationen, med titeln \xE2\x80\x9DShuffle = Terror\xE2\x80\x9D, ska handla om bakgrunden till det fiktiva mötet mellan IFPIs VD John Kennedy och S23K-bussen. Hit kommer den via omvägar genom årstider, skogar och informationsöverflöd."
 date: 2009-01-27 02:15:32 +01:00
 wordpress_url: http://www.blay.se/?p=191
 ---

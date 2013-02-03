@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 613
 layout: post
-title: "Ljud s\xC3\xB6ker hem"
+title: "Ljud söker hem"
 date: 2010-03-15 10:48:17 +01:00
 wordpress_url: http://www.blay.se/?p=613
 ---

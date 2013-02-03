@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 26
 layout: post
-title: "F\xC3\xB6redrag f\xC3\xB6r centern"
+title: "Föredrag för centern"
 date: 2007-10-01 21:57:49 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2007/10/01/foredrag-for-centern/
 ---

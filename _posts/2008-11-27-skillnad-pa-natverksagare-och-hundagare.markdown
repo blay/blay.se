@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 144
 layout: post
-title: "Skillnad p\xC3\xA5 n\xC3\xA4tverks\xC3\xA4gare och hund\xC3\xA4gare"
+title: "Skillnad på nätverksägare och hundägare"
 date: 2008-11-27 12:35:37 +01:00
 wordpress_url: http://www.blay.se/?p=144
 ---

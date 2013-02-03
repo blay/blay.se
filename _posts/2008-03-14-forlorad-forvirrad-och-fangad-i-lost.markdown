@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 38
 layout: post
-title: "F\xC3\xB6rlorad, f\xC3\xB6rvirrad och f\xC3\xA5ngad i Lost"
-excerpt: "Lost \xC3\xA4r en tv-serie som inte \xC3\xA4r som alla andra. Det \xC3\xA4r lika l\xC3\xA4tt att bli frustrerad, f\xC3\xB6rvirrad och f\xC3\xB6rargad \xC3\xB6ver den som det \xC3\xA4r sv\xC3\xA5rt att l\xC3\xA4mna den. Precis som sj\xC3\xA4lva \xC3\xB6n den utspelar sig p\xC3\xA5. Just detta sammanblandande av narrativ och meta-narrativ k\xC3\xA4nnetecknar serien och det h\xC3\xA4r inl\xC3\xA4gget ska handla om relationerna mellan de b\xC3\xA5da niv\xC3\xA5erna."
+title: "Förlorad, förvirrad och fångad i Lost"
+excerpt: "Lost är en tv-serie som inte är som alla andra. Det är lika lätt att bli frustrerad, förvirrad och förargad över den som det är svårt att lämna den. Precis som själva ön den utspelar sig på. Just detta sammanblandande av narrativ och meta-narrativ kännetecknar serien och det här inlägget ska handla om relationerna mellan de båda nivåerna."
 date: 2008-03-14 16:08:15 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/03/14/forlorad-forvirrad-och-fangad-i-lost/
 ---

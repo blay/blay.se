@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 961
 layout: post
-title: "Kommentar om modul\xC3\xA4r arkitektur"
+title: "Kommentar om modulär arkitektur"
 date: 2010-05-16 10:51:48 +02:00
 wordpress_url: http://www.blay.se/2010/05/16/kommentar-om-modular-arkitektur/
 ---

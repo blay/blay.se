@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 447
 layout: post
-title: "N\xC3\xA4tpolitikens nollpunkt"
+title: "Nätpolitikens nollpunkt"
 date: 2009-05-16 20:08:21 +02:00
 wordpress_url: http://www.blay.se/?p=447
 ---

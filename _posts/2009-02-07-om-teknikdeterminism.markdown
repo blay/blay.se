@@ -2,7 +2,7 @@
 wordpress_id: 233
 layout: post
 title: Om teknikdeterminism
-excerpt: "Vid ett flertal tillf\xC3\xA4llen ben\xC3\xA4mns \"piratr\xC3\xB6relsen\" som en teknikdeterministisk r\xC3\xB6relse, nu senast av Anders Rydell, f\xC3\xB6rfattare bakom \"Piraterna\", i Aftonbladet. Jag h\xC3\xA5ller inte med om detta i den m\xC3\xA5n det g\xC3\xA4ller mig och Piratbyr\xC3\xA5n och skulle heller inte vilja p\xC3\xA5st\xC3\xA5 att det g\xC3\xA4ller Piratpartiet och The Pirate Bay, \xC3\xA4ven om de kan f\xC3\xA4lla uttalanden som tyder p\xC3\xA5 det. Det handlar ist\xC3\xA4llet om en brist p\xC3\xA5 spr\xC3\xA5k f\xC3\xB6r att beskriva ett nytt s\xC3\xA4tt att t\xC3\xA4nka f\xC3\xB6rh\xC3\xA5llandet teknik/politik."
+excerpt: "Vid ett flertal tillfällen benämns \"piratrörelsen\" som en teknikdeterministisk rörelse, nu senast av Anders Rydell, författare bakom \"Piraterna\", i Aftonbladet. Jag håller inte med om detta i den mån det gäller mig och Piratbyrån och skulle heller inte vilja påstå att det gäller Piratpartiet och The Pirate Bay, även om de kan fälla uttalanden som tyder på det. Det handlar istället om en brist på språk för att beskriva ett nytt sätt att tänka förhållandet teknik/politik."
 date: 2009-02-07 14:17:41 +01:00
 wordpress_url: http://www.blay.se/?p=233
 ---

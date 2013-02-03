@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 949
 layout: post
-title: "InternetNoll i Mexico: Del tv\xC3\xA5 - Motorv\xC3\xA4gen"
+title: "InternetNoll i Mexico: Del två - Motorvägen"
 date: 2010-05-15 23:50:38 +02:00
 wordpress_url: http://www.blay.se/2010/05/16/internetnoll-i-mexico-del-tva-motorvagen/
 ---

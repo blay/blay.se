@@ -2,7 +2,7 @@
 wordpress_id: 304
 layout: post
 title: Lundblad om Heidegger
-excerpt: "Nicklas Lundblad \xC3\xA4r som vanligt fullkomligt lysande n\xC3\xA4r han plockar fram sin Heidegger. I tv\xC3\xA5 inl\xC3\xA4gg p\xC3\xA5 sin blogg reflekterar han \xC3\xB6ver Heideggers syn p\xC3\xA5 tekniken och relationen till integriteten. Jag hakar p\xC3\xA5!"
+excerpt: "Nicklas Lundblad är som vanligt fullkomligt lysande när han plockar fram sin Heidegger. I två inlägg på sin blogg reflekterar han över Heideggers syn på tekniken och relationen till integriteten. Jag hakar på!"
 date: 2009-03-15 13:15:16 +01:00
 wordpress_url: http://www.blay.se/?p=304
 ---

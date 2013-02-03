@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 138
 layout: post
-title: "Utdrag om t\xC3\xA5gstation och flygplats"
-excerpt: "Ett utm\xC3\xA4rkt s\xC3\xA4tt att illustrera skillnaderna mellan disciplin och kontroll \xC3\xA4r att j\xC3\xA4mf\xC3\xB6ra t\xC3\xA5gstationen med flygplatsen. T\xC3\xA5gstationen \xC3\xA4r disciplin\xC3\xA4r. Den hanterar folkmassor. F\xC3\xA5r in dem i f\xC3\xA5llor, ser till att inga tumult uppst\xC3\xA5r. Detta \xC3\xA4r anledningen till att t\xC3\xA5gstationen har s\xC3\xA5 sv\xC3\xA5rt att hantera terrorism. Den uppst\xC3\xA5r som en enskild handling, inte ett linj\xC3\xA4rt, successivt utvecklande av en dispyt till ett tumult. Ist\xC3\xA4llet \xC3\xA4r det en icke-linj\xC3\xA4r, exponentiell utveckling med bara f\xC3\xA5 tecken som signalerar att n\xC3\xA5got h\xC3\xA5ller p\xC3\xA5 att h\xC3\xA4nda."
+title: "Utdrag om tågstation och flygplats"
+excerpt: "Ett utmärkt sätt att illustrera skillnaderna mellan disciplin och kontroll är att jämföra tågstationen med flygplatsen. Tågstationen är disciplinär. Den hanterar folkmassor. Får in dem i fållor, ser till att inga tumult uppstår. Detta är anledningen till att tågstationen har så svårt att hantera terrorism. Den uppstår som en enskild handling, inte ett linjärt, successivt utvecklande av en dispyt till ett tumult. Istället är det en icke-linjär, exponentiell utveckling med bara få tecken som signalerar att något håller på att hända."
 date: 2008-11-16 21:32:37 +01:00
 wordpress_url: http://www.blay.se/?p=138
 ---

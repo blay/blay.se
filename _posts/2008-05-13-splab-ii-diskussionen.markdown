@@ -2,7 +2,7 @@
 wordpress_id: 106
 layout: post
 title: SPLAB II - Diskussionen
-excerpt: "Det h\xC3\xA4r inl\xC3\xA4gget kommer behandla diskussionen som skedde vid SPLAB efter presentationen av texten i f\xC3\xB6rra inl\xC3\xA4gget. En till stora delar bra diskussion som p\xC3\xA5gick i tv\xC3\xA5 timmar och inkluderade politiker, kulturellt aktiva, f\xC3\xB6reningsm\xC3\xA4nniskor och andra som drev projekt kring kreativa industrier. Blandade svenska, danska och italienska deltagare."
+excerpt: "Det här inlägget kommer behandla diskussionen som skedde vid SPLAB efter presentationen av texten i förra inlägget. En till stora delar bra diskussion som pågick i två timmar och inkluderade politiker, kulturellt aktiva, föreningsmänniskor och andra som drev projekt kring kreativa industrier. Blandade svenska, danska och italienska deltagare."
 date: 2008-05-13 11:44:26 +02:00
 wordpress_url: http://www.blay.se/?p=106
 ---

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 15
 layout: post
-title: "Kontexter i rundg\xC3\xA5ng"
+title: "Kontexter i rundgång"
 date: 2007-03-15 21:56:16 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2007/03/15/kontexter-i-rundgang/
 ---

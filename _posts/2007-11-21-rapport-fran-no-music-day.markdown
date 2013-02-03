@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 28
 layout: post
-title: "Rapport fr\xC3\xA5n No Music Day"
+title: "Rapport från No Music Day"
 date: 2007-11-21 22:04:48 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2007/11/21/rapport-fran-no-music-day/
 ---

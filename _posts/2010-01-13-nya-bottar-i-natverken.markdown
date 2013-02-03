@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 586
 layout: post
-title: "Nya bottar i n\xC3\xA4tverken"
+title: "Nya bottar i nätverken"
 date: 2010-01-13 15:16:34 +01:00
 wordpress_url: http://www.blay.se/?p=586
 ---

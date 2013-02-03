@@ -2,7 +2,7 @@
 wordpress_id: 127
 layout: post
 title: Panspektronism skapar inte subjektiviteter
-excerpt: "Panspektronism skapar inte subjektiviteter. Vi f\xC3\xA5r inte panspektronismen som ett _\xC3\xB6vergripande_ paradigm som styr vad som \xC3\xA4r under det. Vetskapen om panspektron kan skapa subjektiviteter, men d\xC3\xA5 m\xC3\xA5ste det vara n\xC3\xA4rvarande. Fr\xC3\xA5gan \xC3\xA4r till och med om det inte \xC3\xA4r kontraproduktivt att f\xC3\xB6rs\xC3\xB6ka g\xC3\xB6ra panspektronismen n\xC3\xA4rvarande eftersom det kan avskr\xC3\xA4cka fr\xC3\xA5n att koppla upp sig mot dess assemblage."
+excerpt: "Panspektronism skapar inte subjektiviteter. Vi får inte panspektronismen som ett _övergripande_ paradigm som styr vad som är under det. Vetskapen om panspektron kan skapa subjektiviteter, men då måste det vara närvarande. Frågan är till och med om det inte är kontraproduktivt att försöka göra panspektronismen närvarande eftersom det kan avskräcka från att koppla upp sig mot dess assemblage."
 date: 2008-10-01 19:20:03 +02:00
 wordpress_url: http://www.blay.se/?p=127
 ---

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 931
 layout: post
-title: "Diaspora och sakfr\xC3\xA5gefinansieringen"
+title: "Diaspora och sakfrågefinansieringen"
 date: 2010-05-14 15:57:21 +02:00
 wordpress_url: http://www.blay.se/?p=931
 ---

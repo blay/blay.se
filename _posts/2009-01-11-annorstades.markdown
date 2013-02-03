@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 179
 layout: post
-title: "Annorst\xC3\xA4des"
+title: "Annorstädes"
 date: 2009-01-11 18:16:03 +01:00
 wordpress_url: http://www.blay.se/?p=179
 ---

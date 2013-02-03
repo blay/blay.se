@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 351
 layout: post
-title: "Riksinternets fria n\xC3\xA4t hotat"
-excerpt: "Sveriges Riksinternet - portalen f\xC3\xB6r Ditt fria n\xC3\xA4t - har idag f\xC3\xA5tt en kravbrev fr\xC3\xA5n Sveriges television som kr\xC3\xA4ver att \"stj\xC3\xA4rnblomman\" som finns p\xC3\xA5 siten plockas ner, annars kommer r\xC3\xA4ttsliga \xC3\xA5tg\xC3\xA4rder att vidtas. Upphovsr\xC3\xA4tten anv\xC3\xA4nds som vapen f\xC3\xB6r att tysta ner satir? Riksinternet.se kommer s\xC3\xA5klart inte vika sig utan st\xC3\xA5r stolt upp f\xC3\xB6r det fria n\xC3\xA4tet. L\xC3\xA4s bara programf\xC3\xB6rklaringen:"
+title: "Riksinternets fria nät hotat"
+excerpt: "Sveriges Riksinternet - portalen för Ditt fria nät - har idag fått en kravbrev från Sveriges television som kräver att \"stjärnblomman\" som finns på siten plockas ner, annars kommer rättsliga åtgärder att vidtas. Upphovsrätten används som vapen för att tysta ner satir? Riksinternet.se kommer såklart inte vika sig utan står stolt upp för det fria nätet. Läs bara programförklaringen:"
 date: 2009-03-25 02:24:43 +01:00
 wordpress_url: http://www.blay.se/?p=351
 ---

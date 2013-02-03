@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 39
 layout: post
-title: "Klipp och Klistra p\xC3\xA5 Krets"
-excerpt: "Idag hade <a title=\"Galleri Krets\" href=\"http://www.krets.info/\" id=\"lso1\">Galleri Krets</a> en workshop med <a title=\"Monica Tormell\" href=\"http://www.monicatormell.nl/\" id=\"dw_c\">Monica Tormell</a> i hur man <a href=\"http://www.facebook.com/event.php?eid=10111198815\" id=\"d9d9\">\"inverterar vinylskivor och dekrypterar dem fr\xC3\xA5n dolda budskap\"</a>."
+title: "Klipp och Klistra på Krets"
+excerpt: "Idag hade <a title=\"Galleri Krets\" href=\"http://www.krets.info/\" id=\"lso1\">Galleri Krets</a> en workshop med <a title=\"Monica Tormell\" href=\"http://www.monicatormell.nl/\" id=\"dw_c\">Monica Tormell</a> i hur man <a href=\"http://www.facebook.com/event.php?eid=10111198815\" id=\"d9d9\">\"inverterar vinylskivor och dekrypterar dem från dolda budskap\"</a>."
 date: 2008-04-07 00:06:58 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/07/klipp-och-klistra-pa-krets/
 ---

@@ -2,7 +2,7 @@
 wordpress_id: 193
 layout: post
 title: Transmediale - Bill Drummond
-excerpt: "Stor f\xC3\xB6rvirring r\xC3\xA5der n\xC3\xA4r Bill Drummond ska tala i en alldeles f\xC3\xB6r liten lokal inf\xC3\xB6r alldeles f\xC3\xB6r m\xC3\xA5nga entusiastiska \xC3\xA5sk\xC3\xA5dare med alldeles f\xC3\xB6r d\xC3\xA5ligt informerade organisat\xC3\xB6rer. Bill k\xC3\xB6r fullt ut p\xC3\xA5 sin landrover-stil med sina k\xC3\xA4ngor och flanellskjorta med l\xC3\xA4derf\xC3\xB6rst\xC3\xA4rkning i armb\xC3\xA5garna och f\xC3\xB6r den som h\xC3\xB6rt honom tidigare, l\xC3\xA4st boken om The 17 eller \xC3\xA4r allm\xC3\xA4nt bekant med hans tankar \xC3\xA4r det inte mycket nytt. Det v\xC3\xA4gs d\xC3\xA4remot upp av att han \xC3\xA4r en historieber\xC3\xA4ttare av rang och h\xC3\xA4r \xC3\xA4r mitt f\xC3\xB6rs\xC3\xB6k att \xC3\xA5terupprepa talet i andra ord."
+excerpt: "Stor förvirring råder när Bill Drummond ska tala i en alldeles för liten lokal inför alldeles för många entusiastiska åskådare med alldeles för dåligt informerade organisatörer. Bill kör fullt ut på sin landrover-stil med sina kängor och flanellskjorta med läderförstärkning i armbågarna och för den som hört honom tidigare, läst boken om The 17 eller är allmänt bekant med hans tankar är det inte mycket nytt. Det vägs däremot upp av att han är en historieberättare av rang och här är mitt försök att återupprepa talet i andra ord."
 date: 2009-01-27 15:55:34 +01:00
 wordpress_url: http://www.blay.se/?p=193
 ---

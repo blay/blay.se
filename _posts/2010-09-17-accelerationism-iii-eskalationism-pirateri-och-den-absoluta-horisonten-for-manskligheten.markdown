@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 1011
 layout: post
-title: "Accelerationism III: Eskalationism, pirateri och den absoluta horisonten f\xC3\xB6r m\xC3\xA4nskligheten"
+title: "Accelerationism III: Eskalationism, pirateri och den absoluta horisonten för mänskligheten"
 date: 2010-09-17 15:28:42 +02:00
 wordpress_url: http://www.blay.se/?p=1011
 ---

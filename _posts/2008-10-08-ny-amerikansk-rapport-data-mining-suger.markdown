@@ -2,7 +2,7 @@
 wordpress_id: 132
 layout: post
 title: "Ny amerikansk rapport: Data mining suger"
-excerpt: "..lyder rubriken p\xC3\xA5 boingboing om den amerikanska rapporten om data minging fr\xC3\xA5n National Research Council som brukar ut\xC3\xB6va stort inflytande. Rapporten - \"Protecting Individual Privacy in the Struggle Against Terrorist\" -  kommer fram till att:\n\n\
+excerpt: "..lyder rubriken på boingboing om den amerikanska rapporten om data minging från National Research Council som brukar utöva stort inflytande. Rapporten - \"Protecting Individual Privacy in the Struggle Against Terrorist\" -  kommer fram till att:\n\n\
   automated identification of terrorists through data mining or any other mechanism \"is neither feasible as an objective nor desirable as a goal of technology development efforts.\" Inevitable false positives will result in \"ordinary, law-abiding citizens and businesses\" being incorrectly flagged as suspects."
 date: 2008-10-08 11:08:08 +02:00
 wordpress_url: http://www.blay.se/?p=132

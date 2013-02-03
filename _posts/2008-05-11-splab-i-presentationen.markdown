@@ -2,7 +2,7 @@
 wordpress_id: 105
 layout: post
 title: SPLAB I - Presentationen
-excerpt: "F\xC3\xB6rsta inl\xC3\xA4gget fr\xC3\xA5n SPLAB-konferensen som allts\xC3\xA5 var ett tredagars-evenemang i Malm\xC3\xB6 6-8 maj. Nedan f\xC3\xB6ljer en renskrivning av min presentation som inledde konferensen - Black Streets, White Buildings and the Digital Grey Zones. Texten finns ocks\xC3\xA5 som PDF"
+excerpt: "Första inlägget från SPLAB-konferensen som alltså var ett tredagars-evenemang i Malmö 6-8 maj. Nedan följer en renskrivning av min presentation som inledde konferensen - Black Streets, White Buildings and the Digital Grey Zones. Texten finns också som PDF"
 date: 2008-05-11 14:56:48 +02:00
 wordpress_url: http://www.blay.se/?p=105
 ---

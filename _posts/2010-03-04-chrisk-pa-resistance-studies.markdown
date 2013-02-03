@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 611
 layout: post
-title: "chrisk p\xC3\xA5 Resistance studies."
+title: "chrisk på Resistance studies."
 date: 2010-03-04 22:45:30 +01:00
 wordpress_url: http://www.blay.se/?p=611
 ---

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 102
 layout: post
-title: "Det vara som kan f\xC3\xB6rst\xC3\xA5s"
+title: "Det vara som kan förstås"
 date: 2008-05-03 15:13:44 +02:00
 wordpress_url: http://www.blay.se/2008/05/03/det-vara-som-kan-forstas/
 ---

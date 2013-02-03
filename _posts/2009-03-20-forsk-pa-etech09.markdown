@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 333
 layout: post
-title: "Forsk p\xC3\xA5 Etech09"
-excerpt: "Rose White - sociolog och medlem i hackerspacet NYC Resistor - h\xC3\xB6ll f\xC3\xB6redrag om uppsvinget f\xC3\xB6r hackerspaces de senaste \xC3\xA5ren p\xC3\xA5 ETech09, en O'reilley-organiserad konferens om \"emerging technology\". \xC3\x85rets tema var starkt influerat av finans-, klimat-, och energikris och flera f\xC3\xB6redrag behandlade diverse tillv\xC3\xA4gag\xC3\xA5ngss\xC3\xA4tt f\xC3\xB6r att effektivisera resursutnyttjandet."
+title: "Forsk på Etech09"
+excerpt: "Rose White - sociolog och medlem i hackerspacet NYC Resistor - höll föredrag om uppsvinget för hackerspaces de senaste åren på ETech09, en O'reilley-organiserad konferens om \"emerging technology\". Årets tema var starkt influerat av finans-, klimat-, och energikris och flera föredrag behandlade diverse tillvägagångssätt för att effektivisera resursutnyttjandet."
 date: 2009-03-20 13:08:11 +01:00
 wordpress_url: http://www.blay.se/?p=333
 ---

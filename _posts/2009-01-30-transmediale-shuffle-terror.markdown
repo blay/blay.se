@@ -2,7 +2,7 @@
 wordpress_id: 208
 layout: post
 title: "Transmediale: Shuffle = Terror"
-excerpt: "F\xC3\xB6rel\xC3\xA4sningen jag och Daniela h\xC3\xB6ll p\xC3\xA5 Transmediale tog sin utg\xC3\xA5ngspunkt i det fiktiva men m\xC3\xB6jliga m\xC3\xB6tet mellan IFPIs VD John Kennedy och S23K i samband med r\xC3\xA4tteg\xC3\xA5ngen mot The Pirate Bay. Hur kan det vara m\xC3\xB6jligt att dessa tv\xC3\xA5 helt olika v\xC3\xA4rldar kan komma att ockupera samma fysiska utrymme?"
+excerpt: "Föreläsningen jag och Daniela höll på Transmediale tog sin utgångspunkt i det fiktiva men möjliga mötet mellan IFPIs VD John Kennedy och S23K i samband med rättegången mot The Pirate Bay. Hur kan det vara möjligt att dessa två helt olika världar kan komma att ockupera samma fysiska utrymme?"
 date: 2009-01-30 14:42:01 +01:00
 wordpress_url: http://www.blay.se/?p=208
 ---

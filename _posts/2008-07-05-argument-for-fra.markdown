@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 115
 layout: post
-title: "Argument f\xC3\xB6r FRA"
+title: "Argument för FRA"
 date: 2008-07-05 23:29:25 +02:00
 wordpress_url: http://www.blay.se/?p=115
 ---

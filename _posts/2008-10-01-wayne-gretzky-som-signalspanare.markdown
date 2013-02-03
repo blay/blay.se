@@ -2,7 +2,7 @@
 wordpress_id: 125
 layout: post
 title: Wayne Gretzky som signalspanare
-excerpt: "Vad kan Wayne Gretzky och Chicago Bulls triangelanfall l\xC3\xA4ra oss om panspektrisk signalspaning? En hel del om informationsbearbetning, hastighet och utfall uppenbarligen."
+excerpt: "Vad kan Wayne Gretzky och Chicago Bulls triangelanfall lära oss om panspektrisk signalspaning? En hel del om informationsbearbetning, hastighet och utfall uppenbarligen."
 date: 2008-10-01 01:32:42 +02:00
 wordpress_url: http://www.blay.se/?p=125
 ---

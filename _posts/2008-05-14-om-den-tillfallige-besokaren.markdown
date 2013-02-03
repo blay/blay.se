@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 107
 layout: post
-title: "Om den tillf\xC3\xA4llige bes\xC3\xB6karen"
-excerpt: "Rasmus p\xC3\xA5 Copyriot skrev ett inl\xC3\xA4gg om min presentation p\xC3\xA5 SPLAB med intressanta synpunkter som jag nystar vidare i h\xC3\xA4r."
+title: "Om den tillfällige besökaren"
+excerpt: "Rasmus på Copyriot skrev ett inlägg om min presentation på SPLAB med intressanta synpunkter som jag nystar vidare i här."
 date: 2008-05-14 23:28:22 +02:00
 wordpress_url: http://www.blay.se/?p=107
 ---

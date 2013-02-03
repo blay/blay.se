@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 551
 layout: post
-title: "N\xC3\xA5got h\xC3\xA4nder med webben just nu"
+title: "Något händer med webben just nu"
 date: 2009-08-14 20:34:54 +02:00
 wordpress_url: http://www.blay.se/?p=551
 ---

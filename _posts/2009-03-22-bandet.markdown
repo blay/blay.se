@@ -2,7 +2,7 @@
 wordpress_id: 345
 layout: post
 title: Bandet
-excerpt: "Expressen hade en d\xC3\xA5lig kr\xC3\xB6nika idag av en k\xC3\xA4nd f\xC3\xB6rfattare som handlade om ett band som enligt artikelf\xC3\xB6rfattaren drabbades h\xC3\xA5rt av fildelning och ville ha IPRED-lagen. Jag ska h\xC3\xA5lla mig fr\xC3\xA5n att kommentera l\xC3\xB6sningsf\xC3\xB6rslagen eller klagos\xC3\xA5ngen \xC3\xB6ver tillst\xC3\xA5ndet hos skivbutiker och musikbevakning i traditionell media. Ej heller att IPRED-lagen skulle l\xC3\xB6sa allt detta. D\xC3\xA4remot kunde jag inte h\xC3\xA5lla mig fr\xC3\xA5n att rita upp situationen p\xC3\xA5 min whiteboard och kommentera den."
+excerpt: "Expressen hade en dålig krönika idag av en känd författare som handlade om ett band som enligt artikelförfattaren drabbades hårt av fildelning och ville ha IPRED-lagen. Jag ska hålla mig från att kommentera lösningsförslagen eller klagosången över tillståndet hos skivbutiker och musikbevakning i traditionell media. Ej heller att IPRED-lagen skulle lösa allt detta. Däremot kunde jag inte hålla mig från att rita upp situationen på min whiteboard och kommentera den."
 date: 2009-03-22 18:14:10 +01:00
 wordpress_url: http://www.blay.se/?p=345
 ---

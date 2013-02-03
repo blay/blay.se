@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 18
 layout: post
-title: "Manlighet, gr\xC3\xA5t och Apple"
+title: "Manlighet, gråt och Apple"
 date: 2007-04-25 21:04:38 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2007/04/25/blev-intervjuad-av-en-bekants-bekant/
 ---

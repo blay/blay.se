@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 155
 layout: post
-title: "F\xC3\xB6rel\xC3\xA4sning - Kultur \xC3\xA4r maskiner"
+title: "Föreläsning - Kultur är maskiner"
 date: 2008-12-15 12:21:31 +01:00
 wordpress_url: http://www.blay.se/?p=155
 ---

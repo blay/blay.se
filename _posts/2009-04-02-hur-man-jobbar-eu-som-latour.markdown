@@ -2,7 +2,7 @@
 wordpress_id: 360
 layout: post
 title: Hur man jobbar EU som Latour
-excerpt: "F\xC3\xB6r det f\xC3\xB6rsta handlar det politiska arbetet f\xC3\xB6r en parlamentariker (de f\xC3\xA5 undantag som inte bara trycker p\xC3\xA5 den knapp de blivit tillsagda att trycka p\xC3\xA5) om att bygga akt\xC3\xB6rsn\xC3\xA4tverk f\xC3\xB6r att samla underskrifter f\xC3\xB6r att kunna f\xC3\xA5 till omr\xC3\xB6stningar om till\xC3\xA4gg och \xC3\xA4ndringar till lagf\xC3\xB6rslag. Tillf\xC3\xA4lliga n\xC3\xA4tverk som skapas och uppl\xC3\xB6ses ger handlingskraft. Men \xC3\xA4ven sj\xC3\xA4lva processen d\xC3\xA5 ett lagf\xC3\xB6rslag bildas \xC3\xA4r Latouriansk. Som La Quadrature s\xC3\xA4ger i ders f\xC3\xB6redrag p\xC3\xA5 25c3 m\xC3\xA5ste EU-lagen behandlas som kod."
+excerpt: "För det första handlar det politiska arbetet för en parlamentariker (de få undantag som inte bara trycker på den knapp de blivit tillsagda att trycka på) om att bygga aktörsnätverk för att samla underskrifter för att kunna få till omröstningar om tillägg och ändringar till lagförslag. Tillfälliga nätverk som skapas och upplöses ger handlingskraft. Men även själva processen då ett lagförslag bildas är Latouriansk. Som La Quadrature säger i ders föredrag på 25c3 måste EU-lagen behandlas som kod."
 date: 2009-04-02 12:11:16 +02:00
 wordpress_url: http://www.blay.se/?p=360
 ---

@@ -2,7 +2,7 @@
 wordpress_id: 41
 layout: post
 title: Ett ackompanjemang till Good Old
-excerpt: "Det h\xC3\xA4r inl\xC3\xA4gget l\xC3\xA5nar slides och id\xC3\xA9er fr\xC3\xA5n <a id=\"d4x3\" title=\"Bj\xC3\xB6rn Jeffereys f\xC3\xB6redrag fr\xC3\xA5n KTH medieteknik\" href=\"http://www.goodold.se/blog/trend/2008/04/09/slides-for-kth-medieteknik/\">Bj\xC3\xB6rn Jeffereys f\xC3\xB6redrag fr\xC3\xA5n KTH medieteknik</a> och webbdagarna. Om mjukvarans disruptiva kraft."
+excerpt: "Det här inlägget lånar slides och idéer från <a id=\"d4x3\" title=\"Björn Jeffereys föredrag från KTH medieteknik\" href=\"http://www.goodold.se/blog/trend/2008/04/09/slides-for-kth-medieteknik/\">Björn Jeffereys föredrag från KTH medieteknik</a> och webbdagarna. Om mjukvarans disruptiva kraft."
 date: 2008-04-10 13:59:55 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/10/ett-ackompanjemang-till-good-old/
 ---

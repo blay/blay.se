@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 423
 layout: post
-title: "Internet noll - Del 1. \xC3\x96verfl\xC3\xB6d och str\xC3\xB6mmar"
+title: "Internet noll - Del 1. överflöd och strömmar"
 date: 2009-05-04 14:49:59 +02:00
 wordpress_url: http://www.blay.se/?p=423
 ---

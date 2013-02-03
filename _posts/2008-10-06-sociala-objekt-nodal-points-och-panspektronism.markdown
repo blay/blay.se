@@ -2,7 +2,7 @@
 wordpress_id: 131
 layout: post
 title: Sociala objekt, nodal points och panspektronism
-excerpt: "Som jag tidigare utlovade kommer ett referat fr\xC3\xA5n Jyri Engestr\xC3\xB6ms f\xC3\xB6redrag p\xC3\xA5 reboot tidigare i \xC3\xA5r. Han tar egentligen upp vad han redan pratat om i n\xC3\xA5gra \xC3\xA5r kring id\xC3\xA9n om sociala objekt. Det som \xC3\xA4r intressant med Jyri \xC3\xA4r dels att han kombinerar bra samh\xC3\xA4llsvetenskap med social mjukvara p\xC3\xA5 ett uttalat s\xC3\xA4tt och dels att han nyligen blivit uppk\xC3\xB6pt av Google och d\xC3\xA4rf\xC3\xB6r f\xC3\xA5tt tillg\xC3\xA5ng till en hel del data och verktyg."
+excerpt: "Som jag tidigare utlovade kommer ett referat från Jyri Engeströms föredrag på reboot tidigare i år. Han tar egentligen upp vad han redan pratat om i några år kring idén om sociala objekt. Det som är intressant med Jyri är dels att han kombinerar bra samhällsvetenskap med social mjukvara på ett uttalat sätt och dels att han nyligen blivit uppköpt av Google och därför fått tillgång till en hel del data och verktyg."
 date: 2008-10-06 15:42:08 +02:00
 wordpress_url: http://www.blay.se/?p=131
 ---

@@ -2,7 +2,7 @@
 wordpress_id: 40
 layout: post
 title: Remember Everything - Stiegler och GTD
-excerpt: "Jag har spenderat senaste dagen med att f\xC3\xB6rs\xC3\xB6ka f\xC3\xA5 ordning i myllret av anteckningar som \xC3\xA4r utspridda p\xC3\xA5 datorn, i googles webapplikationen och i undang\xC3\xB6mda anteckningsblock. Det ledde mig till Stiegler och socialt/asocialt informations\xC3\xB6verfl\xC3\xB6de."
+excerpt: "Jag har spenderat senaste dagen med att försöka få ordning i myllret av anteckningar som är utspridda på datorn, i googles webapplikationen och i undangömda anteckningsblock. Det ledde mig till Stiegler och socialt/asocialt informationsöverflöde."
 date: 2008-04-08 12:19:30 +02:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/08/remember-everything-stiegler-och-gtd/
 ---

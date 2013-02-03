@@ -1,8 +1,8 @@
 --- 
 wordpress_id: 37
 layout: post
-title: "Musikens bes\xC3\xA4ttande av kroppen"
-excerpt: "- en tankestr\xC3\xB6m som hyllning till musiken som ackompanjerar det vardagliga datandet."
+title: "Musikens besättande av kroppen"
+excerpt: "- en tankeström som hyllning till musiken som ackompanjerar det vardagliga datandet."
 date: 2008-02-24 21:35:19 +01:00
 wordpress_url: http://fadetogrey.wordpress.com/2008/02/24/musikens-besattande-av-kroppen/
 ---

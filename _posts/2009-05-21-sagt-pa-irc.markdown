@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 456
 layout: post
-title: "Sagt p\xC3\xA5 irc..."
+title: "Sagt på irc..."
 date: 2009-05-21 23:56:42 +02:00
 wordpress_url: http://www.blay.se/?p=456
 ---

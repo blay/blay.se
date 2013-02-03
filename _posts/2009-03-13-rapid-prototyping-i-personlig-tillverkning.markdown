@@ -2,7 +2,7 @@
 wordpress_id: 300
 layout: post
 title: Rapid Prototyping I - personlig tillverkning
-excerpt: "H\xC3\xA5rdvara och digital information b\xC3\xB6rjar n\xC3\xA4rma sig varandra. 3d-skrivare st\xC3\xB6rtdyker i pris och m\xC3\xB6jligg\xC3\xB6r en ny sk\xC3\xB6n v\xC3\xA4rld d\xC3\xA4r former fildelas och din 3d-printer skriver ut en exakt replika. Se dig omkring och fundera i hur m\xC3\xA5nga objekt v\xC3\xA4rdet ligger i att halvh\xC3\xA5rda material som plast formas p\xC3\xA5 ett visst s\xC3\xA4tt. B\xC3\xA5de estetik och form i en m\xC3\xA4ngd vardsgsf\xC3\xB6rem\xC3\xA5l ligger i formgivningen."
+excerpt: "Hårdvara och digital information börjar närma sig varandra. 3d-skrivare störtdyker i pris och möjliggör en ny skön värld där former fildelas och din 3d-printer skriver ut en exakt replika. Se dig omkring och fundera i hur många objekt värdet ligger i att halvhårda material som plast formas på ett visst sätt. Både estetik och form i en mängd vardsgsföremål ligger i formgivningen."
 date: 2009-03-13 17:55:16 +01:00
 wordpress_url: http://www.blay.se/?p=300
 ---

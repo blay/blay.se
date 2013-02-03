@@ -1,9 +1,9 @@
 --- 
 wordpress_id: 99
 layout: post
-title: "Bokmarknaden och fildelning p\xC3\xA5 Textm\xC3\xA4ssan"
-excerpt: "ag gick direkt fr\xC3\xA5n t\xC3\xA5get fr\xC3\xA5n Malm\xC3\xB6 till textm\xC3\xA4ssan i l\xC3\xB6rdags f\xC3\xB6r att delta i en paneldebatt.\n\n\
-  Paneldebattens titel var bokmarknaden och fildelning och i panelen satt jag, Oivvio Polite och moderator C-M Edenborg. Ingen konfliktfylld skara direkt. Att bokmarknaden skulle vara hotad av fildelningen avf\xC3\xA4rdades av panelen p\xC3\xA5 tv\xC3\xA5 s\xC3\xA4tt."
+title: "Bokmarknaden och fildelning på Textmässan"
+excerpt: "ag gick direkt från tåget från Malmö till textmässan i lördags för att delta i en paneldebatt.\n\n\
+  Paneldebattens titel var bokmarknaden och fildelning och i panelen satt jag, Oivvio Polite och moderator C-M Edenborg. Ingen konfliktfylld skara direkt. Att bokmarknaden skulle vara hotad av fildelningen avfärdades av panelen på två sätt."
 date: 2008-05-03 13:00:36 +02:00
 wordpress_url: http://www.blay.se/?p=99
 ---
