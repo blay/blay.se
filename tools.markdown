@@ -8,7 +8,9 @@ summary: An overview of my writing tools
 This is a post going through some of my everyday tools I use when working at the computer. I wanted to do this because I believe that the supposedly immaterial acts of thinking, writing and communicating are actually material practices. They are more akin to craftsmanship than we like to think. Not only as a means to get things done most efficiently but also. as Nietsche said, "our writing tools are also working on our thoughts". And given the amount of hours spent with these tools on a daily basis, its worth paying attention to them. I concentrate here mostly on things related to writing activities. Some of my configs and hacks for these softwares are on github so check them out (literally) over there. 
 
 # Desktop
+
 ## Basics
+
 ### Mac lion
 I use a macbook pro, right now only with OS X Lion installed. From time to time I'm thinking that I should switch to Linux and then I either dual boot or use Virtualbox to run a virtual machine, but at the moment I have given up on those thoughts. I am always ready to jump ship though since I try to use plain text[link] files organized through naming conventions [link] as much as I can, as well as free and/or cross-platform (also mobile devices) software. So I'm not so much of an Apple fan boy as this post might make me come across!
 
@@ -94,6 +96,7 @@ When I type 'gitta' (which has a funny double sense in Swedish) in the terminal 
 The most important of all. The whole purpose of my computing life. To be able to write as freely and expressive as possible. I'm close now, very close. This is why I wanted to write this post.
 
 ## Inputs and note taking
+
 ### nvALT
 NValt is the best thing that happened to quick notes since the papyrus. It is based on something really simple. An input field. Where you incrementally search you notes while you type and where if no note is found with the string you type, you only have to hit enter to create a new note with that name. 
 
@@ -140,6 +143,7 @@ A huge benefit with Pandoc is that it can be used to generate citations. I just 
 I used to do everything in Emacs. Especially Emacs org-mode; notes, todo, long-form writing. Eventually, though I ended up realizing how locked in I was in Emacs, no matter how free the software is. It is not that the text files were in a proprietary format; they were plain text files. But the peculiar syntax of Emacs made it hard to make anything useful of the data outside of the application. It was a world of its own. Dumping emacs made me switch to the todo.txt file and to markdown, which was a huge improvement. It also made me finally learn the key bindings of Vim. Recently though I have given up on Vim (although it's my rpimary terminal editor) in favour of...
 
 ## Intermediaries
+
 ### Sublime Text 2
 Omg, I don't know where to begin to describe how fantastic this editor is. Changed the way I write completely! The best thing that happend writing since...NVAlt! It has things like multiple cursors for editing similar parts of a file; a zoomed out little view of the *whole file* you are editing on the right side; it is super beautiful and lightning fast; the cool kids dig it and have made tons of plugins; it has the best incremental search since nvAlt with its file and functions search tools; fantastic search&replace and great macros for manipulating text. 
 
@@ -186,6 +190,7 @@ Recently I have ditched another heavily, frustratingly complex type of software 
 The benefit of using Beamer -- apart from huge nrrd cred -- is that the files are extremely lightweight, easy to re-edit and videofiles and images can be reused instead of stored within each file.
 
 # Bibliography management
+
 ## Zotero
 I have tried a bunch of bibliography managers in my days. Often they did one thing well, but were frustratingly poor in other aspects. But now I'm pretty sure I found one that is a keeper. 
 
