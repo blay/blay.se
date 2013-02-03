@@ -204,7 +204,7 @@ pre {
   div.handout { display: block; visibility: visible; }
 }
 
-blockquote { font-style: italic }
+blockquote { font-style: italic; color: #7B7A6F;  }
 
 img { background-color: transparent }
 
