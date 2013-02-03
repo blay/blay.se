@@ -129,7 +129,7 @@ div.slide h1 {
   margin-left: 0;
   margin-right: 0;
   margin-bottom: 0.5em;
-  border-bottom: 4px solid #36c;
+  border-bottom: 4px solid #A6DDFB;
   display: block;
   font-size: 160%;
   line-height: 1.2em;
@@ -215,8 +215,8 @@ p.copyright { font-size: smaller }
 
 a img { border-width: 0; border-style: none }
 
-a:visited { color: navy }
-a:link { color: navy }
+a:visited { color: #555 }
+a:link { color: #555 }
 a:hover { color: red; text-decoration: underline }
 a:active { color: red; text-decoration: underline }
 
