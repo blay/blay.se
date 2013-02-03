@@ -13,6 +13,7 @@
     <link href="/css/blackwhite_site.css" rel="alternate stylesheet" type="text/css" title="blackwhite"/>
     <link href="/css/large_site.css" rel="alternate stylesheet" type="text/css" title="large"/>
     <link href="/css/army.css" rel="stylesheet" type="text/css" title="army"/>
+    <link href="/css/screen.css" rel="stylesheet" type="text/css" title="screen"/>
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <script src="/js/flattr.js" type="text/javascript"></script>
@@ -28,6 +29,7 @@
     <a href="#" onclick="setActiveStyleSheet('blackwhite'); return false;"><img src="/img/blackwhite.png"></a>    
     <a href="#" onclick="setActiveStyleSheet('large'); return false;"><img src="/img/blackwhite.png"></a>    
     <a href="#" onclick="setActiveStyleSheet('army'); return false;"><img src="/img/army.png"></a>    
+    <a href="#" onclick="setActiveStyleSheet('screen'); return false;"><img src="/img/army.png"></a>    
     </div>
 </div>
       <div class="content">
