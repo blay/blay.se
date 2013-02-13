@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 255
 layout: post
-title: "Boken Mackt, \xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE, Broccoli och KOPIMI sl\xC3\xA4ppt!"
+title: "Boken Mackt, \xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE\xEF\x81\xAE, Broccoli och KOPIMI släppt!"
 date: 2009-02-24 01:37:14 +01:00
 wordpress_url: http://www.blay.se/?p=255
 ---

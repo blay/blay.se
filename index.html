@@ -1,36 +1,35 @@
 ---
 layout: default
-title: blay
+title: Magnus Eriksson
+description: Magnus Eriksson is a this and a that
+keywords: Magnus Eriksson,blog,html
+change_frequency: daily
+priority: 1.0
 ---
-<div class="post">
 
-<div class="meta">
-	<a href="/about.html">about</a>
-    <form id="search" method="get" action="http://www.google.com/search">
-
-      <input class="text" type="text" name="q" />
-
-      <input type="hidden" name="sitesearch" value="blay.se" />
-
-      <input class="button" type="submit" value="Sök" />
-    </form>
-
-<div class="break">// // //</div>
-
+<div class="intro">
+<p>
+  Welcome to the online home of
+  <a href="about.html">Magnus Eriksson</a>,
+  <a href="https://www.tii.se/people/magnus-eriksson">reseacher</a>
+   at the Interactive Instute
+   and member of
+  <a href="http://www.telecomix.org" rel="me" title="Telecomix">Telecomix</a>,
+  <a href="http://www.juliagruppen.se" rel="me" title="Juliagruppen">Juliagruppen</a>,
+  <a href="http://www.fffff.at" rel="me" title="Juliagruppen">FATLAB</a>,
+  and
+  <a href="http://gbg.hackerspaces.se" rel="me" title="Göteborgs Hackerspace">GHS</a>.
+</p>
 </div>
 
-
-{% for year in site.postsbyyear %}
-<div class="year">{{ year.number }}</div>
-  {% for month in year.months %}
-    {{ month.name }}
-    <ul class="postlist">
-      {% for post in month.posts %}
-        <li><span class="date"> {{ post.date | date: "%d" }} </span><a href="{{ post.url }}">{{ post.title }}</a></li>
-<li><span class="summary"> {{ post.summary }} </span><li><br><li></li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-{% endfor %}
-
-</div>
+<h1>Posts</h1>
+<ul class="listing">
+    {% for post in site.posts %}
+      <li>
+        <span>{{ post.date | date: "%B %e, %Y" | ordinalize  }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+		<br>
+		<div class="summary">{{ post.summary }}</div>
+		</li>
+    {% endfor %}
+</ul>

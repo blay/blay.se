@@ -1,8 +1,14 @@
 --- 
-wordpress_id: 25
+wordpress_id: 25 
 layout: post
-title: Notes on Networks
-date: 2007-07-31 09:14:58 +02:00
-wordpress_url: http://fadetogrey.wordpress.com/2007/07/31/notes-on-networks/
+title: Notes on Networks 
+date: 2007-07-31 09:14:58 +02:00 
+wordpress_url: http://fadetogrey.wordpress.com/2007/07/31/notes-on-networks/ 
 ---
-<span><span></span></span><span></span><span><span>1)When people meet a stranger on the other side of the world and they find out that they have some common acquaintance, the reaction is usually one of surprise about the meeting</span></span>."What a coincidence that we had this acquaintance!"<br /><div><span><span>   <br />   </span></span><span><span>But the remarkable thing is not that they had an common acquaintance with a complete stranger on the other side of the world, </span></span><span><span>since the average distance between any two persons are only about three links. </span></span><span><span>The remarkable thing is that they managed to find this connection in the brief moment that they conversed. </span></span><span><span>Thus, it is a miracle of communication and not one of a cosmic coincidence. </span></span><span><span><br />   </span></span><span><span><br />   2) The seduction of networks is their nearness, bringing near what is far while preserving its farness. To be close friends is to be near, to share a world. To network is to believe in the nearness of that which is far away, in a separate world.<br />   </span></span><br />   <span><span>3)</span></span><span><span></span></span><span>  </span><span><span>Our acquaintances are more "useful" in our lives than close friends.</span></span><span></span><span><span> Important in the sense of helping you find a job, pick up gossip, get news and so on. This is b</span></span><span><span>ecause your close friends probably all know each other</span></span><span></span><span><span>, but with each new acquaintance you get access to a new network of friends.</span></span>   </div> <br /> <br />
+
+1)When people meet a stranger on the other side of the world and they find out that they have some common acquaintance, the reaction is usually one of surprise about the meeting."What a coincidence that we had this acquaintance!"
+
+But the remarkable thing is not that they had an common acquaintance with a complete stranger on the other side of the world, since the average distance between any two persons are only about three links. The remarkable thing is that they managed to find this connection in the brief moment that they conversed. Thus, it is a miracle of communication and not one of a cosmic coincidence. 2) The seduction of networks is their nearness, bringing near what is far while preserving its farness. To be close friends is to be near, to share a world. To network is to believe in the nearness of that which is far away, in a separate world. 3) Our acquaintances are more "useful" in our lives than close friends. Important in the sense of helping you find a job, pick up gossip, get news and so on. This is because your close friends probably all know each other, but with each new acquaintance you get access to a new network of friends.
+
+
+

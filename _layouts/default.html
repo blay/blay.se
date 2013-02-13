@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta content="text/html;charset=UTF-8" http-equiv="Content-type" />
-    <title>
-    {{ page.title }}
-    </title>
-    <meta content="Magnus (http://blay.se)" name="author" />
-    <link href="/atom.xml" rel="alternate" title="blay.se" type="application/atom+xml" />
-    <link href="/css/site.css" rel="alternate stylesheet" type="text/css" title="site"/>
-    <link href="/css/brooklyn_site.css" rel="alternate stylesheet" type="text/css" title="brooklyn"/>
-    <link href="/css/blackwhite_site.css" rel="alternate stylesheet" type="text/css" title="blackwhite"/>
-    <link href="/css/large_site.css" rel="alternate stylesheet" type="text/css" title="large"/>
-    <link href="/css/army.css" rel="stylesheet" type="text/css" title="army"/>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta content="The online writing of blay" name="description"/>
+<title>{{ page.title }}</title> <meta name="author" content="Magnus Eriksson" />
+<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="/css/tweet.css" type="text/css" />
+<link href="/webfonts/ss-social.css" rel="stylesheet" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/footnote-popup.js"></script>
+<script type="text/javascript" src="/js/styleTweets.js"></script>
 
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <script src="/js/flattr.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/scripts/styleswitcher.js"></script>
-  </head>
-  <body>
-    <div id="everything">
-    <div class="tagline">
-      <img src="/img/momiamblay.png"> blay.se :: <a href="/">blog</a>:<a href="/papers.html">papers</a>:<a href="http://www.twitter.com/monki">@monki</a>
-    <div id="style">
-    <a href="#" onclick="setActiveStyleSheet('site'); return false;"><img src="/img/site.png"></a>
-    <a href="#" onclick="setActiveStyleSheet('brooklyn'); return false;"><img src="/img/brooklyn.png"></a>    
-    <a href="#" onclick="setActiveStyleSheet('blackwhite'); return false;"><img src="/img/blackwhite.png"></a>    
-    <a href="#" onclick="setActiveStyleSheet('large'); return false;"><img src="/img/blackwhite.png"></a>    
-    <a href="#" onclick="setActiveStyleSheet('army'); return false;"><img src="/img/army.png"></a>    
-    </div>
-</div>
-      <div class="content">
-  {{ content }}
-      </div>
-    </div>
-  </body>
+{% include analytics.html %}
+
+</head>
+<body>
+
+	<div id="access">
+		<ul>
+			<li><a href="/">Magnus Eriksson</a></li>
+			<li><a href="{{ base_url }}/about.html">Om</a></li>
+			<li><a href="{{ base_url }}/papers.html">Research</a></li>
+			<li><a href="{{ base_url }}/projects.html">Projects</a></li>
+		</ul>
+	</div>
+
+<section class="container content">
+{{ content }}
+</section>
+
+<footer>
+	• Written by <a href="/about.html">Magnus Eriksson</a> • Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a> • Theme modified from <a href="http://www.jasonheppler.org/">Jason Heppler</a> <br/> Licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a> • <a href="http://www.blay.se/atom.xml">Subscribe to Feed</a>
+</footer>
+
+</body>
 </html>
-

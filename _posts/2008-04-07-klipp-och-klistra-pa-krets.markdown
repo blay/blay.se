@@ -1,9 +1,25 @@
 --- 
-wordpress_id: 39
+wordpress_id: 39 
 layout: post
-title: "Klipp och Klistra p\xC3\xA5 Krets"
-excerpt: "Idag hade <a title=\"Galleri Krets\" href=\"http://www.krets.info/\" id=\"lso1\">Galleri Krets</a> en workshop med <a title=\"Monica Tormell\" href=\"http://www.monicatormell.nl/\" id=\"dw_c\">Monica Tormell</a> i hur man <a href=\"http://www.facebook.com/event.php?eid=10111198815\" id=\"d9d9\">\"inverterar vinylskivor och dekrypterar dem fr\xC3\xA5n dolda budskap\"</a>."
-date: 2008-04-07 00:06:58 +02:00
-wordpress_url: http://fadetogrey.wordpress.com/2008/04/07/klipp-och-klistra-pa-krets/
+title: "Klipp och Klistra på Krets" 
+date: 2008-04-07 00:06:58 +02:00 
+wordpress_url: http://fadetogrey.wordpress.com/2008/04/07/klipp-och-klistra-pa-krets/ 
 ---
-Idag hade <a title="Galleri Krets" href="http://www.krets.info/" id="lso1">Galleri Krets</a> en workshop med <a title="Monica Tormell" href="http://www.monicatormell.nl/" id="dw_c">Monica Tormell</a> i hur man <a href="http://www.facebook.com/event.php?eid=10111198815" id="d9d9">"inverterar vinylskivor och dekrypterar dem från dolda budskap"</a>. Tekniken gick ut på att göra en limkopia av en vinylskiva på följande sätt:<br /><br /><ol><li>Täpp för vinylskivans hål med papper och tejpa för etiketten<br /></li><li>Täck skivan med ett tunt lager lim och låt det torka</li><li>Klippa eventuellt ut bilder från tidningar eller dylikt som du sätter dit för att få en picture disc</li><li>Lägg på ett nytt lager lim</li><li>Riv av</li><li>Spela skivan på en vinylspelare. Eftersom den är inverterad spelas den inifrån och ut<br /></li></ol><div id="enp7" style="text-align:left;padding:1em 0;"><img style="width:320px;height:286.4px;" src="http://docs.google.com/File?id=df2vgdxk_164hbrwkggx"></div>Hur man dekrypterade dem från dolda budskap var oklart. Kanske kom jag för tidigt och gick försent för att fatta det. Bidrog dock med lite <a title="dolda budskap" href="http://www.youtube.com/watch?v=_6DRAjaIrvY" id="opzw">dolda budskap</a> på mitt omslag.<br /><div id="e" style="text-align:left;padding:1em 0;"><img style="width:320px;height:290.117px;" src="http://docs.google.com/File?id=df2vgdxk_165cv2rkzg6"></div>Monica, som bor och verkar i Amsterdam, hade kvällen innan vernissage för utställningen Black OP som kretsar kring satanism, ödesmättad nationalromantik, konspirationer och hemliga militäroperationer. En bit av utställningen och limskivor på tork syns på den här bilden:<br /><div id="e" style="text-align:left;padding:1em 0;"><img style="width:320px;height:240px;" src="http://docs.google.com/File?id=df2vgdxk_166frs7tkgr"><br /><br /><font size="1">(Det roliga med det här inlägget var att det innehöll ett dolt budskap...)</font><br /></div>
+
+Idag hade [Galleri Krets](http://www.krets.info/ "Galleri Krets") en workshop med [Monica Tormell](http://www.monicatormell.nl/ "Monica Tormell") i hur man ["inverterar vinylskivor och dekrypterar dem från dolda budskap"](http://www.facebook.com/event.php?eid=10111198815). Tekniken gick ut på att göra en limkopia av en vinylskiva på följande sätt:
+
+
+1. Täpp för vinylskivans hål med papper och tejpa för etiketten 2. Täck skivan med ett tunt lager lim och låt det torka 3. Klippa eventuellt ut bilder från tidningar eller dylikt som du sätter dit för att få en picture disc 4. Lägg på ett nytt lager lim 5. Riv av 6. Spela skivan på en vinylspelare. Eftersom den är inverterad spelas den inifrån och ut
+
+![](http://docs.google.com/File?id=df2vgdxk_164hbrwkggx)
+
+Hur man dekrypterade dem från dolda budskap var oklart. Kanske kom jag för tidigt och gick försent för att fatta det. Bidrog dock med lite [dolda budskap](http://www.youtube.com/watch?v=_6DRAjaIrvY "dolda budskap") på mitt omslag.
+
+![](http://docs.google.com/File?id=df2vgdxk_165cv2rkzg6)
+
+Monica, som bor och verkar i Amsterdam, hade kvällen innan vernissage för utställningen Black OP som kretsar kring satanism, ödesmättad nationalromantik, konspirationer och hemliga militäroperationer. En bit av utställningen och limskivor på tork syns på den här bilden:
+
+![](http://docs.google.com/File?id=df2vgdxk_166frs7tkgr)
+
+(Det roliga med det här inlägget var att det innehöll ett dolt budskap...)
+

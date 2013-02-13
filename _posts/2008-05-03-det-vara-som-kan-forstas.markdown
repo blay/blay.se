@@ -1,13 +1,9 @@
 --- 
-wordpress_id: 102
+wordpress_id: 102 
 layout: post
-title: "Det vara som kan f\xC3\xB6rst\xC3\xA5s"
-date: 2008-05-03 15:13:44 +02:00
-wordpress_url: http://www.blay.se/2008/05/03/det-vara-som-kan-forstas/
+title: "Det vara som kan förstås" 
+date: 2008-05-03 15:13:44 +02:00 
+wordpress_url: http://www.blay.se/2008/05/03/det-vara-som-kan-forstas/ 
 ---
-...är inte språk - det är information. Det är inte samma sak.
 
-Allt språk är information, men all information är inte språk.
-
-Språk är informationen när den har en ren, läsbar signal, men varje signal innehåller också något annat - brus, kod - som inte går att avkoda.
-<a href="about:blank"></a>
+...är inte språk - det är information. Det är inte samma sak. Allt språk är information, men all information är inte språk. Språk är informationen när den har en ren, läsbar signal, men varje signal innehåller också något annat - brus, kod - som inte går att avkoda. [](about:blank) 
