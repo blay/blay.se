@@ -67,7 +67,6 @@ task :pushdev, :message do |t, args|
     system "git checkout #{branch}"
     system "git add ."
     system "git commit -m \"#{message}\""
-    system "git push origin #{branch}"
     system "git push github #{branch}"
     puts 'Done!'
   end
