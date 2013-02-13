@@ -10,7 +10,20 @@ permalink:      /:year/:month/:day/:title
 
 name: 	        blay.se
 base_url:       http://blay.se
-description:    "blog" 
+description:    "blog"
 root_desc:      "blay.se"
 
 exclude: ['Rakefile', 'README.markdown', 'config.rb']
+
+# Rake
+
+editor: vim
+git:
+  branch: master
+  branch_dev: dev
+transfer:
+  command: rsync
+  settings: -havz --delete
+  source: _site/
+  destination: monki@blay.se:www/blay.se/www/
+  destination_dev: monki@blay.se:www/dev.blay.se/www/

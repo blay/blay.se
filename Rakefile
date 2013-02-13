@@ -3,6 +3,17 @@
 # Modified from Jeff McFadden:
 # http://jeffmcfadden.com/blog/2011/04/13/rsync-your-jekyll/
 
+# Requirements
+require 'rake'       # For the rake tasks
+require 'yaml'       # For reading the configuration file
+require 'fileutils'  # For creating recursive directories
+
+# Load the configuration file
+config = YAML.load_file("_config.yml")
+
+# Set "rake watch" as default task
+task :default => :build
+
 ## -- Config -- ##
 source_dir  = "_site"
 draft_dir   = "_drafts"
@@ -10,18 +21,133 @@ posts_dir   = "_posts"
 stash_dir   = "_stash"
 server_port = "4000"
 
-## -- Working with Jekyll -- ##
+
+##############
+# Deploying  #
+##############
+
+## Push
+
+desc 'push master to blay.se and github via git'
+task :push, :message do |t, args|
+  message = args[:message]
+  branch  = config["git"]["branch"]
+
+  if message.nil? or message.empty?
+    message = "auto"
+  end
+  if branch.nil? or branch.empty?
+    raise "Please add a branch."
+  else
+    Rake::Task[:build].invoke
+    puts 'PUSHING MASTER TO BLAY AND GITHUB'
+    system "git checkout #{branch}"
+    system "git add ."
+    system "git commit -m \"#{message}\""
+    system "git push origin #{branch}"
+    system "git push github #{branch}"
+    puts 'Done!'
+  end
+end
+
+
+desc 'push dev to blay.se and github via git'
+task :pushdev, :message do |t, args|
+  message = args[:message]
+  branch  = config["git"]["branch_dev"]
+
+  if message.nil? or message.empty?
+    message = "auto"
+  end
+  if branch.nil? or branch.empty?
+    raise "Please add a branch."
+  else
+    Rake::Task[:build].invoke
+    puts 'PUSHING DEV TO BLAY AND GITHUB'
+    system "git checkout #{branch}"
+    system "git add ."
+    system "git commit -m \"#{message}\""
+    system "git push origin #{branch}"
+    system "git push github #{branch}"
+    puts 'Done!'
+  end
+end
+
+## Transfer
+
+desc "Transfer the site to the remote server"
+task :transfer do
+  command     = config["transfer"]["command"]
+  source      = config["transfer"]["source"]
+  destination = config["transfer"]["destination"]
+  settings    = config["transfer"]["settings"]
+
+  if command.nil? or command.empty?
+    raise "Please choose a file transfer command."
+  elsif command == "robocopy"
+    Rake::Task[:build].invoke
+
+    system "robocopy #{source} #{destination} #{settings}"
+    puts "Your site was transfered."
+  elsif command == "rsync"
+    Rake::Task[:build].invoke
+
+    system "rsync #{settings} #{source} #{destination}"
+    puts "Your site was transfered."
+  else
+    raise "#{command} isn't a valid file transfer command."
+  end
+end
+
+desc "Transfer the dev site to the remote server"
+task :transferdev do
+  command     = config["transfer"]["command"]
+  source      = config["transfer"]["source"]
+  destination = config["transfer"]["destination_dev"]
+  settings    = config["transfer"]["settings"]
+
+  if command.nil? or command.empty?
+    raise "Please choose a file transfer command."
+  elsif command == "robocopy"
+    Rake::Task[:build].invoke
+
+    system "robocopy #{source} #{destination} #{settings}"
+    puts "Your site was transfered."
+  elsif command == "rsync"
+    Rake::Task[:build].invoke
+
+    system "rsync #{settings} #{source} #{destination}"
+    puts "Your site was transfered."
+  else
+    raise "#{command} isn't a valid file transfer command."
+  end
+end
+
+#######
+# All #
+#######
+
+desc 'Build, Push, Transfer'
+task :all => ["push", "transfer"]
+
+
+desc 'Build, Push, Transfer Dev'
+task :all => ["pushdev", "transferdev"]
+
+#######################
+# Working with Jekyll #
+#######################
+
 desc 'default: list available rake tasks'
 task :default do
 	puts 'Try one of these specific tasks:'
 	sh 'rake --tasks --silent'
 end
 
-desc 'deploy to blay.se via git'
-task :deploy do
-  puts 'DEPLOYING TO BLAY.SE'
-  sh "time jekyll && gitta"
-  puts 'Done!'
+# rake build
+desc "Generate the site (no server)"
+task :build do
+  system "jekyll --no-server"
 end
 
 desc "nuke and rebuild"
@@ -30,17 +156,39 @@ task :nuke do
     system "jekyll"
 end
 
-desc "watch the site and regenerate when it changes"
-task :watch do
-  puts "Starting to watch source with Jekyll."
-  system "jekyll --server --auto"
+# rake watch
+# rake watch[number]
+desc "Generate and watch the site (with an optional post limit)"
+task :watch, :number do |t, args|
+  number = args[:number]
+
+  if number.nil? or number.empty?
+    system "jekyll --auto --server"
+  else
+    system "jekyll --auto --server --limit_posts=#{number}"
+  end
 end
 
-desc "preview site in browser with localhost:4000"
+# rake preview
+desc "Launch a preview of the site in the browser"
 task :preview do
-  puts "Starting site preview in http://localhost:4000."
-  system "jekyll --server"
+  require 'Launchy'
+
+  puts "Launching browser for preview..."
+  sleep 2
+
+  Thread.new do
+    Launchy.open("http://localhost:4000/")
+  end
+
+  Rake::Task[:watch].invoke
 end
+
+#########
+# Posts #
+#########
+
+## Creating Posts
 
 desc "give title as argument and create new post"
 # usage rake write["Post Title Goes Here",category]
@@ -56,32 +204,7 @@ layout: post
 title: #{args.title}
 date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
 tags:
-- 
 category: #{args.category}
----
-EOS
-    end
-    puts "Now opening #{path} in subl..."
-    system "subl #{path}"
-end
-
-desc "give title as argument and create new post"
-# usage rake link["Post Title Goes Here", link]
-# category is optional
-task :link, [:title, :hreflink] do |t, args|
-  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
-  path = File.join("_posts", filename)
-  if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
-  File.open(path, 'w') do |file|
-    file.write <<-EOS
----
-layout: post
-title: #{args.title}
-external-url: #{args.hreflink}
-date: #{Time.now.strftime('%Y-%m-%d %k:%M:%S')}
-tags:
-- link
-category: link
 ---
 EOS
     end
@@ -103,11 +226,27 @@ layout: post
 title: #{args.title}
 date: #{Time.now.strftime('%Y-%m-d %k:%M:%S')}
 tags:
-- 
+-
 category: #{args.category}
 ---
 EOS
     end
     puts "Now opening #{path} in subl..."
     system "subl #{path}"
+end
+
+## Isolating and Integrating
+
+desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much quicker."
+task :isolate, :filename do |t, args|
+  stash_dir = "#{stash_dir}"
+  FileUtils.mkdir(stash_dir) unless File.exist?(stash_dir)
+  Dir.glob("#{posts_dir}/*.*") do |post|
+    FileUtils.mv post, stash_dir unless post.include?(args.filename)
+  end
+end
+
+desc "Move all stashed posts back into the posts directory, ready for site generation."
+task :integrate do
+  FileUtils.mv Dir.glob("#{stash_dir}/*.*"), "#{posts_dir}/"
 end
