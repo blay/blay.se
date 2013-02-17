@@ -3,6 +3,8 @@ title: Kod och Materialitet
 layout: post
 summary: Paper om datorkodens materialitet
 ---
+*Detta är ett kurspapper från doktorandkursen "Materialiteter, tingteorier och materiella kulturer: Perspektiv på den materiella vändingen".
+
 
 * toc
 {:toc}
