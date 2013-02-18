@@ -39,7 +39,6 @@ task :push, :message do |t, args|
   if branch.nil? or branch.empty?
     raise "Please add a branch."
   else
-    Rake::Task[:build].invoke
     puts 'PUSHING MASTER TO BLAY AND GITHUB'
     system "git checkout #{branch}"
     system "git add ."
@@ -62,11 +61,11 @@ task :pushdev, :message do |t, args|
   if branch.nil? or branch.empty?
     raise "Please add a branch."
   else
-    Rake::Task[:build].invoke
     puts 'PUSHING DEV TO BLAY AND GITHUB'
     system "git checkout #{branch}"
     system "git add ."
     system "git commit -m \"#{message}\""
+    system "git push origin #{branch}"
     system "git push github #{branch}"
     puts 'Done!'
   end
@@ -81,14 +80,7 @@ task :transfer do
   destination = config["transfer"]["destination"]
   settings    = config["transfer"]["settings"]
 
-  if command.nil? or command.empty?
-    raise "Please choose a file transfer command."
-  elsif command == "robocopy"
-    Rake::Task[:build].invoke
-
-    system "robocopy #{source} #{destination} #{settings}"
-    puts "Your site was transfered."
-  elsif command == "rsync"
+  if command == "rsync"
     Rake::Task[:build].invoke
 
     system "rsync #{settings} #{source} #{destination}"
@@ -105,14 +97,7 @@ task :transferdev do
   destination = config["transfer"]["destination_dev"]
   settings    = config["transfer"]["settings"]
 
-  if command.nil? or command.empty?
-    raise "Please choose a file transfer command."
-  elsif command == "robocopy"
-    Rake::Task[:build].invoke
-
-    system "robocopy #{source} #{destination} #{settings}"
-    puts "Your site was transfered."
-  elsif command == "rsync"
+  if command == "rsync"
     Rake::Task[:build].invoke
 
     system "rsync #{settings} #{source} #{destination}"
