@@ -2,6 +2,7 @@
 wordpress_id: 286 
 layout: post
 title: "Om stort, smått och Hunter S. Thompson" 
+categories: swedish 
 date: 2009-03-12 14:09:30 +01:00 
 wordpress_url: http://www.blay.se/?p=286 
 ---

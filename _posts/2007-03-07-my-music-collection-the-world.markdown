@@ -2,6 +2,7 @@
 wordpress_id: 14 
 layout: post
 title: My Music Collection - The World 
+categories: english notswedish
 date: 2007-03-07 11:09:11 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/03/07/my-music-collection-the-world/ 
 ---

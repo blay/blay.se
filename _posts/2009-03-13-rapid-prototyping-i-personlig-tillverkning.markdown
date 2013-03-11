@@ -2,6 +2,7 @@
 wordpress_id: 300 
 layout: post
 title: Rapid Prototyping I - personlig tillverkning 
+categories: english swedish 
 date: 2009-03-13 17:55:16 +01:00 
 wordpress_url: http://www.blay.se/?p=300 
 ---

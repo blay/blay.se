@@ -2,6 +2,7 @@
 wordpress_id: 143 
 layout: post
 title: Rekommendationssystem och filmiska assemblage 
+categories: english swedish 
 date: 2008-11-23 21:26:43 +01:00 
 wordpress_url: http://www.blay.se/?p=143 
 ---

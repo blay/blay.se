@@ -2,6 +2,7 @@
 wordpress_id: 23 
 layout: post
 title: Rhythmic Information 
+categories: english notswedish
 date: 2007-06-09 12:00:34 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/06/09/rhythmic-information/ 
 ---

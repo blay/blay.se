@@ -2,6 +2,7 @@
 wordpress_id: 37 
 layout: post
 title: "Musikens besättande av kroppen" 
+categories: english swedish 
 date: 2008-02-24 21:35:19 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/02/24/musikens-besattande-av-kroppen/ 
 ---

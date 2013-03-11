@@ -2,6 +2,7 @@
 wordpress_id: 296 
 layout: post
 title: Fienden 
+categories: notswedish
 date: 2009-03-12 21:06:21 +01:00 
 wordpress_url: http://www.blay.se/?p=296 
 ---

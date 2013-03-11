@@ -2,6 +2,7 @@
 wordpress_id: 131 
 layout: post
 title: Sociala objekt, nodal points och panspektronism 
+categories: swedish 
 date: 2008-10-06 15:42:08 +02:00 
 wordpress_url: http://www.blay.se/?p=131 
 ---

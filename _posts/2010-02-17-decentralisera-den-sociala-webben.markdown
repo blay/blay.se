@@ -2,6 +2,7 @@
 wordpress_id: 598 
 layout: post
 title: Decentralisera den sociala webben 
+categories: english swedish 
 date: 2010-02-17 12:29:03 +01:00 
 wordpress_url: http://www.blay.se/?p=598 
 ---

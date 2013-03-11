@@ -2,6 +2,7 @@
 wordpress_id: 7 
 layout: post
 title: Free establishment of communications (abstract) 
+categories: english notswedish
 date: 2006-09-20 01:49:11 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2006/09/20/free-establishment-of-communications-abstract-2/
 ---

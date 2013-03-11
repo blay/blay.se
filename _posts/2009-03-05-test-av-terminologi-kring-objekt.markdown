@@ -2,6 +2,7 @@
 wordpress_id: 263 
 layout: post
 title: Test av terminologi kring objekt 
+categories: swedish 
 date: 2009-03-05 23:59:03 +01:00 
 wordpress_url: http://www.blay.se/?p=263 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 459 
 layout: post
 title: Italien tvingar fram kulinarisk monokultur 
+categories: english swedish 
 date: 2009-05-22 14:02:55 +02:00 
 wordpress_url: http://www.blay.se/?p=459 
 ---

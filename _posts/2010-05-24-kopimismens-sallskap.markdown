@@ -2,6 +2,7 @@
 wordpress_id: 980 
 layout: post
 title: "Kopimismens sällskap" 
+categories: swedish 
 date: 2010-05-24 18:46:51 +02:00 
 wordpress_url: http://www.blay.se/2010/05/24/kopimismens-sallskap/
 ---

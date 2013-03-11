@@ -2,6 +2,7 @@
 wordpress_id: 272 
 layout: post
 title: Theremin och lampa 
+categories: swedish 
 date: 2009-03-11 17:53:57 +01:00 
 wordpress_url: http://www.blay.se/?p=272 
 ---

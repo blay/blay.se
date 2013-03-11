@@ -2,6 +2,7 @@
 wordpress_id: 31 
 layout: post
 title: Cyborg und Exoskeleton in irssi 
+categories: english notswedish
 date: 2007-12-08 01:24:28 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/12/08/cyborg-und-exoskeleton-in-irssi/ 
 ---

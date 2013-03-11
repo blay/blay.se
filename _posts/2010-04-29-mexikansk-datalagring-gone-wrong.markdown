@@ -2,6 +2,7 @@
 wordpress_id: 633 
 layout: post
 title: Mexikansk datalagring gone wrong 
+categories: swedish 
 date: 2010-04-29 12:39:02 +02:00 
 wordpress_url: http://www.blay.se/?p=633 
 ---

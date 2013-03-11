@@ -2,6 +2,7 @@
 wordpress_id: 135 
 layout: post
 title: Fattig kultursyn hos kulturbranschen 
+categories: english swedish 
 date: 2008-10-29 11:24:35 +01:00 
 wordpress_url: http://www.blay.se/?p=135 
 ---

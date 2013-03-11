@@ -2,6 +2,7 @@
 wordpress_id: 366 
 layout: post
 title: "Brev från Sverige till Serbien" 
+categories: english notswedish
 date: 2009-04-17 23:40:11 +02:00 
 wordpress_url: http://www.blay.se/?p=366 
 ---

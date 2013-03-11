@@ -2,6 +2,7 @@
 wordpress_id: 102 
 layout: post
 title: "Det vara som kan förstås" 
+categories: notswedish
 date: 2008-05-03 15:13:44 +02:00 
 wordpress_url: http://www.blay.se/2008/05/03/det-vara-som-kan-forstas/ 
 ---

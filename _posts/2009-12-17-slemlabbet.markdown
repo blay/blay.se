@@ -2,6 +2,7 @@
 wordpress_id: 582 
 layout: post
 title: Slemlabbet 
+categories: swedish 
 date: 2009-12-17 19:13:57 +01:00 
 wordpress_url: http://www.blay.se/?p=582 
 ---

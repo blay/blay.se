@@ -2,6 +2,7 @@
 wordpress_id: 958 
 layout: post
 title: Vibrant Matter reading group 
+categories: english notswedish
 date: 2010-05-16 03:42:55 +02:00 
 wordpress_url: http://www.blay.se/?p=958 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 43 
 layout: post
 title: "Från varsomhelst till överallt" 
+categories: swedish 
 date: 2008-04-15 00:25:05 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/15/fran-varsomhelst-till-overallt/ 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 181 
 layout: post
 title: Dark Alley? Call for Help 
+categories: english notswedish
 date: 2009-01-22 21:27:19 +01:00 
 wordpress_url: http://www.blay.se/?p=181
 ---

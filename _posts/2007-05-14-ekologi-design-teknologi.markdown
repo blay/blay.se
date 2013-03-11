@@ -2,6 +2,7 @@
 wordpress_id: 19 
 layout: post
 title: Ekologi, Design, Teknologi 
+categories: english swedish 
 date: 2007-05-14 13:07:13 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/05/14/ekologi-design-teknologi/ 
 ---

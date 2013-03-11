@@ -2,6 +2,7 @@
 wordpress_id: 110 
 layout: post
 title: "Om språkmaterialism i Vagant" 
+categories: swedish 
 date: 2008-05-22 19:02:07 +02:00 
 wordpress_url: http://www.blay.se/2008/05/22/om-sprakmaterialism-i-vagant/ 
 ---

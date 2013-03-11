@@ -2,6 +2,7 @@
 wordpress_id: 360 
 layout: post
 title: Hur man jobbar EU som Latour 
+categories: swedish 
 date: 2009-04-02 12:11:16 +02:00 
 wordpress_url: http://www.blay.se/?p=360 
 ---

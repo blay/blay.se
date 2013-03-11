@@ -2,6 +2,7 @@
 wordpress_id: 456 
 layout: post
 title: "Sagt på irc..." 
+categories: swedish 
 date: 2009-05-21 23:56:42 +02:00 
 wordpress_url: http://www.blay.se/?p=456 
 ---

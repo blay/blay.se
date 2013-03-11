@@ -2,6 +2,7 @@
 wordpress_id: 233 
 layout: post
 title: Om teknikdeterminism 
+categories: swedish 
 date: 2009-02-07 14:17:41 +01:00 
 wordpress_url: http://www.blay.se/?p=233 
 ---

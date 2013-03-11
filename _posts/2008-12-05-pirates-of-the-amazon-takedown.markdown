@@ -2,6 +2,7 @@
 wordpress_id: 146 
 layout: post
 title: Pirates of the Amazon takedown 
+categories: english swedish 
 date: 2008-12-05 10:39:42 +01:00 
 wordpress_url: http://www.blay.se/?p=146 
 ---

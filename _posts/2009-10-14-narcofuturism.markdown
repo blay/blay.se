@@ -2,6 +2,7 @@
 wordpress_id: 567 
 layout: post
 title: Narcofuturism 
+categories: english notswedish
 date: 2009-10-14 13:02:19 +02:00 
 wordpress_url: http://www.blay.se/?p=567 
 ---

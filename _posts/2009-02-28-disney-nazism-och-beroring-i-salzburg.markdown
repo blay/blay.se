@@ -2,6 +2,7 @@
 wordpress_id: 257 
 layout: post
 title: "Disney, nazism och beröring i Salzburg" 
+categories: swedish 
 date: 2009-02-28 16:03:38 +01:00 
 wordpress_url: http://www.blay.se/?p=257 
 ---

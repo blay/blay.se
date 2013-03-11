@@ -2,6 +2,7 @@
 wordpress_id: 594 
 layout: post
 title: "re: Lazzaratos Puissances de l'invention" 
+categories: swedish 
 date: 2010-01-21 11:33:07 +01:00 
 wordpress_url: http://www.blay.se/?p=594 
 ---

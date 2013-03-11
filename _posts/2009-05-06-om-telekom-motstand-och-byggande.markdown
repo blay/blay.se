@@ -2,6 +2,7 @@
 wordpress_id: 437 
 layout: post
 title: "Om telekom, motstånd och byggande" 
+categories: swedish 
 date: 2009-05-06 22:13:47 +02:00 
 wordpress_url: http://www.blay.se/?p=437 
 ---

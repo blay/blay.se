@@ -2,6 +2,7 @@
 wordpress_id: 387 
 layout: post
 title: "Om internetreglering - Debatten på Stockholms Universitet" 
+categories: swedish tldr 
 date: 2009-04-27 10:45:32 +02:00 
 wordpress_url: http://www.blay.se/?p=387 
 ---

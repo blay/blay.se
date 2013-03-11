@@ -2,6 +2,7 @@
 wordpress_id: 169 
 layout: post
 title: Moln, moln, moln 
+categories: swedish 
 date: 2008-12-27 14:11:48 +01:00 
 wordpress_url: http://www.blay.se/?p=169 
 ---

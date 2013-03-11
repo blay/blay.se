@@ -2,6 +2,7 @@
 wordpress_id: 1031 
 layout: post
 title: "Magiska fönster och ytor" 
+categories: english swedish 
 date: 2010-10-02 13:04:48 +02:00 
 wordpress_url: http://www.blay.se/2010/10/02/magiska-fonster-och-ytor/
 ---

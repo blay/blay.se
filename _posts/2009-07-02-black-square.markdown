@@ -2,6 +2,7 @@
 wordpress_id: 506 
 layout: post
 title: Black Square 
+categories: swedish 
 date: 2009-07-02 20:15:57 +02:00 
 wordpress_url: http://www.blay.se/?p=506 
 ---

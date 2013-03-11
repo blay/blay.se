@@ -2,6 +2,7 @@
 wordpress_id: 466 
 layout: post
 title: "Råd till nästa veckas ambassadörer" 
+categories: english swedish tldr 
 date: 2009-05-26 19:42:13 +02:00 
 wordpress_url: http://www.blay.se/?p=466 
 ---

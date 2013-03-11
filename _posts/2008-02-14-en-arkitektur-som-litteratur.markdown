@@ -2,6 +2,7 @@
 wordpress_id: 36 
 layout: post
 title: En arkitektur som litteratur 
+categories: english swedish 
 date: 2008-02-14 01:15:54 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/02/14/en-arkitektur-som-litteratur/
 ---

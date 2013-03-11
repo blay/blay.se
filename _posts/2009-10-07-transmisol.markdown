@@ -2,6 +2,7 @@
 wordpress_id: 557 
 layout: post
 title: Transmisol 
+categories: english notswedish
 date: 2009-10-07 04:13:45 +02:00 
 wordpress_url: http://www.blay.se/?p=557 
 ---

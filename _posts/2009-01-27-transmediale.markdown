@@ -2,6 +2,7 @@
 wordpress_id: 191 
 layout: post
 title: Transmediale 
+categories: swedish 
 date: 2009-01-27 02:15:32 +01:00 
 wordpress_url: http://www.blay.se/?p=191 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 227 
 layout: post
 title: "Transmediale: Paneldebatt" 
+categories: swedish 
 date: 2009-01-31 15:02:37 +01:00 
 wordpress_url: http://www.blay.se/?p=227 
 ---

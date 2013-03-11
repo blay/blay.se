@@ -2,6 +2,7 @@
 wordpress_id: 123 
 layout: post
 title: Terrorister i WoW 
+categories: swedish 
 date: 2008-09-18 01:15:28 +02:00 
 wordpress_url: http://www.blay.se/?p=123 
 ---

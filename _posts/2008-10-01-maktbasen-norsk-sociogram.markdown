@@ -2,6 +2,7 @@
 wordpress_id: 128 
 layout: post
 title: Maktbasen - Norsk sociogram 
+categories: notswedish
 date: 2008-10-01 23:28:20 +02:00 
 wordpress_url: http://www.blay.se/?p=128 
 ---

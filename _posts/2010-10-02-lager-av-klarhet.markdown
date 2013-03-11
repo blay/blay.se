@@ -2,6 +2,7 @@
 wordpress_id: 1032 
 layout: post
 title: Lager av klarhet 
+categories: english swedish 
 date: 2010-10-02 13:37:03 +02:00 
 wordpress_url: http://www.blay.se/2010/10/02/lager-av-klarhet/
 ---

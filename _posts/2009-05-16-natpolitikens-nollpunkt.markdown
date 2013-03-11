@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Nätpolitikens nollpunkt" 
+categories: swedish 
 date: 2009-05-16 20:08:21 +02:00 
 wordpress_url: http://www.blay.se/?p=447 
 ---

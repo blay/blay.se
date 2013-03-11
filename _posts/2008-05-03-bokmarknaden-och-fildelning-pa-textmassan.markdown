@@ -2,6 +2,7 @@
 wordpress_id: 99 
 layout: post
 title: "Bokmarknaden och fildelning på Textmässan" 
+categories: swedish 
 date: 2008-05-03 13:00:36 +02:00 
 wordpress_url: http://www.blay.se/?p=99 
 ---

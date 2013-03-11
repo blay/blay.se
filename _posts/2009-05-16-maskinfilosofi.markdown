@@ -2,6 +2,7 @@
 wordpress_id: 443 
 layout: post
 title: maskinfilosofi 
+categories: swedish 
 date: 2009-05-16 12:24:02 +02:00 
 wordpress_url: http://www.blay.se/?p=443 
 ---

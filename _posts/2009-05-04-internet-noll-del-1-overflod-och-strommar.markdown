@@ -2,6 +2,7 @@
 wordpress_id: 423 
 layout: post
 title: "Internet noll - Del 1. överflöd och strömmar" 
+categories: swedish 
 date: 2009-05-04 14:49:59 +02:00 
 wordpress_url: http://www.blay.se/?p=423 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 515 
 layout: post
 title: "I nätverkets utkanter: Användarägda nätverk" 
+categories: english swedish 
 date: 2009-07-21 14:01:18 +02:00 
 wordpress_url: http://www.blay.se/?p=515 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 17 
 layout: post
 title: "Två recensioner" 
+categories: english swedish tldr 
 date: 2007-04-19 21:14:55 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/04/19/tva-recensioner/ 
 ---

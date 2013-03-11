@@ -2,6 +2,7 @@
 wordpress_id: 1063 
 layout: post
 title: Free Culture Forum presentation on Information Fetishism 
+categories: english tldr notswedish
 date: 2010-11-04 21:24:12 +01:00 
 wordpress_url: http://www.blay.se/2010/11/04/free-culture-forum-presentation-on-information-fetishism/
 ---

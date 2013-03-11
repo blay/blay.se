@@ -2,6 +2,7 @@
 wordpress_id: 318 
 layout: post
 title: Bok/papper 
+categories: swedish 
 date: 2009-03-19 21:42:04 +01:00 
 wordpress_url: http://www.blay.se/?p=318 
 ---

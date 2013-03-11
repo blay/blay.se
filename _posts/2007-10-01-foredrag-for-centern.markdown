@@ -2,6 +2,7 @@
 wordpress_id: 26 
 layout: post
 title: "Föredrag för centern" 
+categories: swedish 
 date: 2007-10-01 21:57:49 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/10/01/foredrag-for-centern/ 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 139 
 layout: post
 title: "Kladdade nätverk" 
+categories: notswedish
 date: 2008-11-16 21:45:49 +01:00 
 wordpress_url: http://www.blay.se/?p=139 
 ---

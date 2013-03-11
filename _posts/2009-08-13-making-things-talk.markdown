@@ -2,6 +2,7 @@
 wordpress_id: 549 
 layout: post
 title: Making things talk 
+categories: swedish 
 date: 2009-08-13 16:28:22 +02:00 
 wordpress_url: http://www.blay.se/?p=549 
 ---

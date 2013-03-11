@@ -2,6 +2,7 @@
 wordpress_id: 12 
 layout: post
 title: Nedskrivningssystemet 2006 
+categories: swedish 
 date: 2007-01-02 16:16:29 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/01/02/nedskrivningssystemet-2006/ 
 ---

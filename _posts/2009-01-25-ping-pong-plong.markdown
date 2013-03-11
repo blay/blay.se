@@ -2,6 +2,7 @@
 wordpress_id: 183 
 layout: post
 title: Ping, pong, plong. 
+categories: swedish 
 date: 2009-01-25 00:46:36 +01:00 
 wordpress_url: http://www.blay.se/?p=183 
 ---

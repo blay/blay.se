@@ -2,6 +2,7 @@
 wordpress_id: 40 
 layout: post
 title: Remember Everything - Stiegler och GTD 
+categories: english swedish 
 date: 2008-04-08 12:19:30 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/08/remember-everything-stiegler-och-gtd/
 ---

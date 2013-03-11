@@ -1,6 +1,7 @@
 ---
-title: Kod och Materialitet
 layout: post
+title: Kod och Materialitet
+categories: english swedish tldr
 summary: Paper om datorkodens materialitet
 ---
 

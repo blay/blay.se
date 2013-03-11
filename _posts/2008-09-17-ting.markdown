@@ -2,6 +2,7 @@
 wordpress_id: 122 
 layout: post
 title: Ting 
+categories: notswedish
 date: 2008-09-17 23:24:30 +02:00 
 wordpress_url: http://www.blay.se/2008/09/17/ting/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 498 
 layout: post
 title: "Presentation in Milan: Mansurs presentation" 
+categories: swedish 
 date: 2009-06-22 14:54:43 +02:00 
 wordpress_url: http://www.blay.se/?p=498 
 ---

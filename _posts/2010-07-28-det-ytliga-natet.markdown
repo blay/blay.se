@@ -2,6 +2,7 @@
 wordpress_id: 1000 
 layout: post
 title: "Det ytliga nätet" 
+categories: english swedish 
 date: 2010-07-28 12:31:47 +02:00 
 wordpress_url: http://www.blay.se/?p=1000
 ---

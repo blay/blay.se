@@ -2,6 +2,7 @@
 wordpress_id: 21 
 layout: post
 title: Too Short on Information 
+categories: english notswedish
 date: 2007-06-07 11:16:30 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/06/07/too-short-on-information/ 
 ---

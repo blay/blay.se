@@ -1,4 +1,4 @@
-multivews: true
+multiviews: true
 
 source:         .
 destination:    ./_site

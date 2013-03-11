@@ -2,6 +2,7 @@
 wordpress_id: 103 
 layout: post
 title: "Karl Schögel - Archipelago Europe" 
+categories: swedish 
 date: 2008-05-11 13:38:38 +02:00 
 wordpress_url: http://www.blay.se/2008/05/11/karl-schogel-archipelago-europe/ 
 ---

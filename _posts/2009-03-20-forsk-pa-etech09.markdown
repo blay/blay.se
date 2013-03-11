@@ -2,6 +2,7 @@
 wordpress_id: 333 
 layout: post
 title: "Forsk på Etech09" 
+categories: swedish 
 date: 2009-03-20 13:08:11 +01:00 
 wordpress_url: http://www.blay.se/?p=333 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 378 
 layout: post
 title: Smitta, geometri, information - om svinfluensan 
+categories: english swedish 
 date: 2009-04-27 10:14:07 +02:00 
 wordpress_url: http://www.blay.se/?p=378 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 20 
 layout: post
 title: Kulturkritik 
+categories: english swedish 
 date: 2007-06-03 16:34:51 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/06/03/kulturkritik/ 
 ---

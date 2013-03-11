@@ -7,12 +7,14 @@
 require 'rake'       # For the rake tasks
 require 'yaml'       # For reading the configuration file
 require 'fileutils'  # For creating recursive directories
+require 'rubygems'
+require 'optparse'
 
 # Load the configuration file
 config = YAML.load_file("_config.yml")
 
 # Set "rake watch" as default task
-task :default => :build
+task :default => :list
 
 ## -- Config -- ##
 source_dir  = "_site"
@@ -122,8 +124,8 @@ task :all => ["pushdev", "transferdev"]
 # Working with Jekyll #
 #######################
 
-desc 'default: list available rake tasks'
-task :default do
+desc 'list: list available rake tasks'
+task :list do
 	puts 'Try one of these specific tasks:'
 	sh 'rake --tasks --silent'
 end
@@ -233,4 +235,24 @@ end
 desc "Move all stashed posts back into the posts directory, ready for site generation."
 task :integrate do
   FileUtils.mv Dir.glob("#{stash_dir}/*.*"), "#{posts_dir}/"
+end
+
+task :np do
+  OptionParser.new.parse!
+  ARGV.shift
+  title = ARGV.join(' ')
+
+  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.markdown"
+
+  if File.exist?(path)
+	  puts "[WARN] File exists - skipping create"
+  else
+	  File.open(path, "w") do |file|
+		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'categories' => 'english notswedish research tldr', 'summary' => ''})
+	     file.puts "---"
+	  end	  
+  end	            
+  `subl #{path}`
+
+  exit 1
 end

@@ -2,6 +2,7 @@
 wordpress_id: 39 
 layout: post
 title: "Klipp och Klistra på Krets" 
+categories: swedish 
 date: 2008-04-07 00:06:58 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/07/klipp-och-klistra-pa-krets/ 
 ---

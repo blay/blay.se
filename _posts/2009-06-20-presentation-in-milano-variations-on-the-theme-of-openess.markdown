@@ -2,6 +2,7 @@
 wordpress_id: 490 
 layout: post
 title: "Presentation in Milano: Variations on the theme of openess" 
+categories: english tldr notswedish
 date: 2009-06-20 10:01:08 +02:00 
 wordpress_url: http://www.blay.se/?p=490 
 ---

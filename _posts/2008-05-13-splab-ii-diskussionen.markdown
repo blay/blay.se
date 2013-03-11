@@ -2,6 +2,7 @@
 wordpress_id: 106 
 layout: post
 title: SPLAB II - Diskussionen 
+categories: swedish 
 date: 2008-05-13 11:44:26 +02:00 
 wordpress_url: http://www.blay.se/?p=106 
 ---

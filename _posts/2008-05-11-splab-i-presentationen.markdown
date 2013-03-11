@@ -2,6 +2,7 @@
 wordpress_id: 105 
 layout: post
 title: SPLAB I - Presentationen 
+categories: english swedish tldr 
 date: 2008-05-11 14:56:48 +02:00 
 wordpress_url: http://www.blay.se/?p=105 
 ---

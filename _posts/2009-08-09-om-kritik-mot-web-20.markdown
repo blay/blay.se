@@ -2,6 +2,7 @@
 wordpress_id: 538 
 layout: post
 title: Om kritik mot web 2.0 
+categories: swedish 
 date: 2009-08-09 15:52:11 +02:00 
 wordpress_url: http://www.blay.se/?p=538 
 ---

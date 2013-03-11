@@ -2,6 +2,7 @@
 wordpress_id: 335 
 layout: post
 title: Rapid Prototyping III - RepRap 
+categories: swedish 
 date: 2009-03-20 18:06:51 +01:00 
 wordpress_url: http://www.blay.se/?p=335 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 108 
 layout: post
 title: SPLAB III - Torsdagen 
+categories: swedish 
 date: 2008-05-18 22:15:42 +02:00 
 wordpress_url: http://www.blay.se/?p=108 
 ---

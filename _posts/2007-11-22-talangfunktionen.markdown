@@ -2,6 +2,7 @@
 wordpress_id: 29 
 layout: post
 title: Talangfunktionen 
+categories: english swedish 
 date: 2007-11-22 23:04:53 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/11/22/talangfunktionen/ 
 ---

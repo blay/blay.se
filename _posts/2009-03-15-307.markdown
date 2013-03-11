@@ -2,6 +2,7 @@
 wordpress_id: 307 
 layout: post
 title: Lundblad om Heidegger II 
+categories: swedish 
 date: 2009-03-15 20:58:44 +01:00 
 wordpress_url: http://www.blay.se/?p=307 
 ---

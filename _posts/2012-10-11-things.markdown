@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Things and Objects"
+categories: english tldr notswedish
 summary: Commentary on the book "Things" from Bill Brown
 ---
 *This post is copied from  an assignment I did from a phd course on the culture of materiality at Gothenburg University. It's based on my reading of ["Things"](http://books.google.se/books?id=aXnFQgAACAAJ) edited by Bill Brown. All page references are from that book.*

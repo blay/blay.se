@@ -2,6 +2,7 @@
 wordpress_id: 630 
 layout: post
 title: Svarar brittiskt galleri 
+categories: english swedish 
 date: 2010-04-20 19:55:57 +02:00 
 wordpress_url: http://www.blay.se/?p=630
 ---

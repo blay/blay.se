@@ -2,6 +2,7 @@
 wordpress_id: 487 
 layout: post
 title: Presentation in Milano on the Pirate Party and Internet Swarms 
+categories: english tldr 
 date: 2009-06-19 18:59:28 +02:00 
 wordpress_url: http://www.blay.se/?p=487 
 ---

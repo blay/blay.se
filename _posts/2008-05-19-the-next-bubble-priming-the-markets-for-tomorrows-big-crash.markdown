@@ -2,6 +2,7 @@
 wordpress_id: 109 
 layout: post
 title: "The Next Bubble: Priming the markets for tomorrow's big crash" 
+categories: notswedish
 date: 2008-05-19 12:21:49 +02:00 
 wordpress_url: http://www.blay.se/2008/05/19/the-next-bubble-priming-the-markets-for-tomorrows-big-crash/
 ---

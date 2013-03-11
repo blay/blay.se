@@ -2,6 +2,7 @@
 wordpress_id: 38 
 layout: post
 title: "Förlorad, förvirrad och fångad i Lost" 
+categories: swedish 
 date: 2008-03-14 16:08:15 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/03/14/forlorad-forvirrad-och-fangad-i-lost/ 
 ---

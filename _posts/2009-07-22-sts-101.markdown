@@ -2,6 +2,7 @@
 wordpress_id: 523 
 layout: post
 title: STS 101 
+categories: english swedish tldr 
 date: 2009-07-22 14:41:54 +02:00 
 wordpress_url: http://www.blay.se/?p=523 
 ---

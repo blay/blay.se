@@ -2,6 +2,7 @@
 wordpress_id: 1004 
 layout: post
 title: On the Pirate Bay in Florence 
+categories: english notswedish
 date: 2010-08-05 10:14:44 +02:00 
 wordpress_url: http://www.blay.se/?p=1004 
 ---

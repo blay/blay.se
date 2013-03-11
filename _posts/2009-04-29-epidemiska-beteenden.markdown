@@ -2,6 +2,7 @@
 wordpress_id: 416 
 layout: post
 title: Epidemiska beteenden 
+categories: swedish 
 date: 2009-04-29 00:58:50 +02:00 
 wordpress_url: http://www.blay.se/?p=416 
 ---

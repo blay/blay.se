@@ -2,6 +2,7 @@
 wordpress_id: 159 
 layout: post
 title: Ungas mediavanor 
+categories: swedish 
 date: 2008-12-15 15:36:03 +01:00 
 wordpress_url: http://www.blay.se/?p=159 
 ---

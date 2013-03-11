@@ -2,6 +2,7 @@
 wordpress_id: 420 
 layout: post
 title: "Om digitala 'böcker'" 
+categories: swedish 
 date: 2009-05-01 13:14:51 +02:00 
 wordpress_url: http://www.blay.se/?p=420 
 ---

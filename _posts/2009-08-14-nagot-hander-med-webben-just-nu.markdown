@@ -2,6 +2,7 @@
 wordpress_id: 551 
 layout: post
 title: "Något händer med webben just nu" 
+categories: english swedish tldr 
 date: 2009-08-14 20:34:54 +02:00 
 wordpress_url: http://www.blay.se/?p=551 
 ---

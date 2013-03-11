@@ -2,6 +2,7 @@
 wordpress_id: 33 
 layout: post
 title: Pre-Transmediale 
+categories: english swedish 
 date: 2008-01-11 16:33:26 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/01/11/pre-transmediale/ 
 ---

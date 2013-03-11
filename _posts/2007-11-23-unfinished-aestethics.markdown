@@ -2,6 +2,7 @@
 wordpress_id: 30 
 layout: post
 title: Unfinished aestethics 
+categories: english swedish 
 date: 2007-11-23 17:27:17 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/11/23/unfinished-aestethics/ 
 ---

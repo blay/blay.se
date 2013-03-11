@@ -2,6 +2,7 @@
 wordpress_id: 541 
 layout: post
 title: Kvasi-objekten 
+categories: swedish 
 date: 2009-08-10 17:30:51 +02:00 
 wordpress_url: http://www.blay.se/?p=541 
 ---

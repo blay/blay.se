@@ -2,6 +2,7 @@
 wordpress_id: 314 
 layout: post
 title: "Dagens googlesökning" 
+categories: swedish 
 date: 2009-03-15 23:01:08 +01:00 
 wordpress_url: http://www.blay.se/?p=314 
 ---

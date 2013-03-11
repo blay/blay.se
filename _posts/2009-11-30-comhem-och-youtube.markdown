@@ -2,6 +2,7 @@
 wordpress_id: 571 
 layout: post
 title: Comhem och youtube 
+categories: english swedish 
 date: 2009-11-30 19:33:00 +01:00 
 wordpress_url: http://www.blay.se/?p=571 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 150 
 layout: post
 title: "En laptop som social förändring" 
+categories: english swedish 
 date: 2008-12-15 08:45:17 +01:00 
 wordpress_url: http://www.blay.se/?p=150 
 ---

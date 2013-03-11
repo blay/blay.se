@@ -2,6 +2,7 @@
 wordpress_id: 16 
 layout: post
 title: Delad naturupplevelse 
+categories: swedish 
 date: 2007-04-14 19:28:55 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/04/14/delad-naturupplevelse/ 
 ---

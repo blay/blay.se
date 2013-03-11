@@ -2,6 +2,7 @@
 wordpress_id: 138 
 layout: post
 title: "Utdrag om tågstation och flygplats" 
+categories: swedish 
 date: 2008-11-16 21:32:37 +01:00 
 wordpress_url: http://www.blay.se/?p=138 
 ---

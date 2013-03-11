@@ -2,6 +2,7 @@
 wordpress_id: 478 
 layout: post
 title: Utdrag ur kalendern 
+categories: swedish 
 date: 2009-06-11 00:33:07 +02:00 
 wordpress_url: http://www.blay.se/?p=478 
 ---

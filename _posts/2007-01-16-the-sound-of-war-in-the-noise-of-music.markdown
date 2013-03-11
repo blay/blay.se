@@ -2,6 +2,7 @@
 wordpress_id: 13 
 layout: post
 title: The Sound of War in the Noise of Music 
+categories: swedish 
 date: 2007-01-16 22:52:26 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/01/16/the-sound-of-war-in-the-noise-of-music/ 
 ---

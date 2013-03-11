@@ -2,6 +2,7 @@
 wordpress_id: 290 
 layout: post
 title: "Babianer och svarta lådor" 
+categories: swedish 
 date: 2009-03-12 15:17:31 +01:00 
 wordpress_url: http://www.blay.se/?p=290 
 ---

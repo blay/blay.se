@@ -2,6 +2,7 @@
 wordpress_id: 480 
 layout: post
 title: "Ambassadörsrapport från Moskva: Del 1" 
+categories: swedish 
 date: 2009-06-13 11:31:11 +02:00 
 wordpress_url: http://www.blay.se/?p=480 
 ---

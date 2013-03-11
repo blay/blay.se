@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lava Philosophy
+categories: english notswedish
 ---
 There has been an entertaing debate in the philosophical blogosphere recently and the battle is ones again between object-oriented philosophy and it's discontents.
 

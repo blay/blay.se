@@ -2,6 +2,7 @@
 wordpress_id: 439 
 layout: post
 title: "Uppdateringar från internets" 
+categories: swedish 
 date: 2009-05-11 23:11:13 +02:00 
 wordpress_url: http://www.blay.se/?p=439 
 ---

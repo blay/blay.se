@@ -2,6 +2,7 @@
 wordpress_id: 35 
 layout: post
 title: "Fildelningsdebattens kräftgång" 
+categories: swedish 
 date: 2008-01-22 16:11:13 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/01/22/debatt-om-fildelning-i-p1-idag-utgan/ 
 ---

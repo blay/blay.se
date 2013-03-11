@@ -2,6 +2,7 @@
 wordpress_id: 124 
 layout: post
 title: Talk like a kopimist 
+categories: swedish 
 date: 2008-09-18 11:32:13 +02:00 
 wordpress_url: http://www.blay.se/?p=124 
 ---

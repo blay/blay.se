@@ -2,6 +2,7 @@
 wordpress_id: 512 
 layout: post
 title: "Trassel och flykt: medier i Ghana" 
+categories: english swedish 
 date: 2009-07-20 14:14:20 +02:00 
 wordpress_url: http://www.blay.se/?p=512 
 ---

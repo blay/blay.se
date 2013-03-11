@@ -2,6 +2,7 @@
 wordpress_id: 284 
 layout: post
 title: Svarar ChrisK om Delanda 
+categories: english swedish 
 date: 2009-03-12 02:15:04 +01:00 
 wordpress_url: http://www.blay.se/?p=284 
 ---

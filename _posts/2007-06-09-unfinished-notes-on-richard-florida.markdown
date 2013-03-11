@@ -2,6 +2,7 @@
 wordpress_id: 24 
 layout: post
 title: Unfinished notes on Richard Florida 
+categories: english notswedish
 date: 2007-06-09 15:42:27 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/06/09/unfinished-notes-on-richard-florida-the-rise-of-the-creative-cl/ 
 ---

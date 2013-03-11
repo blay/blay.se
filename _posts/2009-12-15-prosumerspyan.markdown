@@ -2,6 +2,7 @@
 wordpress_id: 577 
 layout: post
 title: Prosumerspyan 
+categories: english swedish 
 date: 2009-12-15 11:27:12 +01:00 
 wordpress_url: http://www.blay.se/?p=577 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1025 
 layout: post
 title: Accelerationism blev realtidspadda 
+categories: swedish 
 date: 2010-09-20 22:37:01 +02:00 
 wordpress_url: http://www.blay.se/2010/09/20/accelerationism-blev-realtidspadda/
 ---

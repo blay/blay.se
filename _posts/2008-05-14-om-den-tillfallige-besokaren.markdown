@@ -2,6 +2,7 @@
 wordpress_id: 107 
 layout: post
 title: "Om den tillfällige besökaren" 
+categories: english swedish 
 date: 2008-05-14 23:28:22 +02:00 
 wordpress_url: http://www.blay.se/?p=107 
 ---

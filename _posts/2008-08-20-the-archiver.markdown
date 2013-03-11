@@ -2,6 +2,7 @@
 wordpress_id: 119 
 layout: post
 title: The Archiver 
+categories: swedish 
 date: 2008-08-20 11:20:27 +02:00 
 wordpress_url: http://www.blay.se/2008/08/20/the-archiver/ 
 ---

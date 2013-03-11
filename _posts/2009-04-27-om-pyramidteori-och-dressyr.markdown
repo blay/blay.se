@@ -2,6 +2,7 @@
 wordpress_id: 394 
 layout: post
 title: Om pyramidteori och dressyr 
+categories: english swedish 
 date: 2009-04-27 12:08:20 +02:00 
 wordpress_url: http://www.blay.se/?p=394 
 ---

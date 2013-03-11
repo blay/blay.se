@@ -2,6 +2,7 @@
 wordpress_id: 155 
 layout: post
 title: "Föreläsning - Kultur är maskiner" 
+categories: notswedish
 date: 2008-12-15 12:21:31 +01:00 
 wordpress_url: http://www.blay.se/?p=155 
 ---

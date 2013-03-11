@@ -2,6 +2,7 @@
 wordpress_id: 1026 
 layout: post
 title: "Nätet, Samhället och stora bokstäver" 
+categories: swedish 
 date: 2010-09-28 08:30:47 +02:00 
 wordpress_url: http://www.blay.se/?p=1026
 ---

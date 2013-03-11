@@ -2,6 +2,7 @@
 wordpress_id: 494 
 layout: post
 title: "Presentation in Milano: My view of Chaos and Randomness" 
+categories: english 
 date: 2009-06-20 11:00:08 +02:00 
 wordpress_url: http://www.blay.se/?p=494 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 985 
 layout: post
 title: Smitta och plattform 
+categories: english swedish 
 date: 2010-06-14 20:51:57 +02:00 
 wordpress_url: http://www.blay.se/2010/06/14/smitta-och-plattform/
 ---

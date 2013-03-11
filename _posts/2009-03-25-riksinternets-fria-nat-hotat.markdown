@@ -2,6 +2,7 @@
 wordpress_id: 351 
 layout: post
 title: "Riksinternets fria nät hotat" 
+categories: swedish 
 date: 2009-03-25 02:24:43 +01:00 
 wordpress_url: http://www.blay.se/?p=351 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 602 
 layout: post
 title: Kvasiobjekt i 2 dimensioner 
+categories: swedish 
 date: 2010-03-01 13:59:22 +01:00 
 wordpress_url: http://www.blay.se/?p=602 
 ---

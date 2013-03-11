@@ -1,7 +1,8 @@
 ---
-  layout: post
-  title: Situerad teknikutveckling (från Power of Adhocracy)
-  summary: Reflections from Power of Adhocracy seminar on situated knowledge and technology interventions.
+layout: post
+title: Situerad teknikutveckling (från Power of Adhocracy)
+categories: english swedish 
+summary: Reflections from Power of Adhocracy seminar on situated knowledge and technology interventions.
   
 ---
 

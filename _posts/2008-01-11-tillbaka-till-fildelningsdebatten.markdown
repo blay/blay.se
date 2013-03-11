@@ -2,6 +2,7 @@
 wordpress_id: 32 
 layout: post
 title: Tillbaka till fildelningsdebatten 
+categories: swedish tldr 
 date: 2008-01-11 15:54:40 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/01/11/tillbaka-till-fildelningsdebatten/ 
 ---

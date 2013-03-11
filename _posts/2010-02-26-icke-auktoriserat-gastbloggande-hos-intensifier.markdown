@@ -2,6 +2,7 @@
 wordpress_id: 600 
 layout: post
 title: "Icke-auktoriserat gästbloggande hos Intensifier" 
+categories: swedish 
 date: 2010-02-26 16:20:36 +01:00 
 wordpress_url: http://www.blay.se/?p=600 
 ---

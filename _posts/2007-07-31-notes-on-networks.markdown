@@ -2,6 +2,7 @@
 wordpress_id: 25 
 layout: post
 title: Notes on Networks 
+categories: english notswedish
 date: 2007-07-31 09:14:58 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/07/31/notes-on-networks/ 
 ---

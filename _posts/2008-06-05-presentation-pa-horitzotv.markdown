@@ -2,6 +2,7 @@
 wordpress_id: 112 
 layout: post
 title: "Presentation på horitzo.tv" 
+categories: swedish 
 date: 2008-06-05 16:54:20 +02:00 
 wordpress_url: http://www.blay.se/?p=112 
 ---

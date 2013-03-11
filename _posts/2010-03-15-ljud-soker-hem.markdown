@@ -2,6 +2,7 @@
 wordpress_id: 613 
 layout: post
 title: "Ljud söker hem" 
+categories: swedish 
 date: 2010-03-15 10:48:17 +01:00 
 wordpress_url: http://www.blay.se/?p=613 
 ---

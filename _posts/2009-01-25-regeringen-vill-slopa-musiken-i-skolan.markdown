@@ -2,6 +2,7 @@
 wordpress_id: 186 
 layout: post
 title: Regeringen vill slopa musiken i skolan 
+categories: swedish 
 date: 2009-01-25 01:08:36 +01:00 
 wordpress_url: http://www.blay.se/?p=186 
 ---

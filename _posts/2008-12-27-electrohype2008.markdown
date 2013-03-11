@@ -2,6 +2,7 @@
 wordpress_id: 162 
 layout: post
 title: Electrohype2008 
+categories: swedish 
 date: 2008-12-27 13:56:54 +01:00 
 wordpress_url: http://www.blay.se/?p=162 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 132 
 layout: post
 title: "Ny amerikansk rapport: Data mining suger" 
+categories: english swedish 
 date: 2008-10-08 11:08:08 +02:00 
 wordpress_url: http://www.blay.se/?p=132 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 496 
 layout: post
 title: "Presentation in Milan: Hackmeeting 2009" 
+categories: english swedish tldr 
 date: 2009-06-22 14:41:48 +02:00 
 wordpress_url: http://www.blay.se/?p=496 
 ---

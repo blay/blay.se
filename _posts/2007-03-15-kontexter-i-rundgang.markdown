@@ -2,6 +2,7 @@
 wordpress_id: 15 
 layout: post
 title: "Kontexter i rundgång" 
+categories: english swedish 
 date: 2007-03-15 21:56:16 +01:00 
 wordpress_url: http://fadetogrey.wordpress.com/2007/03/15/kontexter-i-rundgang/ 
 ---

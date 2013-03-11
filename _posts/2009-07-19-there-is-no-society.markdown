@@ -2,6 +2,7 @@
 wordpress_id: 508 
 layout: post
 title: There is no society 
+categories: english swedish 
 date: 2009-07-19 13:13:13 +02:00 
 wordpress_url: http://www.blay.se/?p=508 
 ---

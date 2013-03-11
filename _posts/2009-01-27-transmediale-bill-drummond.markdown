@@ -2,6 +2,7 @@
 wordpress_id: 193 
 layout: post
 title: Transmediale - Bill Drummond 
+categories: english swedish 
 date: 2009-01-27 15:55:34 +01:00 
 wordpress_url: http://www.blay.se/?p=193 
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 503 
 layout: post
 title: Teorias Del Caos 
+categories: english notswedish
 date: 2009-06-27 21:33:22 +02:00 
 wordpress_url: http://www.blay.se/?p=503 
 ---

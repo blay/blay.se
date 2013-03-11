@@ -2,6 +2,7 @@
 wordpress_id: 127 
 layout: post
 title: Panspektronism skapar inte subjektiviteter 
+categories: swedish 
 date: 2008-10-01 19:20:03 +02:00 
 wordpress_url: http://www.blay.se/?p=127 
 ---

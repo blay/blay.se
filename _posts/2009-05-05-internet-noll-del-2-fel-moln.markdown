@@ -2,6 +2,7 @@
 wordpress_id: 425
 layout: post
 title: Internet noll - Del 2. Fel moln!
+categories: english swedish tldr 
 date: 2009-05-05 13:11:31 +02:00
 wordpress_url: http://www.blay.se/?p=425
 ---

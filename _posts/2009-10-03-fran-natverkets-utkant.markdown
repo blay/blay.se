@@ -2,6 +2,7 @@
 wordpress_id: 555 
 layout: post
 title: "Från nätverkets utkant" 
+categories: swedish 
 date: 2009-10-03 16:47:05 +02:00 
 wordpress_url: http://www.blay.se/?p=555 
 ---

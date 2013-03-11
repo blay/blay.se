@@ -2,6 +2,7 @@
 wordpress_id: 121 
 layout: post
 title: Teleskopisk text 
+categories: swedish 
 date: 2008-08-21 12:38:36 +02:00 
 wordpress_url: http://www.blay.se/?p=121 
 ---

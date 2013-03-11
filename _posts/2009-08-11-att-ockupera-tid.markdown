@@ -2,6 +2,7 @@
 wordpress_id: 547 
 layout: post
 title: Att ockupera tid 
+categories: swedish 
 date: 2009-08-11 10:52:49 +02:00 
 wordpress_url: http://www.blay.se/?p=547 
 ---

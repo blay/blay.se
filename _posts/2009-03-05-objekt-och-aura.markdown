@@ -2,6 +2,7 @@
 wordpress_id: 261 
 layout: post
 title: Objekt och aura 
+categories: swedish 
 date: 2009-03-05 20:13:43 +01:00 
 wordpress_url: http://www.blay.se/?p=261 
 ---

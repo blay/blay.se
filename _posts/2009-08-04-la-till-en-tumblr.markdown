@@ -2,6 +2,7 @@
 wordpress_id: 536 
 layout: post
 title: La till en Tumblr 
+categories: swedish 
 date: 2009-08-04 00:15:49 +02:00 
 wordpress_url: http://www.blay.se/?p=536 
 ---

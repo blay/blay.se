@@ -2,6 +2,7 @@
 wordpress_id: 144 
 layout: post
 title: "Skillnad på nätverksägare och hundägare" 
+categories: swedish 
 date: 2008-11-27 12:35:37 +01:00 
 wordpress_url: http://www.blay.se/?p=144 
 ---

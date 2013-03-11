@@ -2,6 +2,7 @@
 wordpress_id: 125 
 layout: post
 title: Wayne Gretzky som signalspanare 
+categories: english swedish 
 date: 2008-10-01 01:32:42 +02:00 
 wordpress_url: http://www.blay.se/?p=125 
 ---

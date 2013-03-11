@@ -2,6 +2,7 @@
 wordpress_id: 41 
 layout: post
 title: Ett ackompanjemang till Good Old 
+categories: swedish 
 date: 2008-04-10 13:59:55 +02:00 
 wordpress_url: http://fadetogrey.wordpress.com/2008/04/10/ett-ackompanjemang-till-good-old/ 
 ---

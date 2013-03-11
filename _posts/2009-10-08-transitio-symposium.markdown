@@ -2,6 +2,7 @@
 wordpress_id: 560 
 layout: post
 title: Transitio symposium 
+categories: english tldr notswedish
 date: 2009-10-08 21:30:12 +02:00 
 wordpress_url: http://www.blay.se/?p=560 
 ---

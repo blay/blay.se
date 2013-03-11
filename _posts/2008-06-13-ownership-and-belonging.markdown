@@ -2,6 +2,7 @@
 wordpress_id: 113 
 layout: post
 title: Ownership and Belonging 
+categories: english swedish tldr 
 date: 2008-06-13 20:59:12 +02:00 
 wordpress_url: http://www.blay.se/?p=113 
 ---

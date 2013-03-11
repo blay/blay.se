@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hot Line Riot 17 September 1982
+categories: english tldr notswedish
 summary: On September 17th 1982 a thousand young people gathered in the Rålambshovs park in Stockholm seemingly without purpose. The police attacked the crowd which threw stones back at them. Afterwards it was suggested that a bug in the phone system -- "The Hot Line" -- was responsible for the riot. 30 years later, it's time to give this event its proper place in the history of net politics.  
 ---
 
@@ -84,7 +85,7 @@ Svenska dagbladet notes that this was not the only event of its kind with a shor
 
 Also Expressen acknowledges that it was a messy weekend. Youths have been seen "flipping over cars, breaking windows and burning election posters in Stockholm City". At a rock concert in Sergels Torg (the central square) the youths gathered posters and set them on fire. When the police came to arrest them their friends attacked and tried to free them ([EX820920](http://files.blay.se/hetalinjen/.820920-Expressen-59.jpg)). The youths acted as if possessed by something...
 
-After the initital reactions the news about the incident drown in two major events. On  Sunday, the headlines are covered by [the massacres in Sabra och Shantila](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) in Lebanon that cost almost 1000 lives. On Monday, the news flow is dominated by [the electoral victory of Olof Palme](http://files.blay.se/hetalinjen/.820920-Expressen-1.jpg)  that marks the end of the Social Democrats six years as an opposition party.
+After the initital reactions the news about the incident drown in two major events. On  Sunday, the headlines are covered by [the massacres in Sabra and Shantila](http://files.blay.se/hetalinjen/.820919-DN-1.jpg) in Lebanon that cost almost 1000 lives. On Monday, the news flow is dominated by [the electoral victory of Olof Palme](http://files.blay.se/hetalinjen/.820920-Expressen-1.jpg)  that marks the end of the Social Democrats six years as an opposition party.
 
 
 ## The Establishment of an Official Line

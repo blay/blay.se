@@ -2,6 +2,7 @@
 wordpress_id: 619 
 layout: post
 title: Fighting the 3D Reptiles 
+categories: english tldr notswedish
 date: 2010-03-31 13:30:30 +02:00 
 wordpress_url: http://www.blay.se/?p=619 
 ---

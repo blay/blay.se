@@ -2,6 +2,7 @@
 wordpress_id: 117 
 layout: post
 title: "RIAA tillfälligt stängt muxtape.com" 
+categories: swedish 
 date: 2008-08-20 11:10:50 +02:00 
 wordpress_url: http://www.blay.se/?p=117 
 ---

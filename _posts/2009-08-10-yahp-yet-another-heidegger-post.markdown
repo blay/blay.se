@@ -2,6 +2,7 @@
 wordpress_id: 544 
 layout: post
 title: YAHP (Yet Another Heidegger Post) 
+categories: english swedish 
 date: 2009-08-10 23:16:40 +02:00 
 wordpress_url: http://www.blay.se/?p=544 
 ---

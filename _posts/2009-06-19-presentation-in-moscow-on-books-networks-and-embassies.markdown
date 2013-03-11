@@ -2,6 +2,7 @@
 wordpress_id: 484 
 layout: post
 title: Presentation in Moscow on books, networks and embassies 
+categories: english tldr notswedish
 date: 2009-06-19 18:45:05 +02:00 
 wordpress_url: http://www.blay.se/?p=484 
 ---

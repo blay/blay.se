@@ -2,6 +2,7 @@
 wordpress_id: 208 
 layout: post
 title: "Transmediale: Shuffle = Terror" 
+categories: swedish 
 date: 2009-01-30 14:42:01 +01:00 
 wordpress_url: http://www.blay.se/?p=208 
 ---
