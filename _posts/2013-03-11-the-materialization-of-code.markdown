@@ -5,7 +5,7 @@ categories: english notswedish research tldr
 summary: Paper about the materiality of computer code
 ---
 
-*This is a translation of a paper I write for a PhD course on theories of materiality*
+*This is a translation of a paper I wrote for a PhD course on theories of materiality*
 
 * toc
 {:toc}
