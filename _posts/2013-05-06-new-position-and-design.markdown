@@ -2,7 +2,7 @@
 layout: post
 title: New Position and Design
 categories: english research
-summary: "I have a new research position and the blog has a new design"
+summary: I have a new research position and the blog has a new design
 ---
 
 As you might or might not have noticed, this blog has a new design and will also have English as its mail language from now on. The reason being that I have embarked on a Phd whose topic will be the main focus here now. The Phd is in a joint program between Lund University and University of Macerata, Italy, which is why it will be written in English. 
