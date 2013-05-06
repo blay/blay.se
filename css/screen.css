@@ -281,6 +281,10 @@ footer {
     margin-top: 10px;
 }
 
+#search {
+	float:right;
+}
+
 /* classes */
 
 .header {
