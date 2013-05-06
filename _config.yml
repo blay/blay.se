@@ -27,3 +27,21 @@ transfer:
   source: _site/
   destination: monki@blay.se:www/blay.se/www/
   destination_dev: monki@blay.se:www/dev.blay.se/www/
+
+# Jekyll-scholar
+
+scholar:
+ style: apa
+ locale: en
+
+ sort_by: none
+ order: ascending
+
+ source: ./_bibliography
+ bibliography: library.bib
+
+ details_dir:    bibliography
+ details_layout: bibtex.html
+ details_link:   Details
+
+ query: "@*"
