@@ -118,7 +118,7 @@ task :all => ["push", "transfer"]
 
 
 desc 'Build, Push, Transfer Dev'
-task :all => ["pushdev", "transferdev"]
+task :alldev => ["pushdev", "transferdev"]
 
 #######################
 # Working with Jekyll #
@@ -250,8 +250,8 @@ task :np do
 	  File.open(path, "w") do |file|
 		 file.puts YAML.dump({'layout' => 'post', 'title' => title, 'categories' => 'english notswedish research tldr', 'summary' => ''})
 	     file.puts "---"
-	  end	  
-  end	            
+	  end
+  end
   `subl #{path}`
 
   exit 1
