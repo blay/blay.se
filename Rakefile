@@ -253,6 +253,6 @@ task :np do
 	  end
   end
   `subl #{path}`
-
+  `rm -f #{path}`
   exit 1
 end
