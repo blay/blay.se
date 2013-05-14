@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: a travellers report
+title: A Travellers Report
 categories: english notswedish
 summary: "Reflection of coming to a new place"
 ---
@@ -20,3 +20,6 @@ You can understand then that this is a perfect place for me right now. It is a p
 The only thing that really gets to me now is this thing with avocados. They don't eat them in Italy?
 
 ***Update: Now I learned that an avocado in Italy is a lawyer...***
+
+![room](/img/room.jpg)
+![view](/img/view.jpg)
