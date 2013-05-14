@@ -2,7 +2,7 @@
 wordpress_id: 1009 
 layout: post
 title: "Accelerationism II"
-categories: swedish 
+categories: swedish tldr
 summary: Resan mot den kosmiska schizofrenin 
 date: 2010-09-17 07:43:44 +02:00 
 wordpress_url: http://www.blay.se/?p=1009
