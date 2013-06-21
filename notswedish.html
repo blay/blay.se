@@ -16,7 +16,7 @@ priority: 1.0
    at Lund University
    / University of Macerata,
    <br>
-   researcher at 
+   researcher at
    <a href="https://www.tii.se/people/magnus-eriksson">The Interactive Institute</a>
    <br>
    and member of
@@ -26,7 +26,18 @@ priority: 1.0
 </div>
 
 <h1>Posts</h1>
-<h4>| <a href="/">All posts</a> | <a href="/notswedish.html">Non-swedish posts</a> | <a href="/tldr.html">Long posts</a> |</h4>
+
+<h4>| <a href="/all.html">All posts</a> | <a href="/notswedish.html">Non-swedish posts</a> | <a href="/tldr.html">Long posts</a> |
+  <form id="search" method="get" action="http://www.google.com/search">
+
+      <input class="text" type="text" name="q" />
+
+      <input type="hidden" name="sitesearch" value="blay.se" />
+
+      <input class="button" type="submit" value="Sök" />
+    </form>
+  </h4>
+
 <ul class="listing">
     {% for post in site.categories.notswedish %}
       <li>
