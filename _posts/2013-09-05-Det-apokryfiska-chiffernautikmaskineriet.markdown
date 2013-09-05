@@ -2,7 +2,7 @@
 layout: post
 title: Det apokryfiska chiffernautikmaskineriet
 summary: Översättning av Telecomix-texten The Apocryphal Machinery of Ciphernautics
-categories: swedish
+categories: swedish tldr
 ---
 
 *Insåg att jag inte bloggat sen i juni och panikpostar därför detta. Det är en fulöversättning av Telecomix-texten [The Apocryphal Machinery of Ciphernautics](The Apocryphal Machinery of Ciphernautics) gjord lagom till Korpen Koloni:s släpp av [Den cybernetiska hypotesen](http://korpenkoloni.se/aktuellt.html). Det är en i mångt och mycket fantastisk och vansinnig text. Håll till godo!*
