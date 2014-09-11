@@ -44,3 +44,18 @@ scholar:
  details_link:   Details
 
  query: "@*"
+
+# Pandoc multiple formats
+
+gems: [ 'jekyll-pandoc-multiple-formats' ]
+
+pandoc:
+  skip: false
+  impose: true
+  output: ./tmp
+  flags: '-F pandoc-zotxt -F pandoc-citeproc --csl=/Users/svartfax/Dropbox/bibtex/apa-no-doi.csl'
+  site_flags: '--toc'
+  outputs:
+    pdf: '--latex-engine=latex'
+    epub:
+    markdown:
