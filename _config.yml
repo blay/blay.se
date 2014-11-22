@@ -4,7 +4,7 @@ source:         .
 destination:    ./_site
 includes:       ./_includes
 highlights:     pygments
-markdown:       kramdown
+markdown:       pandoc
 permalink:      /:year/:month/:day/:title
 
 name: 	        blay.se
@@ -27,20 +27,10 @@ transfer:
   destination: monki@blay.se:www/blay.se/www/
   destination_dev: monki@blay.se:www/dev.blay.se/www/
 
-# Jekyll-scholar
+# Pandoc
 
-scholar:
- style: apa
- locale: en
-
- sort_by: none
- order: ascending
-
- source: ./_bibliography
- bibliography: library.bib
-
- details_dir:    bibliography
- details_layout: bibtex.html
- details_link:   Details
-
- query: "@*"
+pandoc:
+    extensions:
+        filter: 'pandoc-zotxt'
+        filter: 'pandoc-citeproc'
+        csl: '/Users/svartfax/Dropbox/bibtex/apa-no-doi.csl'
